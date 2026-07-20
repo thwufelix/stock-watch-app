@@ -4,6 +4,7 @@ import Dashboard from "./pages/Dashboard.jsx";
 import StockDetail from "./pages/StockDetail.jsx";
 import Portfolio from "./pages/Portfolio.jsx";
 import IndustryChain from "./pages/IndustryChain.jsx";
+import SegmentDetail from "./pages/SegmentDetail.jsx";
 import Settings from "./pages/Settings.jsx";
 import BottomNav from "./components/BottomNav.jsx";
 
@@ -19,6 +20,7 @@ export default function App() {
             <Route path="/stock/:code" element={<StockDetail />} />
             <Route path="/portfolio" element={<Portfolio />} />
             <Route path="/industry" element={<IndustryChain />} />
+            <Route path="/industry/:chainId/:segmentId" element={<SegmentDetail />} />
             <Route path="/settings" element={<Settings />} />
           </Routes>
         </main>

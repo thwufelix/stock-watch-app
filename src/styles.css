@@ -256,6 +256,81 @@ input[type="number"] {
   line-height: 1.6;
 }
 
+/* 產業鏈流程圖卡片 */
+.flow-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.flow-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px 16px;
+  transition: border-color 0.15s;
+}
+.flow-card:active,
+.flow-card:hover {
+  border-color: var(--accent);
+}
+.flow-card-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.flow-step {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: rgba(56, 189, 248, 0.15);
+  color: var(--accent);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+.flow-name {
+  font-size: 16px;
+  font-weight: 700;
+  flex: 1;
+}
+.flow-count {
+  font-size: 12px;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+.flow-more {
+  display: block;
+  margin-top: 8px;
+  font-size: 12px;
+  color: var(--accent);
+}
+.flow-arrow {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 14px;
+  padding: 4px 0;
+}
+
+.neighbor-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 15px;
+}
+.neighbor-row:last-child {
+  border-bottom: none;
+}
+.neighbor-label {
+  font-size: 13px;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
 .holding-row {
   display: grid;
   grid-template-columns: 1fr 90px 32px;

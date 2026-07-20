@@ -24,3 +24,15 @@ export function getSegmentForCode(code) {
 export function getIndustryChains() {
   return industryData.chains;
 }
+
+// 依股票代號在產業鏈資料庫中找公司名稱（找不到時回傳 null）
+export function getCompanyName(code) {
+  for (const chain of industryData.chains) {
+    for (const segment of chain.segments) {
+      for (const company of segment.companies) {
+        if (company.code === code) return company.name;
+      }
+    }
+  }
+  return null;
+}
