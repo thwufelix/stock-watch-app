@@ -1,0 +1,54 @@
+name: 建置並部署到 GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 安裝套件
+        run: npm ci
+
+      - name: 建置網站
+        run: npm run build
+        env:
+          # 部署到 https://<帳號>.github.io/<repo名稱>/，base path 需要對應 repo 名稱
+          VITE_BASE_PATH: /${{ github.event.repository.name }}/
+          # VAPID 公鑰不是密碼，可以放心嵌入前端程式碼
+          VITE_VAPID_PUBLIC_KEY: ${{ secrets.VAPID_PUBLIC_KEY }}
+
+      - name: 上傳建置結果
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

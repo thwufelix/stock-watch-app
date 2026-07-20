@@ -1,0 +1,51 @@
+name: 更新股市資料並推播通知
+
+on:
+  schedule:
+    # 06:30 UTC = 台北時間 14:30，台股收盤後執行一次。
+    # cron 語法都是 UTC 時間，若想改時間請自行換算（台北 = UTC+8）。
+    - cron: "30 6 * * 1-5"
+  workflow_dispatch: {} # 允許在 GitHub 網頁上手動點擊執行，方便測試
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 安裝套件
+        run: npm ci
+
+      - name: 抓取股價資料
+        run: npm run worker:fetch-stock
+
+      - name: 抓取新聞資料
+        run: npm run worker:fetch-news
+
+      - name: 分析風險與走向
+        run: npm run worker:analyze
+
+      - name: 推播通知（未設定金鑰時會自動略過）
+        run: npm run worker:send-push
+        env:
+          VAPID_PUBLIC_KEY: ${{ secrets.VAPID_PUBLIC_KEY }}
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          VAPID_SUBJECT: ${{ secrets.VAPID_SUBJECT }}
+          SITE_URL: ${{ vars.SITE_URL }}
+
+      - name: 提交更新後的資料
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data worker/subscriptions
+          git diff --cached --quiet || git commit -m "chore: 自動更新股市資料 [skip ci]"
+          git push

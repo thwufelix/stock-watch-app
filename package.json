@@ -1,0 +1,28 @@
+{
+  "name": "stock-watch-app",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "台股監測 PWA：簡化風險燈號、產業鏈分工、新聞推播提醒",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "worker:fetch-stock": "node worker/fetchStockData.js",
+    "worker:fetch-news": "node worker/fetchNews.js",
+    "worker:analyze": "node worker/analyze.js",
+    "worker:send-push": "node worker/sendPush.js",
+    "worker:run-all": "npm run worker:fetch-stock && npm run worker:fetch-news && npm run worker:analyze && npm run worker:send-push"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0",
+    "web-push": "^3.6.7",
+    "rss-parser": "^3.13.0"
+  }
+}
