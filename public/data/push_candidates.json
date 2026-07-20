@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "code": "2330",
+    "name": "台積電",
+    "lastClose": 2290,
+    "lastDate": "2026-07-20",
+    "changePct": null,
+    "riskTier": "unknown",
+    "riskReason": "目前只累積了 1 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+    "trend": "unknown",
+    "trendReason": "資料還在累積中（目前 1 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+    "segment": {
+      "chainId": "semiconductor",
+      "chainName": "半導體產業鏈",
+      "segmentId": "foundry",
+      "segmentName": "晶圓代工"
+    },
+    "news": [
+      {
+        "title": "成熟製程、被動遭血洗！ 台積電、鴻海硬撐 台股收跌221點 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOSHNXbWJvNHowUVJoU1ZwRkp1NHVMd0lxb2dyb2VFU01femF0elBkZ3NqV1pXVTE4R092eWs4bmF5X3UzNnlvWnNqZ2Z0MTVsU2plRlo1dDhJRWQ1R3BwSGRMUDAtekhlLUMzZGFzZlNSai0yVDY4V2JKa1FYdHVXY3hXTW5KMEtJTWVMSHF3NDRjdnFneVllLTRGOHpRQmVuWVFSNUJ1QkN5UC1VU3hyV3NZeWJTMHgxeVZUM3VVcFM2c2ZpMVIxRVhGQ29CbnoyaVhiZVlFU3BKSTRURWw1WXFSaHF0VUtVSUh0bDFEYXRoeEV1RDlkME53dUktSmxSdEtoNEtGT0F4cDVWUHdXSjZaNHkzU3NwTmoxSF9vdnVUX3ZuM1JXc3RMMGREZmRBMmMyeGpPNzRYMzBReER3QW5tcllhcXhWcDd2VE9IVzFqNzA2eW9acVR6c1A3ckpC?oc=5",
+        "publishedAt": "Mon, 20 Jul 2026 06:05:51 GMT",
+        "source": null
+      },
+      {
+        "title": "台積電上榜！分析師點名「3檔回檔股」可逆勢投資的買點曝光 - 自由財經",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JcmU0VDJ1bzdianhPYk4zNngyME5sNkozcjA2dFRfVVBBcFZxSkxqeGpCZkM2ZlI3dV81ZDhsMUg2V3k5V3dVam5FQlZvRVdnUkFWeEh6UTJOWDlYWGd30gFkQVVfeXFMTkhtMkVCYmRGMkp6dE9jNzlVSnoyb1p2R2R3MjV3QlhrZXd6eFlQT3BEdGJ2bl9fSWMzQWdLVV9nMExmRVNTWHg4SVNjbnU2R0tURFY5UXZfOUlfUlZoYnlNUWdTWA?oc=5",
+        "publishedAt": "Mon, 20 Jul 2026 02:03:24 GMT",
+        "source": null
+      },
+      {
+        "title": "「台積電跌下來」是進場訊號？吳嘉隆：就是給你買的 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOckhxMlUzM25LVF9BUW85d0NtN29FTDZmcktwWklNVF9maVJ2d0pPUExudjRiYy1xOExuRV9raTlkSERDXzhIUGRsVmlPbXFERWtLcEc2U2huV29wbGswMXdSN0g2V2MycGJybC0yeWNUeUJXYzRTbnFiNzZlWVBPTnBjSHZuOGtCQmY4ZVNZTVMwZDJPc0puZFU1N2NLbDhsa2pZMlJJak1ET0dZMzdJN2JpcE50WEtkMFo3WDNJUDhHZWpwLXItWnkwMlEza3BzODRwdzc5Y0NsZDF2SS13RWgwS0RqLWdDcDNwS09ROHZoLVZMbnJ3Y09HV0dNeWxUcHg5eFJQcU9ucEhNZk5sdW95VllyN0E2cnVNMzFmVlI1RkxVNkNucXhFb2JIMXNoY1Q3U25VZHhRUnhmVGxUcXBWN3ZLNGNTYXJJRGo4cw?oc=5",
+        "publishedAt": "Mon, 20 Jul 2026 04:28:28 GMT",
+        "source": null
+      },
+      {
+        "title": "台積電法說會後股價總是跌？ 股民崩潰喊「根本大型法會」：AI泡泡要破了嗎 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOTTNZOW9QLXVqRXFhRjc0RFRKRXZFdnVxMVczX1BBTmhaQ3hiSF9VbUNwcURkN3l6X0VYa09CZl9qWUpCaURPZVlQTGdPY2VzX2pQWHhQNXdPN2FXSE9hR0VRVVlReGZoaXhSVFpwSDZRUlBZaDRSb3F4UEMtZk5zSndPX2Y4a3E4T0FGWDhhYWNxcmtPRjNheGpGWWkwQ1RyR2lSVjh3T3NmcWUwQm5iNnZTNi1PY1pwU1JaZlBFaEFFZWl3eTlXbDUzajFZc0t3UWMzaGtEaEp0UnFyTU5QazBIeGJ0MnEtdDk4bUhuckVrek40MjA1RTluUDZmSGp0WFNpV015cFpHWTdZVDM4cWJ0MDBsWjgzNGs3RjM1aDlDTG9rS0dPbWx1bUlSODBPckMtemZYS1p3b25mMzNqUU5WazNYZlp1MXVISGtaM2hmT0RKaTFYa3JDTy15RFQybkw0R213LXlqOEJJRk14X3o2UnBaZ05GWkFCMnpkQjNiRmp1WVVUdTRueDhINDdXX3hTWkw4b3dKZnNDRlRVSHFuVWFDa3k1VDZGdDJNWkprZnR3TFpVUHNSVXRhdw?oc=5",
+        "publishedAt": "Sun, 19 Jul 2026 03:30:58 GMT",
+        "source": null
+      }
+    ],
+    "attentionScore": 3,
+    "attentionReasons": [
+      "近期有 4 則相關新聞",
+      "新聞含重大字眼，建議留意"
+    ]
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "lastClose": 794,
+    "lastDate": "2026-07-20",
+    "changePct": null,
+    "riskTier": "unknown",
+    "riskReason": "目前只累積了 1 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+    "trend": "unknown",
+    "trendReason": "資料還在累積中（目前 1 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+    "segment": {
+      "chainId": "semiconductor",
+      "chainName": "半導體產業鏈",
+      "segmentId": "substrate",
+      "segmentName": "載板與導線架"
+    },
+    "news": [
+      {
+        "title": "AI需求旺到爆！欣興6月營收再飆新高 獲大摩高喊1465元目標價續看多 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOQUthTEs1NnNjbFh0MGI5YUJuNEtIUC1rSFZwdVV5dXhaVjNjQ3FzSFMtRW9SV2ZzOS1YM1hrNnRkbzJpQldBWHFWemRGWWhMcmptQzBiVjZvbkRtQmttdVhIOW5tNm9WbFhNMXNsMUJIYjh5ZWRheGhzUXBSaVFTbTB1Q08tenVEbnQ5X091VDM0QjRyN1hkdlo5WllvUjVEVUk4WW0tYlVkR2VqNDBuTms3Y2dHc3JoeVROYjM1QnpTb1VmS21sdHVLMVF3WDlBZE1SUDB3U0VSLWZENllqOWl4OTdZbmszdWx1N0gxSHRhSGFic1JKRnZuWF9VbWVJMGFSN0NqS2c0bGhwRm56UlQ0VHBVdlFfWjV1ek9pTUdDcDBQVGcxdXZ2amkzMUVIb3oxa2RUMmhWYkRhcmdjMXQ0YkhuYXluMkd0NHhobnBtNl9TVDlmel9MQkxTaVZ3RTNvOHQ4TWUyT1ZHR1kxTHpkTGp1bUJ1ai12VlMxRmxWZHpmUXFGQVFfZUZEaUlGQmh0VDhLcWsyV1JPR0Y0?oc=5",
+        "publishedAt": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "source": null
+      },
+      {
+        "title": "3037 欣興- 欣興更正本公司115年6月背書保證資訊揭露- 股市爆料同學會 - CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xN0dqU1pZTVlhZHBOQXRPcDFRNmwydGF5cXhwRmc5OEFhMGNCbkhGSDNjSERjSGM2NF9iYmphZHgzaFlTQTltc0pDLUhPLWtYRU5ELUE4aVQ?oc=5",
+        "publishedAt": "Mon, 20 Jul 2026 10:39:35 GMT",
+        "source": null
+      },
+      {
+        "title": "拉積盤盡力了！台股驚天劇震1,116點仍收黑「國巨、欣興跌勢煞不住」法人透露中期築底下看4萬1 - 上市櫃 - 旺得富理財網",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TZXF3WGhEcVUxVWNjY3dVQU1Ba3MzYm1NMlMtQ21NeGxPRFVDUjVrcXp5bW1oellweE5hbUhSYzl1WTFBdWs3UWQ5UHFRQmgweEk2SHBlMzhpaDZXVEZNd3pXR2dVbVhZdUE?oc=5",
+        "publishedAt": "Mon, 20 Jul 2026 06:22:57 GMT",
+        "source": null
+      },
+      {
+        "title": "Factset 最新調查：欣興(3037-TW)EPS預估上修至15.43元，預估目標價為1140元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Fb29zUHkzVktFVXFuUjVQSHVaZENkaVllbGdEZExZeGVDTnlmZl9FU21OWVh3VlBvRUJtam1pLUxpUkNqWkNNeWRHRDJ4cDlGc044anM1Q21HSXBPTFBXVF9LSEh5NGtBYWF3RE9PbDRFZlY5RFE?oc=5",
+        "publishedAt": "Sun, 19 Jul 2026 11:11:00 GMT",
+        "source": null
+      }
+    ],
+    "attentionScore": 3,
+    "attentionReasons": [
+      "近期有 3 則相關新聞",
+      "新聞含重大字眼，建議留意"
+    ]
+  }
+]
