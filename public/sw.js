@@ -1,13 +1,14 @@
-// Service Worker：負責 (1) 基本離線快取 (2) 接收並顯示推播通知
-// 這個檔案會被部署到網站根目錄，瀏覽器會在背景執行它，即使 App 沒開著也能收到通知。
+// Service Worker：負責 (1) 離線快取 (2) 接收並顯示推播通知
+// 快取策略說明：
+//   - HTML（頁面本身）採「網路優先」：每次都先抓最新版，抓不到才用快取。
+//     這很重要——因為每次重新部署後 JS/CSS 檔名都會改變，如果 HTML 用舊快取，
+//     會指向已不存在的舊檔案而導致整頁空白。
+//   - 其他資源（JS/CSS/圖示/資料 JSON）採「網路優先 + 成功後寫入快取」，
+//     離線時才退回快取版本。
 
-const CACHE_NAME = "stock-watch-cache-v1";
-const CORE_ASSETS = ["./", "./index.html", "./manifest.json"];
+const CACHE_NAME = "stock-watch-cache-v2"; // 改版時把版本號 +1，舊快取會自動清除
 
 self.addEventListener("install", (event) => {
-  event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => cache.addAll(CORE_ASSETS)).catch(() => {})
-  );
   self.skipWaiting();
 });
 
@@ -22,8 +23,26 @@ self.addEventListener("activate", (event) => {
 
 self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") return;
+
   event.respondWith(
-    caches.match(event.request).then((cached) => cached || fetch(event.request).catch(() => cached))
+    fetch(event.request)
+      .then((response) => {
+        // 抓成功：更新快取，供離線時使用
+        if (response && response.ok) {
+          const copy = response.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy)).catch(() => {});
+        }
+        return response;
+      })
+      .catch(() =>
+        // 離線或抓失敗：退回快取
+        caches.match(event.request).then((cached) => {
+          if (cached) return cached;
+          // 導航請求連快取都沒有時，退回首頁快取
+          if (event.request.mode === "navigate") return caches.match("./index.html");
+          return Response.error();
+        })
+      )
   );
 });
 
@@ -33,7 +52,6 @@ self.addEventListener("push", (event) => {
   try {
     if (event.data) payload = { ...payload, ...event.data.json() };
   } catch (e) {
-    // 若推播內容不是 JSON，就用純文字當內文
     if (event.data) payload.body = event.data.text();
   }
 
