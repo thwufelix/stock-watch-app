@@ -1,62 +1,14 @@
 [
   {
-    "code": "2330",
-    "name": "台積電",
-    "lastClose": 2290,
-    "lastDate": "2026-07-20",
-    "changePct": null,
-    "riskTier": "unknown",
-    "riskReason": "目前只累積了 1 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
-    "trend": "unknown",
-    "trendReason": "資料還在累積中（目前 1 個交易日），累積滿 20 個交易日後就能提供走向參考。",
-    "segment": {
-      "chainId": "semiconductor",
-      "chainName": "半導體產業鏈",
-      "segmentId": "foundry",
-      "segmentName": "晶圓代工"
-    },
-    "news": [
-      {
-        "title": "成熟製程、被動遭血洗！ 台積電、鴻海硬撐 台股收跌221點 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOSHNXbWJvNHowUVJoU1ZwRkp1NHVMd0lxb2dyb2VFU01femF0elBkZ3NqV1pXVTE4R092eWs4bmF5X3UzNnlvWnNqZ2Z0MTVsU2plRlo1dDhJRWQ1R3BwSGRMUDAtekhlLUMzZGFzZlNSai0yVDY4V2JKa1FYdHVXY3hXTW5KMEtJTWVMSHF3NDRjdnFneVllLTRGOHpRQmVuWVFSNUJ1QkN5UC1VU3hyV3NZeWJTMHgxeVZUM3VVcFM2c2ZpMVIxRVhGQ29CbnoyaVhiZVlFU3BKSTRURWw1WXFSaHF0VUtVSUh0bDFEYXRoeEV1RDlkME53dUktSmxSdEtoNEtGT0F4cDVWUHdXSjZaNHkzU3NwTmoxSF9vdnVUX3ZuM1JXc3RMMGREZmRBMmMyeGpPNzRYMzBReER3QW5tcllhcXhWcDd2VE9IVzFqNzA2eW9acVR6c1A3ckpC?oc=5",
-        "publishedAt": "Mon, 20 Jul 2026 06:05:51 GMT",
-        "source": null
-      },
-      {
-        "title": "台積電上榜！分析師點名「3檔回檔股」可逆勢投資的買點曝光 - 自由財經",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JcmU0VDJ1bzdianhPYk4zNngyME5sNkozcjA2dFRfVVBBcFZxSkxqeGpCZkM2ZlI3dV81ZDhsMUg2V3k5V3dVam5FQlZvRVdnUkFWeEh6UTJOWDlYWGd30gFkQVVfeXFMTkhtMkVCYmRGMkp6dE9jNzlVSnoyb1p2R2R3MjV3QlhrZXd6eFlQT3BEdGJ2bl9fSWMzQWdLVV9nMExmRVNTWHg4SVNjbnU2R0tURFY5UXZfOUlfUlZoYnlNUWdTWA?oc=5",
-        "publishedAt": "Mon, 20 Jul 2026 02:03:24 GMT",
-        "source": null
-      },
-      {
-        "title": "「台積電跌下來」是進場訊號？吳嘉隆：就是給你買的 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOckhxMlUzM25LVF9BUW85d0NtN29FTDZmcktwWklNVF9maVJ2d0pPUExudjRiYy1xOExuRV9raTlkSERDXzhIUGRsVmlPbXFERWtLcEc2U2huV29wbGswMXdSN0g2V2MycGJybC0yeWNUeUJXYzRTbnFiNzZlWVBPTnBjSHZuOGtCQmY4ZVNZTVMwZDJPc0puZFU1N2NLbDhsa2pZMlJJak1ET0dZMzdJN2JpcE50WEtkMFo3WDNJUDhHZWpwLXItWnkwMlEza3BzODRwdzc5Y0NsZDF2SS13RWgwS0RqLWdDcDNwS09ROHZoLVZMbnJ3Y09HV0dNeWxUcHg5eFJQcU9ucEhNZk5sdW95VllyN0E2cnVNMzFmVlI1RkxVNkNucXhFb2JIMXNoY1Q3U25VZHhRUnhmVGxUcXBWN3ZLNGNTYXJJRGo4cw?oc=5",
-        "publishedAt": "Mon, 20 Jul 2026 04:28:28 GMT",
-        "source": null
-      },
-      {
-        "title": "台積電法說會後股價總是跌？ 股民崩潰喊「根本大型法會」：AI泡泡要破了嗎 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOTTNZOW9QLXVqRXFhRjc0RFRKRXZFdnVxMVczX1BBTmhaQ3hiSF9VbUNwcURkN3l6X0VYa09CZl9qWUpCaURPZVlQTGdPY2VzX2pQWHhQNXdPN2FXSE9hR0VRVVlReGZoaXhSVFpwSDZRUlBZaDRSb3F4UEMtZk5zSndPX2Y4a3E4T0FGWDhhYWNxcmtPRjNheGpGWWkwQ1RyR2lSVjh3T3NmcWUwQm5iNnZTNi1PY1pwU1JaZlBFaEFFZWl3eTlXbDUzajFZc0t3UWMzaGtEaEp0UnFyTU5QazBIeGJ0MnEtdDk4bUhuckVrek40MjA1RTluUDZmSGp0WFNpV015cFpHWTdZVDM4cWJ0MDBsWjgzNGs3RjM1aDlDTG9rS0dPbWx1bUlSODBPckMtemZYS1p3b25mMzNqUU5WazNYZlp1MXVISGtaM2hmT0RKaTFYa3JDTy15RFQybkw0R213LXlqOEJJRk14X3o2UnBaZ05GWkFCMnpkQjNiRmp1WVVUdTRueDhINDdXX3hTWkw4b3dKZnNDRlRVSHFuVWFDa3k1VDZGdDJNWkprZnR3TFpVUHNSVXRhdw?oc=5",
-        "publishedAt": "Sun, 19 Jul 2026 03:30:58 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 3,
-    "attentionReasons": [
-      "近期有 4 則相關新聞",
-      "新聞含重大字眼，建議留意"
-    ]
-  },
-  {
     "code": "3037",
     "name": "欣興",
-    "lastClose": 794,
+    "lastClose": 750,
     "lastDate": "2026-07-20",
-    "changePct": null,
-    "riskTier": "unknown",
-    "riskReason": "目前只累積了 1 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
-    "trend": "unknown",
-    "trendReason": "資料還在累積中（目前 1 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+    "changePct": -5.54,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "down",
+    "trendReason": "短期股價落在中期均線之下，走勢動能偏弱，建議留意是否有進一步利空消息。",
     "segment": {
       "chainId": "semiconductor",
       "chainName": "半導體產業鏈",
@@ -89,10 +41,110 @@
         "source": null
       }
     ],
-    "attentionScore": 3,
+    "attentionScore": 8,
     "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉弱",
       "近期有 3 則相關新聞",
       "新聞含重大字眼，建議留意"
+    ]
+  },
+  {
+    "code": "2454",
+    "name": "聯發科",
+    "lastClose": 3340,
+    "lastDate": "2026-07-20",
+    "changePct": -0.89,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "down",
+    "trendReason": "短期股價落在中期均線之下，走勢動能偏弱，建議留意是否有進一步利空消息。",
+    "segment": {
+      "chainId": "semiconductor",
+      "chainName": "半導體產業鏈",
+      "segmentId": "ic_design",
+      "segmentName": "IC設計"
+    },
+    "news": [
+      {
+        "title": "股市崩盤警訊引關注 赤腳投資客帕佩：堅守長期投資勿恐慌 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxObXN1aEllSmtrVWVmbHU3LVhmeUdXV1FuVTlZR1VDR3dpMVltQmNDUlJzSXFnVEJOQ3FwQVdVcEZseWZpNXRKY1dsV0NGVFlKZFU4RlI3OTJMaDdkZDYwSTBUVmM2ZmpJd2pWVGU3SlRncENUdUhYWXRoVnBla2FyNU9NMkFfOFRvZk92TWt2U0o0ajZkMWY4ZDNsRXN1WkNHbnVMRkwtN3FkYjhHbExqX0phc2ZzYlgyTDZGZ04wVjBJN0FjOGRYTk9vUjBGcEdnM3J3bkRIMHNFWVE1RUNQUTJRcnNwZFhNWGpqREl6a0dsd203UDNXaU1kRk1XWm5hREJoNWVDU3FWLVl0WDdfUm1qV1dyVWRIWWlmaEl1Sm5FaDRaOGltYlB4QW9IVTNrN28ySHpPN1hJMkJ4LTZORW1ORFZRZFg3YjVTR05jN3RWSHZpVEdNZmpkTjg2dVYwZ01qMlBOb256d2ZmMi00WTVibjJkc2o4bEZkTUlVWnBJbFdmYUtUNDFn?oc=5",
+        "publishedAt": "Mon, 20 Jul 2026 06:50:37 GMT",
+        "source": null
+      },
+      {
+        "title": "2454 聯發科 - Bigme B10 電子AI閱讀器｜10.3 吋全彩電子紙，護眼閱讀與輕辦公一次搞定- 股市爆料同學會 - CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GT09SUHRfQ0VyVF85N1A0RzZ0MVVzMzI1dUt4aEV1bmpfSWRBbE8wZmYyYmhFS1ozR2NOTDNmQ3lvbFF3M1AxS0dEdTdGNkFLRDFMQW90OU0?oc=5",
+        "publishedAt": "Mon, 20 Jul 2026 09:57:10 GMT",
+        "source": null
+      },
+      {
+        "title": "千億級股票ETF吸粉！0050、00981A、00919、0056「四天王」 一周增近10萬人 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPWm1OQzl1UWpsZGtQRWxmVzN5NFJ2RHdpZ1Y4bzF3bVB5RGxBNFJSRDE1WWpPakhPUGtPbmlnM0dvbjZFdUpIamwzbXdJcFhSelRmVFRIeHJucm54b1R2VDhBa0hGSmJOY1g1V3c2UVBwR0tvQ1hILVdMTXpsbkF4WFpJOVJOVi11YVRTaHpTX3hFX0tydHJCcjBLSG9jci1PMDZrbHNfOGdSQVJ0ZVVJRGh1M3d3RlpkR1JkZ3FjSm5iSkVNUHg4c0hkdWpxRVlrT1kxaEh5OUVKRG5wZzdWNWxwMkhBVXFfaUNZVXA4SzNwSWpvUmpmOXNNVFlwOF9URXB0YmEzb0hUN0RhSUc2VS12cmZIcEFXdm9HYlhqTVJIcGZqc05vWmRYQ1VuZVUwZTlqVDVpOXlvNmlkdjhtNURpTnUtU1BMR0dWOGUwSnhsR1BZWlVTQ3FsZzFkdVZfWURrbGlDZ19EVndVa1luZ1ZiRl9PaVlmeVZTMnFZdlF5Ykw0?oc=5",
+        "publishedAt": "Mon, 20 Jul 2026 03:37:51 GMT",
+        "source": null
+      },
+      {
+        "title": "聯發科重摔14%反成資金標的！小資族趁台股周跌2683點逢低布局半導體雙雄吸近5萬零股大軍 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxQODMzR2V3M25BcHUxcmpkR1ZrT3lrS2ZUV2ZGT3dtX2ZGV2JMRm9MR0l2a0hkNUI4MkpmUVAwaW8zUk5reHZGeEllQjFaU19SSjdCdlFmckFwU1RGX1R6alhuQU53R0x3Z09FOU1QSnNKQzBWc2tqakZYWlk3MjJ1d0pFZlY0YnphNnhNdVBvYnEwWDFWQkREM0FjWFA0ZkRPOUJFM1BSN0xRQk5wS3dWODZfNFMtQU5zRDBSSkIyeUo5bUN4d1BKWjRkTlEwdFlvWDNtcWdNRVpnWkFSaXFzbW8tQVRNS18xUF9XbmpUQnBTQU9EbVJRT0p6WG5qM2huOFBWOUxYUXQ4dkhHLUl1OTZaODA3RmR2RFAyTXFDeXAxZHZ2WkZNQTFVQm13OEt4aWhidkhYRFdQNGllaUJ5MzlDb2JDakJRbmZPQ2NoaEJaNTVCYkxDRHg4NWlsTU9qWUplSFVrLXBvVzlMczJpeGVSYjAwWmh1Ylo1Nl9KWGJuNllyeUZrM1l1amtSZWVrQ2ZPYXoyREh6YnpKSEdKVVNicmpOc1UzamFuQXoxZVlYOTNBY3kxWnZCX1hFMzdZMmlONERMMWxwMDBMTF9SdUVhMEFNWU5IYWpCT0VYdlVGTWlxLURURGcwc0tvV3VjckhUVG8wdzRBcVJiMERhQWlCN0hhc2hXME9JWFg2ckJiUEdwa1Fpag?oc=5",
+        "publishedAt": "Sun, 19 Jul 2026 09:55:00 GMT",
+        "source": null
+      }
+    ],
+    "attentionScore": 6,
+    "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉弱",
+      "近期有 4 則相關新聞"
+    ]
+  },
+  {
+    "code": "2303",
+    "name": "聯電",
+    "lastClose": 130,
+    "lastDate": "2026-07-20",
+    "changePct": -9.72,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "down",
+    "trendReason": "短期股價落在中期均線之下，走勢動能偏弱，建議留意是否有進一步利空消息。",
+    "segment": {
+      "chainId": "semiconductor",
+      "chainName": "半導體產業鏈",
+      "segmentId": "foundry",
+      "segmentName": "晶圓代工"
+    },
+    "news": [
+      {
+        "title": "國巨、聯電連躺兩天跌停拖台股下水221點 大盤滿地傷台積電漲30元硬扛 ｜Yahoo財經掃描 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxNaXY0Y0xBM3oyNVF0bndvMEpYZzBUYUthVmYweXJoajNJQ2lDVFM3ZDRwMG1sU25QX1FUckRldGQteVJJcGN1T2FnT0Zsc3pvUE5JaTduLUUxQ3FXeUxvblFDTFQ0YmxRN2lRaEJxeHBLUExJWHlGQkNlaFZncHoweTN0elo4UkVoRE1aZ0pUamNOMTZ0MkFIcUlhdUtTNVpQQVlESkxvMU5uZE1nVElEaFVkVV8yZDREeThUMU05VUdmeU9XYkpOM2lwXzJPdTh5YjJONlg4REJOYkJWN1NQcXA0UlYxeVJxbHJqa3BXcm1Fa1FSRVYybTV4bGVnemdQV2xSR082Z0x6ZE9qZmIzR29KWnU0R3ZHckM0SjdWSUF4Nkc1QmVQakdRd0trR1U3NGh1ME81RVl4eTVMa19rQlh4eUx0U2p0LUp2ekFFVXctbGh3N1N1ZjNTSHJvYnZBajVPdGNoXy1TeV9fTW51bm95TWtZZmJIWUZTQXU2dEJyZFZjWlJnQWJVdTU1VlUxX3l0a0UxcGRCZV9hdEgzMmI0NmtvQkxzMmJGUV9TRUo4akdNbk5Ra3VVdEZteHo0Rk1CcXJlMTZSWmlkcTBKOTF1cmVjYlBLM0Q2b2NFZTdGdU12NHRUZ2RBVG1fd005TzQ5dFA5cHcwNWdXRHp4MjBoUQ?oc=5",
+        "publishedAt": "Mon, 20 Jul 2026 09:35:23 GMT",
+        "source": null
+      },
+      {
+        "title": "聯電(2303)、國巨(2327)跌停又鎖死！擁擠交易兩大代表：怎麼上去就怎麼下來「關鍵價位能撐住再下手」 - 今周刊",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSDFyNmRqRGdkbS1Ic0hhSVZSQk5KTTk2Y1h6SnhybWltWlZjdWhjdFYyVk9qNl9LZTllT0p0cjNxRG9xc1d5U2NXeElzMWhNVWZYemVtQXlyd0JnaDhPZ2tTN2RReWc2aGdVdEdKZHVlMjUyNlpwc3R0TlVhUU1FcQ?oc=5",
+        "publishedAt": "Mon, 20 Jul 2026 03:56:00 GMT",
+        "source": null
+      },
+      {
+        "title": "台股跌深反攻乏力站不回4萬3千點 國巨、聯電連吞第二根跌停 | Newtalk - LINE TODAY",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vQzQ5Ukx0enk5MDFfRlpmd19EMk1JTG12ZlQ1MWltdEdUV1BoZW9YaHd0Zk9ROWhYcVF3c2g0dE85S0NPMnlsRnNzRFIzZ1EtalFUVXVR?oc=5",
+        "publishedAt": "Mon, 20 Jul 2026 06:36:24 GMT",
+        "source": null
+      },
+      {
+        "title": "魏哲家一句話！ 聯電、世界全跌停 法人揭半導體「殘酷分化」 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQTmpfb1FFQmZYRkVWNnpmLTk0bEVMU1VOV3ROMWJsN0d2dzNmQ1ItcDE4c2thM1VRUzQxeVdNV3BydWtCQkF6anhmMHEybXd2MEdCWHl3cXlPSkZmUVVMVl8xSndGUjZtUDZPWk9zLXpicW16cC1mUTZDVVNqdFpnSHZKWk53R3V2d1M1eE1ESmhrbjhFd1h6R3pUbVBKMjNNRXYzeFBoMzA3Vk1OdUZQeEczYXhWZGZvak1jNDFkODBibHdFMlZISmphSDNoSW9jb09qTU5XRGFneFBPcXN6NWo5RzdsZHVKb3pjYXYyS29yLXhWd3BXVUY1akdZYjRabjJneU5ibU1xbXAtbGd5Snc5ZGlsSFJvWVZEbi1sUlhIN1hvREs3ZGlNbkRlcFFkcVJXWWpuZFE?oc=5",
+        "publishedAt": "Mon, 20 Jul 2026 05:27:53 GMT",
+        "source": null
+      }
+    ],
+    "attentionScore": 6,
+    "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉弱",
+      "近期有 4 則相關新聞"
     ]
   }
 ]
