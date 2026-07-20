@@ -27,7 +27,7 @@ jobs:
           node-version: "20"
 
       - name: 安裝套件
-        run: npm ci
+        run: npm install
 
       - name: 建置網站
         run: npm run build

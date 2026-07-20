@@ -23,7 +23,7 @@ jobs:
           node-version: "20"
 
       - name: 安裝套件
-        run: npm ci
+        run: npm install
 
       - name: 抓取股價資料
         run: npm run worker:fetch-stock
