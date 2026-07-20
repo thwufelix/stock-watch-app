@@ -5,6 +5,7 @@ const items = [
   { to: "/", icon: "🏠", label: "關注", end: true },
   { to: "/portfolio", icon: "🧺", label: "組合風險" },
   { to: "/industry", icon: "🏭", label: "產業鏈" },
+  { to: "/notifications", icon: "🔔", label: "通知" },
   { to: "/settings", icon: "⚙️", label: "設定" },
 ];
 

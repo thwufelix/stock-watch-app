@@ -87,6 +87,28 @@ function main() {
   fs.writeFileSync(DASHBOARD_FILE, JSON.stringify(dashboard, null, 2), "utf-8");
   fs.writeFileSync(PUSH_CANDIDATES_FILE, JSON.stringify(pushCandidates, null, 2), "utf-8");
 
+  // 累積通知歷史：把每天的推播內容記錄下來，供 App「通知」頁回顧
+  if (pushCandidates.length > 0) {
+    const historyFile = path.join(DATA_DIR, "notification_history.json");
+    const notifHistory = readJsonSafe(historyFile, []);
+    const today = new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Taipei" }).format(new Date());
+    const names = pushCandidates.map((c) => c.name).join("、");
+    const entry = {
+      date: today,
+      title: `今日關注：${names}`,
+      stocks: pushCandidates.map((c) => ({
+        code: c.code,
+        name: c.name,
+        reasons: c.attentionReasons || [],
+      })),
+    };
+    // 同一天重複執行時覆蓋當天紀錄，避免重複
+    const filtered = notifHistory.filter((h) => h.date !== today);
+    filtered.push(entry);
+    filtered.sort((a, b) => b.date.localeCompare(a.date)); // 新的在前
+    fs.writeFileSync(historyFile, JSON.stringify(filtered.slice(0, 180), null, 2), "utf-8");
+  }
+
   console.log(`分析完成：${stocks.length} 檔股票，其中 ${pushCandidates.length} 檔列為今日推播候選。`);
 }
 

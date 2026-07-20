@@ -13,3 +13,9 @@ export async function loadPriceHistory() {
   if (!res.ok) throw new Error("讀取價格歷史資料失敗");
   return res.json();
 }
+
+export async function loadNotificationHistory() {
+  const res = await fetch(`${import.meta.env.BASE_URL}data/notification_history.json?_=${Date.now()}`);
+  if (!res.ok) throw new Error("讀取通知紀錄失敗");
+  return res.json();
+}

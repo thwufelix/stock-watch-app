@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T12:31:37.048Z",
+  "updatedAt": "2026-07-20T13:34:55.840Z",
   "newsUpdatedAt": "2026-07-20T12:31:26.229Z",
   "stocks": [
     {
@@ -240,53 +240,6 @@
       ]
     },
     {
-      "code": "2317",
-      "name": "鴻海",
-      "lastClose": 234,
-      "lastDate": "2026-07-20",
-      "changePct": null,
-      "riskTier": "unknown",
-      "riskReason": "目前只累積了 1 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
-      "trend": "unknown",
-      "trendReason": "資料還在累積中（目前 1 個交易日），累積滿 20 個交易日後就能提供走向參考。",
-      "segment": {
-        "chainId": "ai_server",
-        "chainName": "AI伺服器供應鏈（延伸範例）",
-        "segmentId": "assembly",
-        "segmentName": "系統組裝／ODM"
-      },
-      "news": [
-        {
-          "title": "鴻海喊處分！臻鼎扛不住賣壓開跌逾7％ 第一大股東動向引關注- 證券 - 工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSZTJaaXdpbUZZcF9UTWt1WlJEUjlkRXZVT2R3S05lRzh6NDh3a3VIZEN3amFfUWU4a0NKcVJ0UGhGdDZMdVk1cERrRlVGbDg5bHNnNWdyalE4aTFiNVdJ?oc=5",
-          "publishedAt": "Mon, 20 Jul 2026 01:40:00 GMT",
-          "source": null
-        },
-        {
-          "title": "鴻海(2317)股價1個多月跌30%，現在可以買？他「買3次賠3次」捶心肝，23x元是抄底還是接刀？股價翻身2關鍵 - 今周刊",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdXNDenRfZllOSm1IblA0TnpPdDRxczM4UnFVcER5MHZxb3dVNHVfZU1wdVhDMWNBWWFodjJfaWUwcmQ4VlZZUFl4U1BFQnhjbFVJdjdKa0tEMTJ1bmtPNmM0MzhMUEZoSHVQbm1rR090YUZDVS1XVFpMaFZTTmpfeA?oc=5",
-          "publishedAt": "Fri, 17 Jul 2026 01:57:00 GMT",
-          "source": null
-        },
-        {
-          "title": "鴻海跌到239元可以買嗎？分析師曝便宜價：股價來到「這數字」 就可進場 - 風傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAza1ZYajRlMC1KRWhvU2w2akp2VkRTMjlubWhCMmx2c2NvTTdHeDMwLU1qTzZ4X1luRTBJMmRmX2V4U25WWG9GTWM4MXUzM2xW?oc=5",
-          "publishedAt": "Thu, 16 Jul 2026 01:30:00 GMT",
-          "source": null
-        },
-        {
-          "title": "郭台銘「女球友風波」燒到鴻海股價？兩週跌幅逾5% - Yahoo股市",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOSHFnemNNMWRWRDFyTUZEb2xGVUhGSnRvM2ZDVnUzWXpza2thZE9RdTU5dS1lRUpEREN4dTdpdXlpRUJncmF2dEZSc09zdGRURHR3ZEk0dzh4QUc3bTdiMzVBeU9fanNxMmJ6WTFZVERBd3N3cVJuRkR3Q3hBSzl3VHF0TVA0WWNTWmR0c3RMa1JLTnJqWnBOOEZpTHhaZVdOXzhoSGpNNmg4b3M1MlNrWm96VWZHVUEyN0NwRkxGSV82a0RKenlMaTA1VXFyWGRaa195Y21sOEJwajVDbEdEY3VpVU9mZVEyNVk0alZaeEdDNEduYm1jTzRvZk5ZZ29hdkVkUWNXR3ZTN21aTnJ0MExuQ05kVHFiWnNlRW9CbE9hb2dQNnlrdl9relZkbDFFWV94bC11Q01NMWM0OW1LTk51ZDg?oc=5",
-          "publishedAt": "Mon, 06 Jul 2026 07:00:00 GMT",
-          "source": null
-        }
-      ],
-      "attentionScore": 1,
-      "attentionReasons": [
-        "近期有 1 則相關新聞"
-      ]
-    },
-    {
       "code": "6488",
       "name": "環球晶",
       "lastClose": null,
@@ -325,6 +278,53 @@
           "title": "矽晶圓供需轉折點已現？環球晶下半年啟動漲價計畫，矽光子與 AI 需求助攻台勝科、合晶等台灣概念股營收｜股市話題 - sinotrade.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxNcWduRThyc050M1RSbE5sUENjWTk4dUFFWmFDZHNwdGF3M3plNFdyVDRRLURvbWpQRFVSaXJyaV9sYzV5TTFKWEpTUXJ1V1cxTlljQ2luVUY3ZTJ1ZlJvRkFIOWlCRUZUQnZXRVlCSXlycU4xUDFkTWdZMlVOSzJyWTM1SFVzWnZOSDY4amVtbW5Fdmx2aFVKTlN2RUk2TjVEUHN1QVV3VHhxNmZ6RWwzTVZnZzEtZUNrTDA0UVRaY21fcUJUclduVW5aRWNMWFZJQ3p4SWFLa0RFcmF2bDVBRUhITnFSOERYQi0zbVFkbElYMjllQWpBX09pQTM1ODJKWDhLQXdkcDdkT0FUNjhxdzFtQUxwdW8taTljNG1KQVlXSkg2a0JsMW90bWs0WmoyU09JYkdqbHlIUi00bG5rWkhmdUprcEJCMTVVQ3o1X3dxS2d6TjRYTEh4SFloaUxMVmt0V3hHdFh0QkRwVzdWdUdzVnhNVVlzVjFOeVExX0lqMzM3a05BV1pzTDZWb3ZfNGhhZTRzcU42TFllS2h1QlJlOVd2SVU5VmNQSHhHTTJrVjM4ZEYtMFVGbHUzVGlOa1pDSHQtcy1uVktVb25Za0NfdTd5ZXJuUktDY0Zsd1Z3X1N5S3Z3dGhKVVBmSHpmdVgtMWlmeXdiQnEzb0ZmSm9IWUJMUlhySnlNbEtaUGFWTzhGMzIxQjh3dTg4SGZ6cndBZXpPdjdZdVBocV9NdTNta0J4UExsdDc3WGZrVmxaMzU1cnduWFlsdWtiR1hieVZRbGRxWGNWdlNhR2xwZXc2V3d4Mm9MMFU5VjFCQkNOaTFjNVBXYUxjd3dnbEZoYWNVcXN5aUFyTFVqeGtpZnFfeS1GOXd2NTA2NVIydDAwcHEtNkRHalZsOGhkdXJJVUZOYUtHVGxCcDA?oc=5",
           "publishedAt": "Tue, 12 May 2026 07:00:00 GMT",
+          "source": null
+        }
+      ],
+      "attentionScore": 1,
+      "attentionReasons": [
+        "近期有 1 則相關新聞"
+      ]
+    },
+    {
+      "code": "2317",
+      "name": "鴻海",
+      "lastClose": 234,
+      "lastDate": "2026-07-20",
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 1 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 1 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": {
+        "chainId": "ai_server",
+        "chainName": "AI伺服器供應鏈（延伸範例）",
+        "segmentId": "assembly",
+        "segmentName": "系統組裝／ODM"
+      },
+      "news": [
+        {
+          "title": "鴻海喊處分！臻鼎扛不住賣壓開跌逾7％ 第一大股東動向引關注- 證券 - 工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSZTJaaXdpbUZZcF9UTWt1WlJEUjlkRXZVT2R3S05lRzh6NDh3a3VIZEN3amFfUWU4a0NKcVJ0UGhGdDZMdVk1cERrRlVGbDg5bHNnNWdyalE4aTFiNVdJ?oc=5",
+          "publishedAt": "Mon, 20 Jul 2026 01:40:00 GMT",
+          "source": null
+        },
+        {
+          "title": "鴻海(2317)股價1個多月跌30%，現在可以買？他「買3次賠3次」捶心肝，23x元是抄底還是接刀？股價翻身2關鍵 - 今周刊",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdXNDenRfZllOSm1IblA0TnpPdDRxczM4UnFVcER5MHZxb3dVNHVfZU1wdVhDMWNBWWFodjJfaWUwcmQ4VlZZUFl4U1BFQnhjbFVJdjdKa0tEMTJ1bmtPNmM0MzhMUEZoSHVQbm1rR090YUZDVS1XVFpMaFZTTmpfeA?oc=5",
+          "publishedAt": "Fri, 17 Jul 2026 01:57:00 GMT",
+          "source": null
+        },
+        {
+          "title": "鴻海跌到239元可以買嗎？分析師曝便宜價：股價來到「這數字」 就可進場 - 風傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAza1ZYajRlMC1KRWhvU2w2akp2VkRTMjlubWhCMmx2c2NvTTdHeDMwLU1qTzZ4X1luRTBJMmRmX2V4U25WWG9GTWM4MXUzM2xW?oc=5",
+          "publishedAt": "Thu, 16 Jul 2026 01:30:00 GMT",
+          "source": null
+        },
+        {
+          "title": "郭台銘「女球友風波」燒到鴻海股價？兩週跌幅逾5% - Yahoo股市",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOSHFnemNNMWRWRDFyTUZEb2xGVUhGSnRvM2ZDVnUzWXpza2thZE9RdTU5dS1lRUpEREN4dTdpdXlpRUJncmF2dEZSc09zdGRURHR3ZEk0dzh4QUc3bTdiMzVBeU9fanNxMmJ6WTFZVERBd3N3cVJuRkR3Q3hBSzl3VHF0TVA0WWNTWmR0c3RMa1JLTnJqWnBOOEZpTHhaZVdOXzhoSGpNNmg4b3M1MlNrWm96VWZHVUEyN0NwRkxGSV82a0RKenlMaTA1VXFyWGRaa195Y21sOEJwajVDbEdEY3VpVU9mZVEyNVk0alZaeEdDNEduYm1jTzRvZk5ZZ29hdkVkUWNXR3ZTN21aTnJ0MExuQ05kVHFiWnNlRW9CbE9hb2dQNnlrdl9relZkbDFFWV94bC11Q01NMWM0OW1LTk51ZDg?oc=5",
+          "publishedAt": "Mon, 06 Jul 2026 07:00:00 GMT",
           "source": null
         }
       ],
@@ -381,6 +381,101 @@
       ]
     },
     {
+      "code": "3034",
+      "name": "聯詠",
+      "lastClose": 460.5,
+      "lastDate": "2026-07-20",
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 1 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 1 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": {
+        "chainId": "semiconductor",
+        "chainName": "半導體產業鏈",
+        "segmentId": "ic_design",
+        "segmentName": "IC設計"
+      },
+      "news": [
+        {
+          "title": "台股明休市！中信金、華航、聯詠等23檔除權息順延 名單一次看 - Yahoo股市",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQYl9KMEp0TkVpWlRmTU4wVTlDYS1IT21BbGlVSjlFRnY1dk9DTTZzRXFNcXFtcTJCYjRuaWVxMWFuQWZ0TVBwSlgtVkoxanFfWWtNcWJPMWRPVk9zUkdXM1l6LVBSR0tvRXY2UlNBYW1LeWE1T3dyOU81SkUtVkpickRWOFZhVW5aX3ZyOTRxZlF3b2hYOTIzRFBzaVU5WmtsYXZ4MGNmUDRXa3g4QkxOMGZPdDlBRXEzc1g0TWtpWURvYnRZSXFyQS1KWlA5eGhZVThkZlJGVHg4RTBuY25vOTdQQUdsbmRERlM0VE1EbmtsQ1VXOG9Mb2E0YzJiVEg3YlhXdmpsR0RhTlVCWGxnT09HVi1vMWx1TjFLQi14M3lOTVd2QmxrYnZWMWF5bkNoWXdVbTBtRDloWUlsVEhVU2ZTNXJZdklWWm1qc2ZMd2JPa2szR1J5OGplb1UxVjQ?oc=5",
+          "publishedAt": "Thu, 09 Jul 2026 07:00:00 GMT",
+          "source": null
+        },
+        {
+          "title": "3034 聯詠- 終於出量- 股市爆料同學會 - CMoney",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pYnU2Ylg4SV8ydzU4b01ZT3BoVEhYMU1UQjhDY3dzbjBmYmF1Z3JYcHJvMkVqV0hTTHBPdFE0cm1tSTZqT3BBSlN1dFVXaFYyQ01LQVlhdmo?oc=5",
+          "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+          "source": null
+        },
+        {
+          "title": "聯電兩度處分聯詠持股共計4070張 原因曝光 - 自由財經",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qckN6SVdNTWhESjNkNHEwUWVzeHVPcDluWHhkZk1MYWJTQlJNVmxLUGdXb1lWdWZlRmhjWGN5N0pVR1NHbGJYb0tmbGtfUnhOOGJJUThzcGhldmdqb0hV0gFkQVVfeXFMUHJnTGludEdqUHJVRk84X01PZlN4ZV9IUFBkNlFRSG8yRU95Z0p3RlZvakRTR21sck5jNnQxUERDTXJud21qM1JqZk92ZmFBZHI2NF9sbHFaTnVKTEtIRnFRYkQ2ZA?oc=5",
+          "publishedAt": "Thu, 18 Jun 2026 07:00:00 GMT",
+          "source": null
+        },
+        {
+          "title": "聯電處分聯詠持股交易總金額逾5.6億元- 證券 - 工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCOGlmcWgzN25kN0Z6bDdoa21tbVA1U0xqLVNhNGpFTmxMUzhPMUlZeVBFanRteDRqTk5Ic0lfR1pFU3FuR0lUNFE4NnJka3FRdnkybklleFBHX1V0RkRv?oc=5",
+          "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
+          "source": null
+        }
+      ],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2379",
+      "name": "瑞昱",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": {
+        "chainId": "semiconductor",
+        "chainName": "半導體產業鏈",
+        "segmentId": "ic_design",
+        "segmentName": "IC設計"
+      },
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "3008",
+      "name": "大立光",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2327",
+      "name": "國巨",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
       "code": "2382",
       "name": "廣達",
       "lastClose": 325.5,
@@ -426,47 +521,507 @@
       "attentionReasons": []
     },
     {
-      "code": "3034",
-      "name": "聯詠",
-      "lastClose": 460.5,
-      "lastDate": "2026-07-20",
+      "code": "3231",
+      "name": "緯創",
+      "lastClose": null,
+      "lastDate": null,
       "changePct": null,
       "riskTier": "unknown",
-      "riskReason": "目前只累積了 1 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
       "trend": "unknown",
-      "trendReason": "資料還在累積中（目前 1 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
       "segment": {
         "chainId": "semiconductor",
         "chainName": "半導體產業鏈",
-        "segmentId": "ic_design",
-        "segmentName": "IC設計"
+        "segmentId": "downstream",
+        "segmentName": "下游應用／系統廠"
       },
-      "news": [
-        {
-          "title": "台股明休市！中信金、華航、聯詠等23檔除權息順延 名單一次看 - Yahoo股市",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQYl9KMEp0TkVpWlRmTU4wVTlDYS1IT21BbGlVSjlFRnY1dk9DTTZzRXFNcXFtcTJCYjRuaWVxMWFuQWZ0TVBwSlgtVkoxanFfWWtNcWJPMWRPVk9zUkdXM1l6LVBSR0tvRXY2UlNBYW1LeWE1T3dyOU81SkUtVkpickRWOFZhVW5aX3ZyOTRxZlF3b2hYOTIzRFBzaVU5WmtsYXZ4MGNmUDRXa3g4QkxOMGZPdDlBRXEzc1g0TWtpWURvYnRZSXFyQS1KWlA5eGhZVThkZlJGVHg4RTBuY25vOTdQQUdsbmRERlM0VE1EbmtsQ1VXOG9Mb2E0YzJiVEg3YlhXdmpsR0RhTlVCWGxnT09HVi1vMWx1TjFLQi14M3lOTVd2QmxrYnZWMWF5bkNoWXdVbTBtRDloWUlsVEhVU2ZTNXJZdklWWm1qc2ZMd2JPa2szR1J5OGplb1UxVjQ?oc=5",
-          "publishedAt": "Thu, 09 Jul 2026 07:00:00 GMT",
-          "source": null
-        },
-        {
-          "title": "3034 聯詠- 終於出量- 股市爆料同學會 - CMoney",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pYnU2Ylg4SV8ydzU4b01ZT3BoVEhYMU1UQjhDY3dzbjBmYmF1Z3JYcHJvMkVqV0hTTHBPdFE0cm1tSTZqT3BBSlN1dFVXaFYyQ01LQVlhdmo?oc=5",
-          "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
-          "source": null
-        },
-        {
-          "title": "聯電兩度處分聯詠持股共計4070張 原因曝光 - 自由財經",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qckN6SVdNTWhESjNkNHEwUWVzeHVPcDluWHhkZk1MYWJTQlJNVmxLUGdXb1lWdWZlRmhjWGN5N0pVR1NHbGJYb0tmbGtfUnhOOGJJUThzcGhldmdqb0hV0gFkQVVfeXFMUHJnTGludEdqUHJVRk84X01PZlN4ZV9IUFBkNlFRSG8yRU95Z0p3RlZvakRTR21sck5jNnQxUERDTXJud21qM1JqZk92ZmFBZHI2NF9sbHFaTnVKTEtIRnFRYkQ2ZA?oc=5",
-          "publishedAt": "Thu, 18 Jun 2026 07:00:00 GMT",
-          "source": null
-        },
-        {
-          "title": "聯電處分聯詠持股交易總金額逾5.6億元- 證券 - 工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCOGlmcWgzN25kN0Z6bDdoa21tbVA1U0xqLVNhNGpFTmxMUzhPMUlZeVBFanRteDRqTk5Ic0lfR1pFU3FuR0lUNFE4NnJka3FRdnkybklleFBHX1V0RkRv?oc=5",
-          "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
-          "source": null
-        }
-      ],
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2357",
+      "name": "華碩",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2395",
+      "name": "研華",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2345",
+      "name": "智邦",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "3017",
+      "name": "奇鋐",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": {
+        "chainId": "ai_server",
+        "chainName": "AI伺服器供應鏈（延伸範例）",
+        "segmentId": "cooling",
+        "segmentName": "散熱／液冷"
+      },
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2412",
+      "name": "中華電",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "3045",
+      "name": "台灣大",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "4904",
+      "name": "遠傳",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2881",
+      "name": "富邦金",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2882",
+      "name": "國泰金",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2891",
+      "name": "中信金",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2886",
+      "name": "兆豐金",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2884",
+      "name": "玉山金",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2885",
+      "name": "元大金",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2892",
+      "name": "第一金",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "5871",
+      "name": "中租-KY",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "1301",
+      "name": "台塑",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "1303",
+      "name": "南亞",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "1326",
+      "name": "台化",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "6505",
+      "name": "台塑化",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2002",
+      "name": "中鋼",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "1101",
+      "name": "台泥",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "1102",
+      "name": "亞泥",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2603",
+      "name": "長榮",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2609",
+      "name": "陽明",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2615",
+      "name": "萬海",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2610",
+      "name": "華航",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2618",
+      "name": "長榮航",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "1216",
+      "name": "統一",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2912",
+      "name": "統一超",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "2207",
+      "name": "和泰車",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "9910",
+      "name": "豐泰",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
+      "attentionScore": 0,
+      "attentionReasons": []
+    },
+    {
+      "code": "1476",
+      "name": "儒鴻",
+      "lastClose": null,
+      "lastDate": null,
+      "changePct": null,
+      "riskTier": "unknown",
+      "riskReason": "目前只累積了 0 個交易日資料，至少需要 10 天才能判斷風險，請再等幾天。",
+      "trend": "unknown",
+      "trendReason": "資料還在累積中（目前 0 個交易日），累積滿 20 個交易日後就能提供走向參考。",
+      "segment": null,
+      "news": [],
       "attentionScore": 0,
       "attentionReasons": []
     }

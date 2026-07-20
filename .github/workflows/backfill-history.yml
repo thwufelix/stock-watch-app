@@ -1,0 +1,49 @@
+name: 回補歷史股價資料（手動執行一次即可）
+
+# 這個 workflow 不會自動排程，只在你到 Actions 頁面手動觸發時執行。
+# 用途：把監測清單中每檔股票過去約 6 個月的歷史股價一次抓回來，
+# 讓風險與走向分析立刻可用，不必從今天開始慢慢累積。
+# 因為證交所有請求頻率限制，全部跑完約需 15-20 分鐘，請耐心等待。
+
+on:
+  workflow_dispatch:
+    inputs:
+      months_back:
+        description: "要回補幾個月的歷史資料"
+        required: false
+        default: "6"
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 安裝套件
+        run: npm install
+
+      - name: 回補歷史股價
+        run: node worker/backfillHistory.js
+        env:
+          MONTHS_BACK: ${{ github.event.inputs.months_back }}
+
+      - name: 重新分析風險與走向
+        run: npm run worker:analyze
+
+      - name: 提交更新後的資料
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data
+          git diff --cached --quiet || git commit -m "chore: 回補歷史股價資料"
+          git push
