@@ -1,109 +1,10 @@
 [
   {
-    "code": "2308",
-    "name": "台達電",
-    "lastClose": 1880,
-    "lastDate": "2026-07-24",
-    "changePct": 0,
-    "riskTier": "high",
-    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
-    "trend": "down",
-    "trendReason": "短期股價落在中期均線之下，走勢動能偏弱，建議留意是否有進一步利空消息。",
-    "segment": {
-      "chainId": "ai_server",
-      "chainName": "AI伺服器供應鏈（延伸範例）",
-      "segmentId": "power",
-      "segmentName": "電源供應"
-    },
-    "news": [
-      {
-        "title": "國巨、台達電、邁科跌深翻身？外資齊喊買 目標價續升、EPS預估將暴漲 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPZEpTNV9rTmgtS01LTWJmbnVicV9WRkM0dkZXSDd3QnNjdzJtVDdyUlV3ZFRvckFudGtaRExxNXhkWkd1T280cEhEeHJGTVA4ejlkeXhCeE1MaTVheTU1NWNwdUdLMktoUnprWTR6dUREOWFTZEg2RVFyRFdGbmtOdTJzOU1aQWtGbWpIcVBzODExdTNTVVNudjJuSVBKSi1oM3pmckxmc1lqbGViUWt5SkZTTDA3V05BSVJHMFpmVFFoVjdpNjY4VC1aakQzWW04Zzd2am1wOG9GTmRwbU5QWWRBZENSSkdtNXdTbUpuMHgxYk84dGg5anZxVlhsM2ladzFSWGpnZ1Y5WWpiNFNtai1sQ1hsX0xiakRybVU3OUJuRFZzeXZZTEdPVnh2dlg5WExrdURDRkpMZ3ZMYXNERGljM2xjMTZzdjR0TUhKcFlGTUgzdTV1VVI1Ykw?oc=5",
-        "publishedAt": "Fri, 24 Jul 2026 01:04:38 GMT",
-        "source": null
-      },
-      {
-        "title": "目標價調降200元！ 花旗砍台達電獲利預估 背後真相曝光 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOZHg3bW9ZOUJrUEpzZkFEMDQ1VjdJOWNaWUJYY0xvN0hZNHRHa011RXhPWTI0bXh4dHp5WEloTU1QZmh6dXJLT1U0U0hJZTd6ODlRYkd3Y0tUNjZ2b25sdzFCaVN4MG4wSEQzSGVfcGlxeW1sVXBBbjNPUzJEbkpjZzdVRmpRTlJIY0JfeGNmSl9qaHptNTJQaF9nOE9LeEk5ZWF6Ulg4Q2QxakR6U3VMaHRWWlJVQ1NqX0VhM2pPWWxCNU1OcngwUGgxX1FFTjQyYVpoNDd1b3dYMVR5WVV5SzAxbk04YmFLZGR1b0pBTTR6bk9lcF9pNTJ4b3JiZUVHdl82UUg3d2wtNktqc24zSkxyQVpta0ZLdGlPMEN3WEJkLXQ4SW1OTFdNSWlfRmRWeVpiMlRONjNXTnhjbHNzbFN3T2h2c3BKU3E5RFpsNnQydmQxcDZ5U1ZvelR1Um5ZMGUzb2d0b3NkZw?oc=5",
-        "publishedAt": "Fri, 24 Jul 2026 01:56:07 GMT",
-        "source": null
-      },
-      {
-        "title": "華新科股價腰斬遭二次處置 台達電、大立光、禾伸堂等25檔列入注意股 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jT2dBNWVKU19LY0ZUb1VNdlNqdDVkNUFvRURFQVBOZm5xVklCeGNodnRQN2R2R21DbXU0Q3VkMlM3TE9IR09BVWx3eTFCXzlUWWExZzk2UEpTUdIBX0FVX3lxTFBiYldHTkZMSHBQX2M5dG1kNHhjcXdUU2tsTnYtVUMwOFdPdUY2cHZBQmRmNkNzOUQ4d2l1UDFFczhPUDJkRzE5enFmTjVXcnZabUpMQWdWTFdZbDZkOEVv?oc=5",
-        "publishedAt": "Thu, 23 Jul 2026 09:00:00 GMT",
-        "source": null
-      },
-      {
-        "title": "資料中心飆到2030！瑞銀上修預測：唯一點名台達電喊買 看好再旺好幾年 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQbHJJMUJpUjRFR00wdjhQaVpZNUIySFJJXzZhMWdJcllrM3JIRFE5OTItdmNVaDlSQUFLMENUS0pTWFNmeWRDdTVZb21rNUM5VTVwMlVJaG16eTJSa3NtODBUZHVjMkdlR3hVcEV5SnJlSmEyYi1vWGt5bWFzdE5EY0JmdTdHdWtUR3dLaDFpS1FBRjVEX0Joak5KSTVmQnIzcWdCcTBnTUZ2Q2JQaVZFdkxyVjQ4UUYtaWhhUWxCaThKMHFjSE9PbkoyT1VFNGR1TVdfS3F6dUpqNThUU2pXYVdDN2pyQVFHbnNWX3lrc2RkLTFSaC03ZWJ0cnRWZE9wTHNLV2plSlRLT3dsZXNLcmtKQlY3LTNJSzdnUlk0UnppSk40QThMSWdHdFZ0djJpUnFqb1hVbWRRd1NFUGNpb2RTTjEyUDVvUXA5eFB2OEl0T0hidVNidlZacUhyYmlBLUhlaVpIQ0N4T28yNlRMOWM3d1dRQ3RMdHFyMnlpVWNBSHNxa3c3b0NiWkVOa2oyT1dUUlhvSUhUTi1DdGtjaG9SYmZjU2xrMVE?oc=5",
-        "publishedAt": "Fri, 10 Jul 2026 07:00:00 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 8,
-    "attentionReasons": [
-      "風險燈號偏高",
-      "走勢轉弱",
-      "近期有 3 則相關新聞",
-      "新聞含重大字眼，建議留意"
-    ]
-  },
-  {
-    "code": "2454",
-    "name": "聯發科",
-    "lastClose": 3875,
-    "lastDate": "2026-07-24",
-    "changePct": 0.65,
-    "riskTier": "high",
-    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
-    "trend": "down",
-    "trendReason": "短期股價落在中期均線之下，走勢動能偏弱，建議留意是否有進一步利空消息。",
-    "segment": {
-      "chainId": "semiconductor",
-      "chainName": "半導體產業鏈",
-      "segmentId": "ic_design",
-      "segmentName": "IC設計"
-    },
-    "news": [
-      {
-        "title": "聯發科股價4970→3240元、3天反彈25%現在能買？背後有輝達這大利多撐腰！同場加碼這9家也有料 - 今周刊",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYndaUGRPSVlhcDlIVHdBWUF3OHEzMFNrTE1CTmJmclFYTXhYTDd0LWJCOGhvZFM2V0ZjUV94b0hCVEtxTFZXVHFFX01FVTFLSllmWHlkUmxmdXZaRFlqM2FrcUVoTlphZ1VULTBhQ3AwckcyanlPSXhjd1o3M2xsag?oc=5",
-        "publishedAt": "Thu, 23 Jul 2026 07:30:00 GMT",
-        "source": null
-      },
-      {
-        "title": "聯發科重返4千元曇花一現？盤中大漲逾半根停板後回落 分析師揭關鍵防線 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQbmRrVHFrZEtnVUJsVDB2NHh4SE85NUY2TDRnaWh3b1lnbGdTT1FibGxQOWc0S3RaeG90U2dCQW5XRTBVdEYxYzVuTEhteEkzX0RqWGNZTXBJckotZ205emhjY2VxOHRVVm82TFh4VTRXM2U2ZmphakU1cEdmU2xYWWw3aWdlSzBJMVJZaGVtWjRHMUpOc0ZoN0VXdl9YdGNuZ1FWeXBvUjEtcnQ5R2pidE5HNERmRGR0UDIwUXRCRy1mZXlNQWhuZW9TSWMtN09FUDhDSFNyUHZadGwyYlJGTmdEZmViYUR4QTJKZjB0U25JMXRab2Vvc1lnTzJyLUI5Vm5qOEh3NlRPTk5iVHk1dnBPZWFuaUJSVk90RG5qZ1BHTi1iSTI5Y1l5dXhna05hQzhFQjFjejlkTUE2di1TNlhIem4tQ2o2Q1pUVmZSUHphR1J1TTVNeGk2ZHB0S0ZsZG9ERUNlUkhZM0FYTVFzWW5BQUVOZElpWmlwOXR5SXJsTUcxVHNxOVVmdXJUS0RhY09icWhvanRCZ2dkTFkzY3NiSVJNTEFMd1hselNGVkxHNERCdzFQMmI2aXJMZS1CZkRzNnJqdUdrTld5aDRCMWFwbUxQOWRMeXFLSmdR?oc=5",
-        "publishedAt": "Thu, 23 Jul 2026 02:53:51 GMT",
-        "source": null
-      },
-      {
-        "title": "焦點股》聯發科：AI ASIC明年營收佔比高達67％ 開低急拉 - 自由時報",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QWnZWcE1kM1B3WlNEUHZ1Y2hEaXRTSDZ1WkxfdEo5dkNqTTZ4djBGS2N4UVYxa3hKOTBsRXBXMjlvX3k3R0FRb1RGNTYyaFpUQmlUOTJtbUE?oc=5",
-        "publishedAt": "Thu, 23 Jul 2026 11:02:00 GMT",
-        "source": null
-      },
-      {
-        "title": "焦點股》聯發科：Google加碼資本支出！股價重回4000 - Yahoo新聞",
-        "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQZjJsTWxtcGtmSld5N2VMeGdfSUFoR1JteU0wV0ZhZTNFVGJIMEFFY2M0UllkZ1ZNOVpPd3FmYVNLZjlPdEQtS1N2R21GWjBBb3dYcnZyLUt4VG9obDVqdVlCMUVaOVd2dEo1S0R5OUx0NlBXX1NOanpZR19ZLThqRE42WVRjWEk0X2xTb1ZWSkRFZm8wTjloTXhTcEFXTU5LczlJbm1nUC11WEZIVDh1VXF5UHgtYS00WnJwZkZxUktjdm1sRHE0WlNsVjlRcF8ta0MyMk9vWUdLWnNfdWswUUJ4d1Jlczh1anR6aTZNUkJySXNXamZnOEFqT0NDQVk5R2tyeUFtLXIwVU1VcTBrTVNRb041NGJhRnhHbFI2TzRJRTd0Z2pTblhKbHNFT0o2OTNUY2o1TGJvaFBpeVdQMXE3bEp6b3REWXRoT0d0TVhQa29nYnFzUWhfSEFLZ3ZwTGc2UnJJalVfT0Jv?oc=5",
-        "publishedAt": "Thu, 23 Jul 2026 02:20:53 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 6,
-    "attentionReasons": [
-      "風險燈號偏高",
-      "走勢轉弱",
-      "近期有 4 則相關新聞"
-    ]
-  },
-  {
     "code": "2303",
     "name": "聯電",
-    "lastClose": 138.5,
-    "lastDate": "2026-07-24",
-    "changePct": -0.36,
+    "lastClose": 128,
+    "lastDate": "2026-07-27",
+    "changePct": -7.58,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "down",
@@ -116,27 +17,127 @@
     },
     "news": [
       {
-        "title": "國巨近腰斬、聯電住套房！分析師曝「這安全價」是布局買點 看好2時間真正起漲 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNNHhXcTdTN3RfVkxaVDB4XzRWcmd6akRHYUFMVTRmZHBmWkQ0Y184ZThvVWR4TUU2X0o3XzdaT2hPRWxndDVscmRyeDNuX0F0N1lfNHNJRDRYMUtMUVl6bURKZ3Q5OG1WYU9QU3FJMWJEOGo0SjAyU0pJZEdCeDVWcmVpSW8xTVFJNEtWV1ZlV19NeGEtcHYybnNnUVRrSVl4cUNpMGI2c2ZmaGZLOTRvOGFQZ1FhSGZIM1VRcXdRVVZES0ZMY3g5d09XSm9jQUl3bkF1cmpkVW5idlhwRlhkb2pGa0oyLUVRaWJSSUd6MUFBc0lRS1NtRU9kRWppX2VEYk14anVZbjJfdG1VT2FNd1o1QndCWGtlVGphLWE0WTVLUzJTdXJfVkNPbDF1NjB2dDdiM19EYXptTFNLdDg3R2oxR0xrMnQtWHpfd250Y0NjT1FESmpteEl5RWlCd3Yxd3loWmdXczE5NXd3a1FxZHpya0w?oc=5",
-        "publishedAt": "Thu, 23 Jul 2026 09:08:00 GMT",
+        "title": "聯電股價慘摔3成能買嗎？PCB女王曝「這時間點」迎爆發期 - Yahoo新聞",
+        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPdW9ZX1hnUXlNNjVBZXBobHZ3YUlNNkhHX1lMUDQ2a0lpRDA0SjNwMW9OWXpoblpQdEVBWnZmQ0daWnZfZVh4Q190bnRmNjU5WnJVODBHTjNNMnlTMngya2ptaTNSNG10RlRDQVBld2Z1STdVYzJuVEwtaVFNVGZtczFhem1DWDg1VVpiV0pIRDFLQ3U1bmhzN0lrYmRqV21PLWxJRXRLT2RqQzJtdXM1YkREVjlRNnVsSGZYSU9KVjJvRUVDVEl3YWxNdzBHWXM0b19CbGFJZjViT25kMHFwZTJwTFdUdTJDOFBqMDhYSUFJU0xJdlhZMVMxcDBpOW9TZHNkaFFxaUZhWGMzRloxcUhlalAyX0lhUkNpNnNwV3BUTXZyb1NGVVRWTDJqRzVUYzN6TGs0VUVBUnFkT29VR29vM2lPOGFPQWdYY3RRdWNTbWdOQUxuZQ?oc=5",
+        "publishedAt": "Fri, 24 Jul 2026 15:08:00 GMT",
         "source": null
       },
       {
-        "title": "台股Q3下探4萬點？群創、聯電、友達、南亞可以買？杜金龍「10檔補漲股」口袋名單：這樣操作「超好賺的啦」 - 今周刊",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSndkSkVwN1J1SW1IaWxheXpncS1nQ3UyRG5LTnRLN3NHdHU4aW9Pd0syODFsZ19HMzR5T3psRm44Mm42NjEzaUFLTjl1ajBtQjdtVWpocTd6Z184eWJUMnQyR014ZWtkNDJxc2hEcTAwUURkX29BaEpocl8tSnRpcw?oc=5",
-        "publishedAt": "Fri, 24 Jul 2026 02:01:08 GMT",
+        "title": "聯電殺瘋了！法說會倒數股價先崩 股民崩潰「股票被超度了」 - 自由時報",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MZlc1N2M4VWRzNEkyalNycDlWX05GbDBTNnJnQXZ2MUNQQ29HcWhZRm1KVXg5MGhGSEFmcGRRcXRYX181TVZQUVdKTDhpUHBpLWgzZlhxRHM?oc=5",
+        "publishedAt": "Sun, 26 Jul 2026 12:43:00 GMT",
         "source": null
       },
       {
-        "title": "國巨、聯電還會下殺嗎？ 專家：老股民都知「中秋變盤」 - 壹蘋新聞網",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOXVMRFlRTF9MdXREdXNGYTN2Q0oxbmtTTXBJeXpTX240ZU9iUDViWG9rZWNuTWVSdVRNeGtqUU56a3BCM3A1endOWWh3bzdwZnZhRUtlZmptQ01zOVZVNkJhbUo4TFBvX1hoRDF1b2w0LVpvamtEakNoLUFWcnJtVWlR?oc=5",
-        "publishedAt": "Thu, 23 Jul 2026 00:27:00 GMT",
+        "title": "五千億巨獸00919換股秀：「清倉」聯電剩一張、賣壓警報將解除 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12SVF5dTdJT0tiMlAzVFNBZVU0WUYwSmhLVkN2YkpOQzhlYVJVZ09VMElRaDdRN1NDalBPMXM2d3NXUzk3Ni12YUswZTlsRTRkMnFLOHI5VnF6UdIBX0FVX3lxTFA3TWlsWUhaOG9UcFRJbXZxNUUtTjc2dnNoSmo1SndwaGZ3VE02RUU5ZHBrTGhhdUFEalVDcnlqNW5EeTg2SzA2dDlPcXNxOXRtNHV3WGF1bGdQaE91UTZr?oc=5",
+        "publishedAt": "Sat, 25 Jul 2026 09:00:00 GMT",
         "source": null
       },
       {
-        "title": "聯電不藏了！美系三巨頭搶包產能 南科擴廠秘密曝光 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNQnIwTDh1WmtXQTJ0amwzOXlMbmJ3d1ctRXBjRnlIWFVZOFZmTWhXaHFxLU9RVjh6M1MxWU1sT1FsV3NaZ0JsVEY1NFM3WVdLYVktcmcxZGI5OUVfMFQzd0djMlZMM3pSRUhaNHZ2M05nbmM3cExIb0ZtNGJYNDl1V0pHT2l6cXdHd195dG5wZGhKeExkWDJaNEZUQkpMUm04czNpbTJYVi1YSFdjUFFSZW1SU3p5aFJ5aC1veEVLU0FvQWp3V3lZZ0ZiNU11UlIxRGV5VDdmU04zLUlia25YaGJtZC0wWm5wdzZsQ1pzUTBpdEJ1YzB2T1VRdE5KTHA5aldHU1Fua25lamx0cGFWR2FkeG5KV0FIWGEwdGw1Mm9rMlZlb1pvWEZOblBFalNZVVNzbmJIdk1wSGtFekE4S0lxaURvbWlsMldYam9IcTE4ZUttVkJjTDFUdTVWR3JQdng1X1pn?oc=5",
-        "publishedAt": "Tue, 21 Jul 2026 04:36:34 GMT",
+        "title": "2303 聯電 - 20260726，地表最強川普投顧- 股市爆料同學會 - CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YWE02LXdpMlpuMXROQnVVdzFMRkg1LV9LZVNuaFNIaFI5VE1WdWY0eklmY1NtOVBXZmtwMGVEME8xcDNkc084Tk81RTM2bHdKeWE5S3N2VTQ?oc=5",
+        "publishedAt": "Sun, 26 Jul 2026 12:15:07 GMT",
+        "source": null
+      }
+    ],
+    "attentionScore": 8,
+    "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉弱",
+      "近期有 2 則相關新聞",
+      "新聞含重大字眼，建議留意"
+    ]
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "lastClose": 839,
+    "lastDate": "2026-07-27",
+    "changePct": -6.36,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "down",
+    "trendReason": "短期股價落在中期均線之下，走勢動能偏弱，建議留意是否有進一步利空消息。",
+    "segment": {
+      "chainId": "semiconductor",
+      "chainName": "半導體產業鏈",
+      "segmentId": "substrate",
+      "segmentName": "載板與導線架"
+    },
+    "news": [
+      {
+        "title": "3037 欣興- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會 - CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxYmEzM0JPNkZCSWVuOEt6OUFQSVI1RWFaNnhoLTFzRmdEV091ZFJONWt3UEdzSjRQdTVoVzkzbHBfLWNETTlXQXZYcVVPd0JSWW9ZdUpNYUY?oc=5",
+        "publishedAt": "Thu, 23 Jul 2026 13:11:10 GMT",
+        "source": null
+      },
+      {
+        "title": "AI需求旺到爆！欣興6月營收再飆新高 獲大摩高喊1465元目標價續看多 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOQUthTEs1NnNjbFh0MGI5YUJuNEtIUC1rSFZwdVV5dXhaVjNjQ3FzSFMtRW9SV2ZzOS1YM1hrNnRkbzJpQldBWHFWemRGWWhMcmptQzBiVjZvbkRtQmttdVhIOW5tNm9WbFhNMXNsMUJIYjh5ZWRheGhzUXBSaVFTbTB1Q08tenVEbnQ5X091VDM0QjRyN1hkdlo5WllvUjVEVUk4WW0tYlVkR2VqNDBuTms3Y2dHc3JoeVROYjM1QnpTb1VmS21sdHVLMVF3WDlBZE1SUDB3U0VSLWZENllqOWl4OTdZbmszdWx1N0gxSHRhSGFic1JKRnZuWF9VbWVJMGFSN0NqS2c0bGhwRm56UlQ0VHBVdlFfWjV1ek9pTUdDcDBQVGcxdXZ2amkzMUVIb3oxa2RUMmhWYkRhcmdjMXQ0YkhuYXluMkd0NHhobnBtNl9TVDlmel9MQkxTaVZ3RTNvOHQ4TWUyT1ZHR1kxTHpkTGp1bUJ1ai12VlMxRmxWZHpmUXFGQVFfZUZEaUlGQmh0VDhLcWsyV1JPR0Y0?oc=5",
+        "publishedAt": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "source": null
+      },
+      {
+        "title": "輝達Vera Rubin載板台灣雙供應商！欣興 vs 景碩 Q2 財報、財務指標與 2026 年股價展望全解析 - 理財周刊",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sNXpFdElMUzAya3RrVEZWUDdoYm1TSzU1TUZTYXRxN0ZvZWkweW1tNkpOQ0dGQ3Rwc3pDaDlWdnhTS25kY2U0M2dMdG5SVGVtWTZVa2M0WmNaRmQ5NkNqYVZqNXhnT2JqbE9Mbk9uYw?oc=5",
+        "publishedAt": "Mon, 27 Jul 2026 03:09:25 GMT",
+        "source": null
+      },
+      {
+        "title": "2026 ABF載板產業全解析：誰把BT訂單讓出去了？美日韓台載板廠競爭力總評比！｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+        "link": "https://news.google.com/rss/articles/CBMijwRBVV95cUxNM29IVkdPREV1Y2NSY0NQSFlDWnZtMzNPWFNfbUxzcGE5SmtHb1FZRmYzWVFBdmNzSTZpMnN4cHRBUWhVbFlqM2JiTmFjcWxQNDZtVUwxa2N1RWl1NmpSSmR6QVJYWHctYU5icGwtV25STi1aaWpiSDhhb3BXYnEtLWllNW1EUTNEZXMwdG9iV0JpUk1VUl9aVlpMTmlZX0E1cGdpOFp6RDFsRGdyZnE0bjJnLXFhNzZmNFhGbFNqR1JJc3VwMEZVM3FVMEVESEtaYVZJNHFxRWJuWWc5Z3ByR1FhaEFjblR0eDdBWjZIOWFrZ0NLOHpNYWxYdV9vNGtFdFczZWlFZkEzQXUtaTNOWGlJSXpNTklLMk12dm9xZ29naS1YM1RzczhkR1RpUEozQkM3QXFSUFc3TzdwYnJuVnRIZjFSZjJIVUh2MVFtWWdOVExxQnMzVl9YNHpXWmFDdDVwcDFlUDRmbjNINGtjbUd6ZVRTNnJoWDQyZThQOUJpbXdXUGpnazRuZ01mR010eTNQY3Rmd1ZJY2pSbk55RThwalVod0dJUXNTS2MxSHVPUnZqbVRGOVJLVnRmT0NtTFpVTUg2dk45LVJxQnlsX2U4Y1dIWFlXT3VieTJjYnNpbjhXTU90ejVMVmlPek9RQWlDMV85NXcwWi01bWxaMlpHYjluYi16UFh2bF82WQ?oc=5",
+        "publishedAt": "Fri, 24 Jul 2026 11:45:45 GMT",
+        "source": null
+      }
+    ],
+    "attentionScore": 8,
+    "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉弱",
+      "近期有 1 則相關新聞",
+      "新聞含重大字眼，建議留意"
+    ]
+  },
+  {
+    "code": "2454",
+    "name": "聯發科",
+    "lastClose": 3750,
+    "lastDate": "2026-07-27",
+    "changePct": -3.23,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "down",
+    "trendReason": "短期股價落在中期均線之下，走勢動能偏弱，建議留意是否有進一步利空消息。",
+    "segment": {
+      "chainId": "semiconductor",
+      "chainName": "半導體產業鏈",
+      "segmentId": "ic_design",
+      "segmentName": "IC設計"
+    },
+    "news": [
+      {
+        "title": "股票賣飛少賺好幾萬！他崩潰喊「賣比虧還痛苦」 過來人曝調適方法 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQSlRzdVdGYVVZMzVid3hXVU1aZEFvbElFU0VVU3FWT3NDV0FzT3prTUprc2gyVXRCVDVPSXVpRUk0bzRhREZrdWVUeVV0bDNrZmlPa1F1ZE1RX05FT253UnJVZzh1UzJzRkFObHFUeFlsbno5RG5paXdIZHg1OU16QzlNVDBrMi1DT09BT3J4WFAtaGdIUEpGcHVBbWZyNjE1YXNoNjJRMlVpS3dSX1ozeFBwTUFHU2d0Z2FKZlY1cUg4c3ZIR1QzYkhHNTl3UkRiQzVfbVJnSmJhbGY5Z1o5dUxtY0d0V0U3WUFWSy1RQUhueDN1MGQtbzAwNmhoenVUWWpOc1ZKYTBBUGNPVHFVaW12QlVGQWNtREUxd0FuQ25aaWtyMUxPNWtwUFVpNFpzWlVnRWJzWWRhWGlUWFE5MTRBem1vZWtPQ3YwZGhaUnNrRkRYUnNTWnFDb1FMOFNNc3RzVHFDN2xjOXg1OWs4M1paSmlfLXZCaWZidWNfQ1Zpdy1LWDFOU25sRlRkM2szbUNIQjdPVngxOU1sbHNvZXViZw?oc=5",
+        "publishedAt": "Fri, 24 Jul 2026 03:15:44 GMT",
+        "source": null
+      },
+      {
+        "title": "聯發科領跌 台股早盤一度失守43,000點買盤進場低接 - UDN",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZbUN5SWJXZ2YyUGNaNkh6YzcwekhDTGw4X24zcTU3R1lvbEdIMmtnbEZRdEdJTnVySXp2TDRWNFlCMEdfRTktY2tGM0k1TXdp0gFWQVVfeXFMTVJqVnlHVlIwY2d3YlhnS2RKcUZNUUI5T0t3a0hxclNxLU9GeVAzRnZzeUdQYnNhQkJnOE9tbjBKWEZsTmltbHJsTlpGcW9jYjE5M3Rncmc?oc=5",
+        "publishedAt": "Mon, 27 Jul 2026 01:45:13 GMT",
+        "source": null
+      },
+      {
+        "title": "【07/27 產業即時新聞】無線耳機盤中承壓，聯發科領跌拖累，瑞昱獨強逆勢揚 - CMoney投資網誌",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLTVuM0xBczBtVUpKWkNiRkFzRDNEaVhubVNzV1JyLVdONjJPRnlQaFBFOU5NeW1IcENKdTRjNkQ2Wl9OX01MZkE0bkM2cVBpSko5Y3RseDFHQ3pWb1hzSHhzRkFBS1RZX0RpUWRWWTRhNHVwM1cxRFZOZm13QXVJVWszSGZsQWZzQUFnQ3Vn?oc=5",
+        "publishedAt": "Mon, 27 Jul 2026 01:42:56 GMT",
+        "source": null
+      },
+      {
+        "title": "個股：中環(2323)7/14～7/24處分聯發科股票85張，處分損失約2601.4萬元 - 富聯網",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRzZYN0d5eWF3cGdMdXA2M3FRSm1COGhwakpCeWtXVXJKWGh3VUw0NG4tYmJlM0pIMm9kSHM2OC10LVhEczk1NkpCaDFzZXBqUFR6SUE0V21VbV8tUlNsVnFESTM4VFZrQmlNbENkQWxLYnVkXzNVRVlVcmJ1LUxzM0xaR29pd3hU?oc=5",
+        "publishedAt": "Mon, 27 Jul 2026 00:29:00 GMT",
         "source": null
       }
     ],
