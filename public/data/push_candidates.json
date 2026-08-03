@@ -1,10 +1,33 @@
 [
   {
+    "code": "2330",
+    "name": "台積電",
+    "lastClose": 2425,
+    "lastDate": "2026-08-03",
+    "changePct": 9.98,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "down",
+    "trendReason": "短期股價落在中期均線之下，走勢動能偏弱，建議留意是否有進一步利空消息。",
+    "segment": {
+      "chainId": "semiconductor",
+      "chainName": "半導體產業鏈",
+      "segmentId": "foundry",
+      "segmentName": "晶圓代工"
+    },
+    "news": [],
+    "attentionScore": 5,
+    "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉弱"
+    ]
+  },
+  {
     "code": "2454",
     "name": "聯發科",
-    "lastClose": 3235,
-    "lastDate": "2026-07-31",
-    "changePct": 2.7,
+    "lastClose": 3555,
+    "lastDate": "2026-08-03",
+    "changePct": 9.89,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "down",
@@ -15,46 +38,19 @@
       "segmentId": "ic_design",
       "segmentName": "IC設計"
     },
-    "news": [
-      {
-        "title": "千金股全面大復活！台股創史上最大盤中漲點 信驊聯發科領30檔亮燈漲停 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOSjVVV0tZOHVINUVmYTA0VTY1Q0RyT0hLcUVyU0RGUjlyOFdxV21MM1VGYjVJLVFWZ1F5UVVqeTBfVzZUbVZtS2FTY0ZZR0VfakluQjZvcGRGZEc4eVdJaDRkamJpRTZNS3o1MnVMRTIyTkJJYWRIR2hwYXVwQXhNRm1pdjVBNzB6N3FYSmo4c2NNTExEZW8zRzljLU4yT1hVNVZfem5zN1pBRlBqN3hhd1JwWng1cElWZUdnSDFJT2d5RExnUm5VQ3pHcW5YbXhXWGMxY0hiVW1rYUVWQ1JfTHBERFZkN2J2WG1NZWVFamhXX3JsY2dtWlRTZm5ONlZybzB5Q1dabHY1YTVhR1BBRVNYLWJXQldPczdVSVBzUU9QSnZsS1hsaEFkc0Jnd3ltNHhZVFFQazc3d3Bka281ZkZ1Y1YwY0JKZG85b2VYbjNTeUVzUzFucHdvSmpDYXMwMEpGblp6M1JRUUZ1VVBoSXducUNTY3BBanhWb1JteGVEcENtd0hHN1JtX3Q2Uk0tV2lkX3piT2V4YjNSb1NQcm1GRGVWYlRfSTJlNjZVc3owRXlZZEVVVUZ4WnI1c1B3bG5pWGZrMTVQeVdaYUNldzEwSQ?oc=5",
-        "publishedAt": "Fri, 31 Jul 2026 01:43:43 GMT",
-        "source": null
-      },
-      {
-        "title": "台股一度暴衝近3,000點！台積電觸2400元領攻聯發科、日月光強鎖漲停| 股市要聞| 股市 - UDN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XbXMyYUlGZ1RpVDhiT2p4ZXBHc0lFb1hEWmFVbnktTGQ1djZESWVkbm9PSmNhZFBlSzIyQWRFbVdtbkl0S2dqcDhtR1lxekVJ?oc=5",
-        "publishedAt": "Fri, 31 Jul 2026 01:17:13 GMT",
-        "source": null
-      },
-      {
-        "title": "焦點股》聯發科：法說會倒數！ 股價跳空漲停 - 自由時報",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Zd3ctNnVTcnlqc3BPRmo4Y2VSRmx5ZVZwaUsyZnFRaXBPd3AzMmUwdzJJUk9PU01zSVV2Yzg3cGt0WGZCUkh2cUxRMEplWS1sUVRqQkgzSDI?oc=5",
-        "publishedAt": "Thu, 30 Jul 2026 10:51:00 GMT",
-        "source": null
-      },
-      {
-        "title": "《價值型投資 最新產業研究報告》聯發科（2454-TW） 雲端AI晶片開始放量，手機低谷後迎接新成長 - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKUGZnWFRRQUNWTkxMdzdta1A3M3lvaGxGSVNjOXJFdUZHTVQ0M1lGUGFRVHVEZDdhXy1zRWpWbFA2TkZrVkhDekl4UjZIX0E?oc=5",
-        "publishedAt": "Thu, 30 Jul 2026 05:53:06 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 8,
+    "news": [],
+    "attentionScore": 5,
     "attentionReasons": [
       "風險燈號偏高",
-      "走勢轉弱",
-      "近期有 4 則相關新聞",
-      "新聞含重大字眼，建議留意"
+      "走勢轉弱"
     ]
   },
   {
-    "code": "3711",
-    "name": "日月光投控",
-    "lastClose": 505,
-    "lastDate": "2026-07-31",
-    "changePct": 1.2,
+    "code": "2303",
+    "name": "聯電",
+    "lastClose": 121,
+    "lastDate": "2026-08-03",
+    "changePct": 10,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "down",
@@ -62,91 +58,14 @@
     "segment": {
       "chainId": "semiconductor",
       "chainName": "半導體產業鏈",
-      "segmentId": "osat",
-      "segmentName": "封裝測試 (OSAT)"
+      "segmentId": "foundry",
+      "segmentName": "晶圓代工"
     },
-    "news": [
-      {
-        "title": "日月光投控法說／Q2 EPS衝上4.80元、資本支出全年上調至105億美元｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxONy1aaVl5X0pOWDNWb0c2Wm5ZWEliZElzRExRX1FMUnRYVFN4Q0dhZXU5U3BsQUJXU0NkLUlHc2h3VmY5MGJoRTlSbzFiTmFFTHFNOTlLUEpRUnYzcjlrN1RfODFPaHdrZkpwdWtBc3dWU2ZCRDB2STZSSE1XUC1WU1h2WG5UWVVXalBQY2w0MWhsZ3RhOGhjUXlnTVY0dW5ONUVsTzE2a25UR2R0TFB3SE82NndwV2E1NHZYek5ueHNVNzIzV05DS0NlRHVUcDdJak5lblBib3dIeVBqVTA0YjljTGpQTlZRTWZuTFJ3NjRPX3hneG5iZ3ptUDRSdWVqUUFlMER5UTIweWJNOWhTX05FNkJaeV9ZRUZiVzhUSmVNZ284ZEdZbGRnZ2xScWJ5ajUzRWVCazNQbndUNlZ3S2tzQ3AxOXZMSWRGSjMwVHNjcWhxTzh2VEctS2txNllOQUIwV0FLZGVSQ2FpemtjdktuTGFwbHBsZzJGUzlyUkpZdmtCVHRBdFpDdUxjWVh1cEdoNWYyMW5oaU1zRWpFN3ZNZlpLcExSMXZrNmd0alozUVZ6dnRKYVowYjFPcnpONXUxc29WT2ZUQQ?oc=5",
-        "publishedAt": "Thu, 30 Jul 2026 10:29:36 GMT",
-        "source": null
-      },
-      {
-        "title": "3711 日月光投控- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wbkRGQ1doU3Ryb0llakQxam85UDllZzFuWi1ydXBoOE9PLVdKQkoydXhjbmRuV3VBdmRFWV8tVERLeVU0MGJUazJ2R3Q4OFdyN3h2Y19lUXo?oc=5",
-        "publishedAt": "Tue, 28 Jul 2026 13:58:52 GMT",
-        "source": null
-      },
-      {
-        "title": "《外資》賣超股：台積電、日月光投控、旺宏 - 富聯網",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXIxM1dBNnpqUVBpdjV1Qkx3NHUwcHRiQmpRSC00NVJxRUxTUTAyR3ZtU1BHcU5RVXI3Skh2dS02TF9lZmhfell6NVFmY0R2Nl9XZ0syODZkOGtZU1lxeG1iZE1zM3N0dnlLdG1oS1A0RGNrM3c1SEFjWGlXR1FPNFVPcmtlUHVV?oc=5",
-        "publishedAt": "Thu, 30 Jul 2026 23:45:00 GMT",
-        "source": null
-      },
-      {
-        "title": "日月光投控（3711）：全球封測龍頭剛上AI列車，獲利翻倍還沒到極限？ - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNUUQwMzJhRnBTSzVZTEVlc3dkQVd3Y0pkOVZ2LWhKMXRyakZmRGFlNUNUekk2NkRJN0xtSnZuQWN2Rm92dlNlYlFoTG1tb05hcnlGZjZIdW9WTndGSmdQWEl0YVhETEJkZkdsX3lFVlQ4S0w5TktzM3ZrVWxYSWRQcHgyX3FWUmtWQzMwVTF6Yks5eTFObnBiOE8tWk82dlh6TXRfYWlhdzhkUUZUa3d1WG5sb3MtejI3TjJVeTFLVXFTR0R5T2plcUlSNGZlb0diN1cyNk1VYnpyNThjRjRUQUU4bnZPbmVLMC1jNG1QZUtqTm96ODduQUFpRWlVS0xlbXZYS0N6aFVHTXFhUzNQRE9IdnBBWkhkZGgycTJQRC1MZ2x3b2xicDNUak9fTjdRTmxnbTdPQ196Y1ZlOUhfMERuQ3ptV1FJdEZBTFRVbkNReGRJdTdlOFJRZGFrZXlkOFRVTmdxbE44Nm9za05oWFRqd2s5eGVCX0R0dVlsd19lNGE4RkZN?oc=5",
-        "publishedAt": "Wed, 20 May 2026 07:00:00 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 8,
+    "news": [],
+    "attentionScore": 5,
     "attentionReasons": [
       "風險燈號偏高",
-      "走勢轉弱",
-      "近期有 2 則相關新聞",
-      "新聞含重大字眼，建議留意"
-    ]
-  },
-  {
-    "code": "3231",
-    "name": "緯創",
-    "lastClose": 160,
-    "lastDate": "2026-07-31",
-    "changePct": -5.6,
-    "riskTier": "high",
-    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
-    "trend": "up",
-    "trendReason": "短期股價站上中期均線之上，走勢動能偏多，但仍可能受大盤或消息面影響反轉。",
-    "segment": {
-      "chainId": "semiconductor",
-      "chainName": "半導體產業鏈",
-      "segmentId": "downstream",
-      "segmentName": "下游應用／系統廠"
-    },
-    "news": [
-      {
-        "title": "緯創股利突延到8/3才發 竟因系統廠商出包 - Yahoo新聞",
-        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOdGV4VFFVT1Q1Vm5EWFZzTzVmeWhLM3lnaTFjN0VJTzFQZ0hWTExtZElwTTJRZUlTTHhzQnFzdG12Zm45MmxMb0U4eHI0alpLUnNENFI2eURqNnhJRGZwbmdmSFdoY20zSGxoZS1BUldpUDF0blFkVkZzVkNZZG1SUEZwdU5ZOHhsQVVJekFGRWJwb2xmcVJVX2dnSVlKeVFLdTFTU0EwNzlWZGtNSV9RMmV2N3VxTTJ4MHl6ejdSTTcyXzgxdVBMdWptYVJNZE1JN0ZOSkxCbXVOOHhUbXNpb3c1OW55VWVJWmpTWGRWU0RTMUtjdVYtdWp1VFhfTVNHU3ZJUVRxUEtGMUtGazhRdTY4NnJ6al9faEVvbE05Ym00MURh?oc=5",
-        "publishedAt": "Thu, 30 Jul 2026 23:24:49 GMT",
-        "source": null
-      },
-      {
-        "title": "緯創晚間發布重訊！股東注意：股利延後3天發放　原因曝光 - ETtoday財經雲",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IWEVqU1VnODd5bmlUY0g0LTVabnhLbm5pR003N3RuLVRRU0NycFhhcTlKZHlDSjV4SFE0YmlfWmVlNTJQRnhTQ0E4TEloNjNuZ0HSAVBBVV95cUxOejQ1alZyLWV5bXM2S2thUGJ3U3RIaE04NHlrbF9KdmdNZTJ3N1BrMWZ3UWxrZmIwTTNQOHBoelQzRzY4eG5MUlF2MGpIclZhRQ?oc=5",
-        "publishedAt": "Thu, 30 Jul 2026 15:14:00 GMT",
-        "source": null
-      },
-      {
-        "title": "3231 緯創 - 緯創現金股利發放日延至8月3日 - 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tREJvcHV2bkJGdlBVQ05hM0FLVWpsUmhjcXZQZzc4am9kM1FWNTVoNVNSSXZwS0JJekJWMGVscUR4X3ZsVVFmZHpIQl9TM1RTTWE2T3V6NWY?oc=5",
-        "publishedAt": "Wed, 29 Jul 2026 16:09:28 GMT",
-        "source": null
-      },
-      {
-        "title": "緯創晚間突發重訊！通知股東「股利延3後天發放」 | 民視新聞網 - LINE TODAY",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41TEdHMnZWLXEwc2o1UkVicjMzV29XN1dULVhOQWt0X25DVHl6b1pIc3VwX05KdGU5eWxuT0ZvSldNV0Y1RTliekpfWVFib3hCUzFkTWJ3?oc=5",
-        "publishedAt": "Fri, 31 Jul 2026 01:43:59 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 8,
-    "attentionReasons": [
-      "風險燈號偏高",
-      "走勢轉強",
-      "近期有 4 則相關新聞",
-      "新聞含重大字眼，建議留意"
+      "走勢轉弱"
     ]
   }
 ]
