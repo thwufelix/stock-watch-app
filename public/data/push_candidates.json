@@ -1,60 +1,10 @@
 [
   {
-    "code": "2454",
-    "name": "聯發科",
-    "lastClose": 4050,
-    "lastDate": "2026-08-18",
-    "changePct": -3.8,
-    "riskTier": "high",
-    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
-    "trend": "up",
-    "trendReason": "短期股價站上中期均線之上，走勢動能偏多，但仍可能受大盤或消息面影響反轉。",
-    "segment": {
-      "chainId": "semiconductor",
-      "chainName": "半導體產業鏈",
-      "segmentId": "ic_design",
-      "segmentName": "IC設計"
-    },
-    "news": [
-      {
-        "title": "SemiAnalysis震撼彈！ 聯發科遭砍單傳聞重擊 股價一度跌4% - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOU2JTdElkR2ZQUTVSeUxpUFp6dlo2N2FfbldSQ3YySnJmbWZienZhek9QYmxjUXlFUGZCemdKcDNxeEFJMnFGVDlUXzR2dzNuV1RkYXJCUWRSVzJFSWhNQy1Sb0w1MDJ0bEVsNDdhZkhWVXZkNmlwa2x4aDlQVV9POUZmRzBLMUlxSEVSUHBqV2gxMkw4WVRTcFVNc0ptUm53WVozbE01VE5TdnhYcHRaRWQ2dlF5SUxaeUt1OTBjY1FYbXBhU3NCSzlWOU1Cd3pkanNWeEczWS11SE53VWpSQ1VQaHpnNDNEUTVXYTZXSENjZ3ZuU1VFZ09qeE9aTkhySTNXRTBBSVg1TXRHQXlJeXNyR2x5UXIxeS00SHhOSEl2MFJRb1drN0J0UU5OWkNUbHRZQi1WSzNpV1BX?oc=5",
-        "publishedAt": "Mon, 17 Aug 2026 03:57:23 GMT",
-        "source": null
-      },
-      {
-        "title": "AI ASIC商機看俏 外資調升聯發科目標價到1萬 - stock.ltn.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51Rm5kOWNKTHBJSFhDVm1mS2o5cml5WS1KaGhqVGlMdllsMm1jUnFLVFRXaE04aW1WbDdrZ2RFcGF0STFLdU94eFI1bTNNMUhwanNaRjdpREo?oc=5",
-        "publishedAt": "Mon, 17 Aug 2026 15:34:48 GMT",
-        "source": null
-      },
-      {
-        "title": "台股急漲7000多點後 台積電、聯發科、鴻海、緯創等老AI要先賣一趟!? - news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsa1BzdTlXekNmU1BkTE05TjM5ei0wSW5jLW9idGJLSzZ3V1RYT2xBREtDN210aFVvLXR6dnpJMTdjSnJwVDBoMmJPTkI2dlU?oc=5",
-        "publishedAt": "Mon, 17 Aug 2026 00:38:45 GMT",
-        "source": null
-      },
-      {
-        "title": "資金派對未完！股票ETF單周流入302億美元 外資爆買台股居冠亞股 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNeGd0LXE3MDRTVDh0dm1XaWZUeEZ2WklGUUhJT1E5cG1NNDZ6RnB6RkpMNlo1eDNPNWZrdTBSaWpJUDNuN2hwckdBd05GYTE0V1psbTZYSVBVUTlzcFBxM19fRFFjM2ZrNjgwRmhuRkhfVVk4RkR2Mk5XZF9iR1NCTzJZWUVNak5pY3hYdmxmNmFFWmFFQnhjZ1BFMjdkVWlqVm9PTWxKazY4UnZLVklJSmo5MzdoM0ZqYUg4bDhVMU9Oa3V5d2MybFJVUm1la2c5dThXLVQ4VXNEVmdBYXZPZGcyenVCUlFBUy1WMWczTlVjUzFVSk5HeFRYWTluWEI0UEdkM0lyT1VROWlwdmNMSGFsd0pPbnd6SExBWm9yUVZSd3FwQm9FWU5sR21WQ2RiS0lnSnlhakM1NXlwTUU5d3FlUmxFbUdxVXYteE5TaWk0U202TmktendZREhLaVBEM1lrd1A4MkhlRzNvbnpvRk1YbjM2UjZkVjUtTTlxcFVPTUl6S0kyM1NfUEhWWmIzY1E?oc=5",
-        "publishedAt": "Mon, 17 Aug 2026 12:20:30 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 8,
-    "attentionReasons": [
-      "風險燈號偏高",
-      "走勢轉強",
-      "近期有 4 則相關新聞",
-      "新聞含重大字眼，建議留意"
-    ]
-  },
-  {
     "code": "2330",
     "name": "台積電",
-    "lastClose": 2400,
-    "lastDate": "2026-08-18",
-    "changePct": 0.21,
+    "lastClose": 2380,
+    "lastDate": "2026-08-19",
+    "changePct": -0.83,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "up",
@@ -67,15 +17,9 @@
     },
     "news": [
       {
-        "title": "明年「普發1萬」！網算「通膨購買力」 搖頭：台積電恐只能買3股 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOOGprWjRSblpPRjc5akh2eFBGNWVQU2xLamVIcXdxNkx5dld2Zzh3U1BOZkk2cUYtMHREZHhCYmFERGdTWFJTOW90U0lfVHNiYWlyUHYzVWFFdUJ0SFBXUGwtMVo1OFVFM2h4THpRUkdLdVFFWWRHekZVTFA2cGxqeV9MaHF5TzNzMDlZYVdoZTRSOTEwYnFhUUxTaWtTOEpUejNaSmJKYWVhOEpONzROVzU2QTZBakl2ZUdtWUpEOVEwV29zTWZJYTE1VjlOY3I4SEZUanBGaXIzNVl3WWdUaWVCVkZhQXVkNVBpTUNmOTdRdlI0ZXBpaDh6VFRnM0V1dHlIQ0tjd0Z3bmJlbmtEUjM2U0NaVzAzekZmdjJpTXlxSkNUOUpWMkg4VTh1RlBFNk9tQ1BzMmFPWDBxMWpMeTZkQWg5RUViWGwwNWFkUjBCLXFjR0xXdkt6SjE0YkU5MnNqRE5WSk1DN1hwSHRJZG5ybHY4WVlqclEtdTIyRWo2bHQ3RXUwLXpodjdOTDZYU01ZZDJKYloybTBETkZranBkVnZUR2lZbjIwbGtvOA?oc=5",
-        "publishedAt": "Mon, 17 Aug 2026 09:02:19 GMT",
-        "source": null
-      },
-      {
-        "title": "台積電(2330)股價多少可以買？張錫親算「最新甜甜價曝光」：1800元很難等到了！小資族最佳買法一次看 - 今周刊",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzdfenZyOWU5S0IwWm9zMk0tek5SSGthcHpiSG5wc0ZGSWQ1cFg3VkdPT29RcS1fYlV4RmZGMGFadEc1SXlyaF80Z3p5VW9BSlZPVkp4aGtzb09VMHhGRFpTcVIyVE1WUkJfa3J3bmZmN3ZCbzNfZ2xyMmJnaXNGZg?oc=5",
-        "publishedAt": "Sun, 16 Aug 2026 08:04:00 GMT",
+        "title": "普發一萬有底氣！謝金河再獻策：新生兒送1張台積電 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNazhRZDluZUZaSFBrbklXaDI0QkVILWQ2M1RxbnFVRWZ3MlludFJMdnhQM1JaakFhVWpJeVRQYVFlTjlhU3dJQ1dlNmRxVzU3OFU4WnltTGdzLUVBT2VYbWpnVEphSkdJN2l2NnJMMjRSRXJpUWJ0TUxsYVlrb0RraHFQTjhRV081NWJ6T0h0WGlUUG1KTlRvRUhDLVBwY25zRF96LVRyZkY1V1l3eW1SblpDRnQyY21IZnN2eGVpYU94OXVEdkFEbGJSVzBxYjVUa2NZQnRCMjFBTm9ZT0hHN25ER296VGFpeDYxY21IbUJyUFNMQ2NoWkNHcDY0aHF2TVBpdTRkdUNjTmlKcnRmNmVjMnNZYWVIRHZ0MWhpUG84dFJmREE4RHpmMTFvTTZ2UUZ2S19iWWMxb3hVcUJxaDA0ZnBuQ1FSRUMxLXBhaHItU2hrQUswd19nR3lSc190aFBuWHpYMVVqdTF4RlQ5Tg?oc=5",
+        "publishedAt": "Tue, 18 Aug 2026 02:12:52 GMT",
         "source": null
       },
       {
@@ -85,9 +29,15 @@
         "source": null
       },
       {
-        "title": "台積電股價1年飆逾8成！外媒：需求沒放緩「還值得買」 - TVBS新聞網",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rWDFKX1Z3QlZGUWhobGdESDBVcmFyd2JrZDhWNzlhODdZTUR3X29HWkR1cnh0M3phTHdEWklXbXRJNV9jekwxTjZYN3pua1k?oc=5",
-        "publishedAt": "Sun, 16 Aug 2026 04:16:00 GMT",
+        "title": "台積電「股價1年飆80％」還能買？外媒曝1指標給答案 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxORmhGR3pWUUtOZ2xEMnJ6S1ZDajRiS0lxdkZPdTFldFFPQkVWUVVNTzFkckFRODNTNmE0dF9lX3Y0NVZuSVpCeVh5clZvQ2NMTlNWUWJSXzU2OXJ0MnZGNkNZNWFEVTZubFFEc0pQYXZodFZxOU9UYW55VlNCR2tqWUs1Rlp1LThEampBSlFjREtDTUNncVU0RkFpcFlwU3REWGQ4UzdhcnhFLWYwb3JkT1J4YWphTjU3dXRBU3FnRWxpZVJoVHdfVmREREhrRmp4c0cwckQ3R3RqOW1URE1LWW4tTFNHRVJzZWQ0NzBHSlUxdTFhYjFLb0RWUWl2QWFwNDZ5X2FENE4zZGtLTUlVYXJvN3NrN0ZRTDNVVFR4OW9yTHg1ckFGR01fRnFkcm56X0FKTWl5WlJ2UFZN?oc=5",
+        "publishedAt": "Sun, 16 Aug 2026 14:25:22 GMT",
+        "source": null
+      },
+      {
+        "title": "台積電股價1年狂飆80％！現在還能進場嗎？外媒這樣說 - 東森電視",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKLWRBYUNEczlpRGlZb3ZRaXc1R3ZfOGFPWjVyR2lqMHN2TFBUaHcyem5SNGJMUWY4RTZvU3NSdUtydWw3eGpUeElxU3NlLWc5ZTRLQ1hCSERndw?oc=5",
+        "publishedAt": "Sun, 16 Aug 2026 09:11:00 GMT",
         "source": null
       }
     ],
@@ -95,15 +45,64 @@
     "attentionReasons": [
       "風險燈號偏高",
       "走勢轉強",
-      "近期有 2 則相關新聞"
+      "近期有 1 則相關新聞"
+    ]
+  },
+  {
+    "code": "2454",
+    "name": "聯發科",
+    "lastClose": 3885,
+    "lastDate": "2026-08-19",
+    "changePct": -4.07,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "up",
+    "trendReason": "短期股價站上中期均線之上，走勢動能偏多，但仍可能受大盤或消息面影響反轉。",
+    "segment": {
+      "chainId": "semiconductor",
+      "chainName": "半導體產業鏈",
+      "segmentId": "ic_design",
+      "segmentName": "IC設計"
+    },
+    "news": [
+      {
+        "title": "普發萬元紅包怎麼花？國泰投信建議「股票拚成長、債券降波動」放大財富 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNUkFqVEx5UkVnZzQxaEdNTmFBNzhkNkhvcXZlcEFfSnVubnZoUnd5ZkxZdDM1SjRoTFZacmFjZ1FPM0NJT0dVUjIwTVFDb0JfZWVENEotaFVxRXlHNEFRZWtZRHFyNTZaaUVhWnluVGt3NWw5OGtnQmlmWk1IV2xGOGh0bU5tRm5uZjh3T3pGT1oxOGl5VkJVU2ctUnR3U2xEZUJ2WmtSTVUzaVNkUGNUby1WVnFMMC1kWmFLcmpWQzZPci0wbnZ3Y25PVmpoeVJpUmlvc0xqcGhTUlNRVUtqYVpOeTdyN25wYnBRNm9Cc2JfUFM2bzUtZnJpUUEwUU1LNUw3c2VLLUlYZ3pEd0FOUzhPNWVTYldhUFdINHBPUzVBTVV5ZzV5dE5yOFZCYVpXM3J1Y1pDX1dXV1dEd09nZUlrMGlheHNyNGJMTGlVTW5teDZvVFdzQTVYeGc5ZnFNZzk1MXRQQ2ZRLUpic1lrQjlzSmtJckJqeWpMZkxKWEpqLU1UUlYtNlR6RUtJSDdlS2RNY0JJeUo2UkJkeFVOVmhmeUNCdHptZ2ZQaVZpZDZDdzU1MGE4UmR2aVg?oc=5",
+        "publishedAt": "Tue, 18 Aug 2026 15:57:56 GMT",
+        "source": null
+      },
+      {
+        "title": "四大壽險金控大買AI股 台積電、聯發科、台達電等獲青睞 - UDN",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rNW9TMURKNEt1c3hpeUNsZ21Ic0RkcFhuTzM3N21QTHFmY2NPc05wV0Q4NHJWTjRwQnBIeHRQVldGbUNtLW9YNWgzU21PVUtY0gFWQVVfeXFMTk80cktlSG5wU2lmSXl0WHVNYUd6bGlqTWJLeExObHhJeDAzVFVVZXNxMFEyeThNZ2JyYWhaWkhnYzROV2M2NngzaXllNWJHYXc0a0g1Ymc?oc=5",
+        "publishedAt": "Tue, 18 Aug 2026 17:49:11 GMT",
+        "source": null
+      },
+      {
+        "title": "焦點股》聯發科：除息行情亮眼 開盤秒填息 - 自由時報",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2V0NZX2YxMk1VTDhaQ1hvdm14djI1TWduS1hROTFnOTVJbkg0SXhMZW1TMUtCVTAwdmdhZzEwWUlNRTc1enFJSzBvelF4dnRJdF9YV2VCcHk?oc=5",
+        "publishedAt": "Mon, 17 Aug 2026 19:40:03 GMT",
+        "source": null
+      },
+      {
+        "title": "台股急漲7000多點後 台積電、聯發科、鴻海、緯創等老AI要先賣一趟!? - news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsa1BzdTlXekNmU1BkTE05TjM5ei0wSW5jLW9idGJLSzZ3V1RYT2xBREtDN210aFVvLXR6dnpJMTdjSnJwVDBoMmJPTkI2dlU?oc=5",
+        "publishedAt": "Mon, 17 Aug 2026 00:38:45 GMT",
+        "source": null
+      }
+    ],
+    "attentionScore": 6,
+    "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉強",
+      "近期有 3 則相關新聞"
     ]
   },
   {
     "code": "3711",
     "name": "日月光投控",
-    "lastClose": 615,
-    "lastDate": "2026-08-18",
-    "changePct": -0.16,
+    "lastClose": 599,
+    "lastDate": "2026-08-19",
+    "changePct": -2.6,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "up",
@@ -144,7 +143,7 @@
     "attentionReasons": [
       "風險燈號偏高",
       "走勢轉強",
-      "近期有 2 則相關新聞"
+      "近期有 1 則相關新聞"
     ]
   }
 ]
