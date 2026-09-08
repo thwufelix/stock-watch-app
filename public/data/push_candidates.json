@@ -1,55 +1,10 @@
 [
   {
-    "code": "6505",
-    "name": "台塑化",
-    "lastClose": 78.1,
-    "lastDate": "2026-09-07",
-    "changePct": 2.09,
-    "riskTier": "high",
-    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
-    "trend": "up",
-    "trendReason": "短期股價站上中期均線之上，走勢動能偏多，但仍可能受大盤或消息面影響反轉。",
-    "segment": null,
-    "news": [
-      {
-        "title": "台塑化(6505) 個股概覽 | 個股 - 股市 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yRDlxdlJ5dDVwRk1MZlJnRXlKeXpYRUVsYlNDOVBLMVZ3V2FkX0t4NmNwRjhzNlpFbUpPZ1ZIWEJWbl95X1J0ODNPOUlRRXJkLWVN?oc=5",
-        "publishedAt": "Mon, 07 Sep 2026 00:32:24 GMT",
-        "source": null
-      },
-      {
-        "title": "目標價100元 ！美伊交火油價續飆 台塑化獲利獲上修、投顧喊「買進」 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQNWplWkxNaGpFZHhuRUdoUjllRW9seU96aXJCakxuUUhhNE1INmh4Tl9CSGwxSVJORDNYM3k1Z2xiT2Z1TlhtdWhjSkktNkl3NkFwb29JODczNnlfT1BkV2xNZHZjaXdJOU56M2J3dlE4NVZpZHRjS01KeU9BTUhhWkN6NGNkeXQ1RGUxUTRDeW5PZjBNSm9kVUtGaUpzQWRJQ2t0Z0RpYjhDRXFnWktrbWo3WDE3b3d2YVJJdmJ6VndhUk14TE1hcDNNNnkxX0tfUndqV1p1dTc0blc2cmFRZVZ1NHpRSFN0dG9yNEM2VV83UXdrSEh2TkFid0xpMzJFMnlYSkJhRTBHNjQyRUk5TFJkQ1YzZWVWTDY4YS1Kbl9NenU2TEZzc1YwQ0tnTENraVNXQkFVd1FMUDZFTHlvS215dTZySE5yWHVWZzNWVkpqSmh1SmxmOW8tbG1IbkxuUHg2VUZQR25EaFFWZDVjQjROeVBIUVFrTlB4NDhQMGJKam5NSE80UEFrU3VobGJB?oc=5",
-        "publishedAt": "Sun, 06 Sep 2026 13:15:00 GMT",
-        "source": null
-      },
-      {
-        "title": "獲利要逼歷史神紀錄！這些「塑化大廠」全年上看2400億 外資連6買台塑、台化搶旺季行情 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQcno0YkdFZEZidGRrRWNwVl9fNmdqX1E5X0JZTjFrZzBNbG5RVmtpcWpKOEVKVFd3STdvdURjbXFPbzQ5dEFpaTdrV1k3dk9Rck14Q2libjEyaU9Hd2YyMHRmM2JYX1lzSVlFTUprSjN5TTY2Skd1OWRnbDFybHNiZnBmYTFGM2psTWgyczEwZWpvemNaTXpIMHI1eDh0MTJQOXJxTzVSTUR0MGMwWXZUTXBJZGJGS1JWU0RBZFVvSTlUc1BDWTBJYnF2U3Z5ZjQ5Y093Q05CSGhfaENjMjdBc3Q5OENCVjgxTVJPc1BlOU9NakNPUWJOVDQyYVpMQTRCYjFuV0UxLXBfOC00RUtTbTExcDMyTWV1X2FrS1pYaTBuSjVyaUpiWFE2Rm1qeTdrZURVdS1Wa0tFbzNXOGkwVFpyVzJDdEZDeGZ4NlhScnZ4WkVtQXhNaXVYaEJYQXp3OS02cllzeHJhNXpUenhfWldhRmRfZnV0U0ZzSXQ5bU54cmRheXYwZWdhREphYWpUWE1LMVdyZms3MXBxYW5z?oc=5",
-        "publishedAt": "Wed, 02 Sep 2026 05:32:50 GMT",
-        "source": null
-      },
-      {
-        "title": "煉油業的黃金年代來了嗎？從全球關廠潮到台塑化：看懂Crack Spread 為何暴衝、股價一個月從53 元衝上97 元又回檔的關鍵倒數｜產業熱話｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMi6wVBVV95cUxPMVFXemEwQ0dOYUY0SFNWZzdCZEp1dFJ5YWZCYWpvazZReGh3OUdEbV94TnZobVVJZXVQY1BsVWxQVGc2aVZqRDJoM3NydV9fYWFrWnlIMFpGNHRoMHRWam1zZE5QWVRtMVhsUGFyMW5QaTZISjdXbFJWaHQzTnlBbmtLRm9fQVpwc2RjRThZR3U5WGltN0Rvd285V2VIOWE5N185amJXYnpyVVB1RkVXd0ZZYnVobmczc0JMT2tHTzlFZWU4SXl1RGxoQ0VxOFpmRWZQUTVnaERwaXZFbUhYWWxNZjFiUUx3VWZhWm80eW9Rc2JuV01pNzNHbWh2ZnhkSGdIVUhTSVNsRHpWcUhreUV6SFpaMUQ3RkY1NnZCUWNYanFDc2ZoaTdwcFJSUjk4Q0tXNmNyTGZpUVd3ajR1Slpha19meC1pYnNfQnZmcjk1TnN4Q3I4WjRUYWszdVFLWjZrM1gtcGl4R0liOWhDWUdYcS1kRTBnVUJqRy04QldVUTlPRWU5YkZ1ajVjNzZGWF9aNkZLX0VCbjlmUlVpdXVsQjdURlQtYUdMbUhwcnVEVWRpZUhGUGw0Sy1CckhlRHgyV0NMbUZLNTdyeTloTGVzUldLZjBaaHFjZFdQbkZUQjV5T053aDNVVmh1bDFUT1RYZTVRX0RhOWE3aWN6cVdWczZTUm5Fb0YtV3Q4M3RIdXM3TW1HRlQxbS0tdWUwSDh3MjYwb09wcDhRSnRKWi0tRG1iQmhTQTVWVUFhRVVrVlhmT0F0YVNrX2U5LTFLc3dqU21EbHU3VzltUTNhb2Y1eTlyTVFlanBvcktCcV96RUtCXzJiNWpPNHhHNmZTOVp2WDRlQVV1WXV3MU5yZmtQQzRvWnRxdDMyakF1bm00cWFFOXJDLWNSTGVuajZLY0xUTkFETENCWjZBcW9QQUxTR0hIRmpEalB4c1BJLXZaUG1uSGR1WHFCdXJuRkFRMkdxcktBS2xNeDA?oc=5",
-        "publishedAt": "Mon, 10 Aug 2026 07:00:00 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 8,
-    "attentionReasons": [
-      "風險燈號偏高",
-      "走勢轉強",
-      "近期有 2 則相關新聞",
-      "新聞含重大字眼，建議留意"
-    ]
-  },
-  {
     "code": "2454",
     "name": "聯發科",
-    "lastClose": 4415,
-    "lastDate": "2026-09-07",
-    "changePct": 1.73,
+    "lastClose": 4760,
+    "lastDate": "2026-09-08",
+    "changePct": 7.81,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "up",
@@ -62,9 +17,15 @@
     },
     "news": [
       {
-        "title": "一張大賺174.5萬元！股王明年在手訂單爆滿盤中攻頂 輝達千億元結盟聯發科狂拉8% - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQWXNfS25PSXpIQXlVejlBWFZWNHQyUEEzNWE2NEU5QmtSckZUVHlqLWcxby1sVXdZNk1vcFFaSGtWeU5lSm55VXl2a19pX1BoQkNFMmJpQTJ5MFNGeWtvN2p0UmJJcGdCMGVpY3JPd3hxRllidURtejdkZ09GTWZDc1NNeXpvcnpRN2lldnNvRXc2VkZLZXR5UHVlMERYdXpIc3o0b1o2dHNkbGU3aXBIQnRyTjJJcGdjX2NwODlIeTh1SklaSWVicnhudER3UFZFM3NRYkpIOWs2cTNPNzZsTWVSTGtIeUhHTW1DbzhyMENKVW5VQUdyZzRZWVJvQ2l3dUNjT3lJWmlsZ2hKUXRSZXVfQTJBS3A4QmpsWEdmWGhmaDViSzBoZlVhUkQzN2d1ekhrV09IRnlBU21KWUJGZGdDWEhuZnZoWHYxVVZnS3NkTURZVzc4U2lDd2pyR2poRzBTVjBpMGh3cFVLU01jNFFrYmhta0I3YXVvcVJzdERxS05oaGhhVERqOTRTdkh4cFRLQ3J1VFlxZUhId3JsVnlnU2hxSDBfMWluS0pnTlZGMnZPNzc2ZzNEdXZRR0Y4TnY2akl1UkJydXFnNzZCVTAtekxRcTFuQ0E?oc=5",
-        "publishedAt": "Mon, 07 Sep 2026 04:23:43 GMT",
+        "title": "【Hot台股】發哥觸漲停！網嗨「輝達投資聯發科賺錢了」分析師：別急著預設高點 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQdi0wUTdFejRVN0VLNkFyTS1fOWpicWlLTmVwc01Ba2loeVIzZG5kNWdDTWgxTERPOWRWa3hkTVU3X3c0a2pQTmM2U09taGNkREswY1BYc3YyaW50Tnhad25uejR5cWlSbzdGekw5b1dCTU1MTU9rdFZrWV9JbFhKWm01M0E2SGZBQWlBV0F5cFA0Q1lyYnJRNWRCZGhKYnhPbklZUFVCTjQ4S0VwbDJhTi1sd2oxaHhidU15VUJDS2NNb1lsWTFCVHJOcVV1QklZNm8xOGY5WGdEdjBGVmZvaG8zdjZYa3dtMnFhUm9EZ2Y4dmhlRGZ6cXNwT3VqcnU5YUd6c09PWmNlbEVJWThPUmxpaDFzUl9taEU5d3I3YjhWQ1JpczNIMVVUNmVqbTBDejMtR2VUcHJCNFpwS0g0YVN6TmRQSmxWcEZxOUhHVE5laTNuSlR5VjhONkxhMkJUTHZiVFplU3FITm9qVGxYTGU5RHNUeTVaVnhrMDVmV29fRE00TEwzdzM4MmNhcHFpdVNZN1FWUUVBdkFiVVRtNzdHSU1JR3lCRVdMRl9iNEZvTWN1NXlENDQ4ZDRKWGFqbGZ1VHdzd0lxdEVSMVpwQlV2ZzJ3MnJyaTBScllfZXBESWtpS2xwRTVUQVZGYTNUNFdHY29WcUJSTnppUklwRmU5QQ?oc=5",
+        "publishedAt": "Mon, 07 Sep 2026 03:51:26 GMT",
+        "source": null
+      },
+      {
+        "title": "聯發科股價飆高含「發」ETF強漲- 日報 - ctee.com.tw",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12amltc1NWM1FGVFU1MnZfRXJvZ0QyQ1RVMXpQbGM0WWFoVG9uckpNdWtoeFJvNGpVaV9FRkl2el9NSC1kMy1jY0szREd2SWplcjZ2R0dtRF8tbzNoVmNr?oc=5",
+        "publishedAt": "Mon, 07 Sep 2026 19:00:00 GMT",
         "source": null
       },
       {
@@ -74,15 +35,9 @@
         "source": null
       },
       {
-        "title": "費半點火台股衝破4.7萬點 聯發科一度漲停、聯電亮燈 - UDN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pQ2VtZ2RxSFY3VmZ3QnpPbjJ0b3VmVzJLOG1DWkxrZExHbkZTaUVCS3BXaHFVbEJpeURSWHcyZ0FURUV3Q2NYMXBqZjhLNjBl0gFWQVVfeXFMT2NyT1ZtendGVlZvN05VQUc3QWJhQ0RvNlBKdUtuWlZkN28zQW1mRlBGdTFmQXNPb2s3MFVZMVBpRzA4QjNJQlVmSGtrWUl6OE5QSmYwN0E?oc=5",
-        "publishedAt": "Mon, 07 Sep 2026 02:35:17 GMT",
-        "source": null
-      },
-      {
-        "title": "【Hot台股】發哥觸漲停！網嗨「輝達投資聯發科賺錢了」分析師：別急著預設高點 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQdi0wUTdFejRVN0VLNkFyTS1fOWpicWlLTmVwc01Ba2loeVIzZG5kNWdDTWgxTERPOWRWa3hkTVU3X3c0a2pQTmM2U09taGNkREswY1BYc3YyaW50Tnhad25uejR5cWlSbzdGekw5b1dCTU1MTU9rdFZrWV9JbFhKWm01M0E2SGZBQWlBV0F5cFA0Q1lyYnJRNWRCZGhKYnhPbklZUFVCTjQ4S0VwbDJhTi1sd2oxaHhidU15VUJDS2NNb1lsWTFCVHJOcVV1QklZNm8xOGY5WGdEdjBGVmZvaG8zdjZYa3dtMnFhUm9EZ2Y4dmhlRGZ6cXNwT3VqcnU5YUd6c09PWmNlbEVJWThPUmxpaDFzUl9taEU5d3I3YjhWQ1JpczNIMVVUNmVqbTBDejMtR2VUcHJCNFpwS0g0YVN6TmRQSmxWcEZxOUhHVE5laTNuSlR5VjhONkxhMkJUTHZiVFplU3FITm9qVGxYTGU5RHNUeTVaVnhrMDVmV29fRE00TEwzdzM4MmNhcHFpdVNZN1FWUUVBdkFiVVRtNzdHSU1JR3lCRVdMRl9iNEZvTWN1NXlENDQ4ZDRKWGFqbGZ1VHdzd0lxdEVSMVpwQlV2ZzJ3MnJyaTBScllfZXBESWtpS2xwRTVUQVZGYTNUNFdHY29WcUJSTnppUklwRmU5QQ?oc=5",
-        "publishedAt": "Mon, 07 Sep 2026 03:51:00 GMT",
+        "title": "台積電、聯發科拉台股！收漲775點 站上47300點 - 東森電視",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wS1RaY2JVXzltdXpCTXVPWlM2dnNBWHA0dklNSFBLZGNwNHg0Y21KcHliUnhwODNVLTJnYWNVRHF0OF81YjNiQXdHY212b0tVMEZabzVLQXAxUQ?oc=5",
+        "publishedAt": "Mon, 07 Sep 2026 10:32:00 GMT",
         "source": null
       }
     ],
@@ -90,15 +45,15 @@
     "attentionReasons": [
       "風險燈號偏高",
       "走勢轉強",
-      "近期有 4 則相關新聞"
+      "近期有 3 則相關新聞"
     ]
   },
   {
     "code": "2303",
     "name": "聯電",
-    "lastClose": 130,
-    "lastDate": "2026-09-07",
-    "changePct": 4,
+    "lastClose": 143,
+    "lastDate": "2026-09-08",
+    "changePct": 10,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "up",
@@ -111,27 +66,27 @@
     },
     "news": [
       {
-        "title": "聯電8月營收衝近4年高點 今爆量32萬張攻漲停143元 - 自由時報",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50OVV2dzE2eFl1QUlTOVdIMDdUb0dqdjhHRVFTN3EyTkxmZWpNNWJSQXN4cnBoSHBoMElJMmgybi1pN1lTbEtLcFc4RHhYUkRzd0NPLTNsS00?oc=5",
-        "publishedAt": "Mon, 07 Sep 2026 04:41:49 GMT",
-        "source": null
-      },
-      {
-        "title": "費半點火台股衝破4.7萬點 聯發科一度漲停、聯電亮燈 - UDN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pQ2VtZ2RxSFY3VmZ3QnpPbjJ0b3VmVzJLOG1DWkxrZExHbkZTaUVCS3BXaHFVbEJpeURSWHcyZ0FURUV3Q2NYMXBqZjhLNjBl0gFWQVVfeXFMT2NyT1ZtendGVlZvN05VQUc3QWJhQ0RvNlBKdUtuWlZkN28zQW1mRlBGdTFmQXNPb2s3MFVZMVBpRzA4QjNJQlVmSGtrWUl6OE5QSmYwN0E?oc=5",
-        "publishedAt": "Mon, 07 Sep 2026 02:35:17 GMT",
-        "source": null
-      },
-      {
-        "title": "【盤前】外資再加碼「這檔」2.6萬張 投信認輸！104萬股東血壓亮紅燈 - 三立新聞",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rVTMwcW0weGJnMy05TXJHUWNmMWJzQUxzM2VZVFluR0RueG5WNE5Dd3BybkVDTkpFZlVGbHYzX09MZFBudXJucG8wRQ?oc=5",
-        "publishedAt": "Sun, 06 Sep 2026 21:39:51 GMT",
-        "source": null
-      },
-      {
-        "title": "聯電漲停原因！股價143元放量繼續衝，外資2天默默買超4.8萬張…要追嗎？目標價、進場價位曝光 - 今周刊",
+        "title": "聯電漲停原因！股價143元放量繼續衝，外資2天默默買超4.8萬張…要追嗎？目標價、進場價位曝光 - businesstoday.com.tw",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhwNFRDS0lRbGFBd1hFVjVtNk5CYkVheFRacF9HUTlNMGZ1aEpHbmJra21zR1R6MjJlR29YRUNXb3RLSC1ITzhtQVp2bmM1WXBELTFqS29Lc3RLa0NQVzh1R0VRZ2lxUFQ3OGVOam1mRVRMejNfNlVRYmlCUzhuRQ?oc=5",
-        "publishedAt": "Mon, 07 Sep 2026 03:41:00 GMT",
+        "publishedAt": "Mon, 07 Sep 2026 06:45:00 GMT",
+        "source": null
+      },
+      {
+        "title": "【即時新聞】最新聯電股票爆量31萬張轉強，法人狂掃逾5萬張還能追嗎？ - CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSLVUzNDJTaHhrMndWZThSbVdTMEtORVFjQlFEaWVDSVVQWEZRWE9rZjItMkh1UllnMTRCanNBZ0tNbzh1X3J2SDRBeVdyTnFxTnY3aXFRdTYzMGVNQVd0SmxuZ0RuTjQ?oc=5",
+        "publishedAt": "Tue, 08 Sep 2026 02:43:41 GMT",
+        "source": null
+      },
+      {
+        "title": "【即時新聞】聯電(2303)爆量31萬張鎖漲停，這「3檔概念股」多空走勢大分歧！ - CMoney投資網誌",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV3BpbDlXRDJEZG9wTUFxTVFUTXIxOEkxbmRKMzNvNGZsU0ZOZDNMMDNQdTd4S3ZSNlppSkUyQ1Z2Nk5VYjI2Z2tVNmV5RnY2dXBqd0xoeERxdUhTSzdZYUcyVXkzcUpOazk1VDBxWWU2WDUxMXVROUFpWXZ0SHlLV3RBT2FWLW5QOEtPc0lVVm8?oc=5",
+        "publishedAt": "Tue, 08 Sep 2026 03:21:46 GMT",
+        "source": null
+      },
+      {
+        "title": "【即時新聞】聯電(2303)爆量31萬張鎖漲停，這「3檔概念股」多空走勢大分歧！ - CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QaVNHV0FqREowazhneGZvNUhJNTJxLXJHSFZTb3k3Ykw5ME1La3Q5WnFDRHJON0hYQi0yX3pwRVhPYVFUc1JwSHU2X21sR2FGWEJzQWRrUXBWOWlaQjhCWWtTMEZPemc?oc=5",
+        "publishedAt": "Tue, 08 Sep 2026 03:21:50 GMT",
         "source": null
       }
     ],
@@ -139,6 +94,55 @@
     "attentionReasons": [
       "風險燈號偏高",
       "走勢轉強",
+      "近期有 4 則相關新聞"
+    ]
+  },
+  {
+    "code": "3037",
+    "name": "欣興",
+    "lastClose": 949,
+    "lastDate": "2026-09-08",
+    "changePct": 5.21,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "down",
+    "trendReason": "短期股價落在中期均線之下，走勢動能偏弱，建議留意是否有進一步利空消息。",
+    "segment": {
+      "chainId": "semiconductor",
+      "chainName": "半導體產業鏈",
+      "segmentId": "substrate",
+      "segmentName": "載板與導線架"
+    },
+    "news": [
+      {
+        "title": "欣興洗產地風波下，載板四雄後續怎麼看？欣興、南電、景碩、臻鼎三大面向全比較｜陳唯泰｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
+        "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxNbjNEaFpqcUl0cVF2b0t2SUdLT1VYMEU5aVZCdVlTTFdNQU16emlpSVhRLXJYOHJ5VWxXOFJlRzNsTWN6R3Z0NWg5SXdWZllNTGZEcEZ2TWd1LVhTTHgzY05xRkl0YXlHdWVUTE5IU2tfVjk5X2hnbk5GeUVSOFpSNTJBS3BUdWxtbE81YkRpWDFrckFuUXc1cHZKckVhUXVfWHRoX3R2d2E2U2d3OHhDMDVwd0hZbGF1c1BzQm1OdWwzd3haeDh5cFUwVnFMX1c1ZFBXZ0doRU8zNFRKNzF1djhDQ1ptWWpzcmRfczUxU0wzLW5ucjJlQVNyZkpFelJLLWNMMkVTeDNRaTRrRk9jVU5fYWxvVy1CNVUtR2dKVGJRa3pnY2FlZkFRdmE3VHpFUi1SdUR6SVNfSWpWMEJ2eGZ1WVg5SV9HM1RQczFnN0VUdGVjWldlUmhhdnZ2bC1YVWhqV2U2NVFmb2dLZm5PcmFJcV8zMDhTTFJpN0J6TkFBelVYYk05MlRGUFRmaDk0S1BuWDl4Y2c5NjdLb0h2emVpbGs5d3lFWWNUR1hhaVZLSlpqQkw4TDVKeDQwY2tfU012bmh4Rld0UDV6UndNQ3ZMamJTNnF6SlRVcElVNE1wZWJ2VFlMS1JzeDlETkpQUWJUSXJ6ZXFfbkNfc0k4a2hTcElXbFdkQnZwLWZOYjRjcVRmTHlsTFdydWk3MWt2TzBlN1p3?oc=5",
+        "publishedAt": "Tue, 08 Sep 2026 01:16:55 GMT",
+        "source": null
+      },
+      {
+        "title": "欣興從1230跌到873元！ 謝金河點出真正代價：不只是錢 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQMlpXUkk4bXk5UDd2Y191Z1RCZTB0MEhvNlV1Q0FpeVVwSkJiQUM4VUhMcHJlWUNGc2dDVTVaa085MEZxX3ctT1dJYlVqVkh4XzVXa080NXJURVo1dDdNUVlBZkthX2FIX1IzNlBISVNZazhYVmJLVnVERjRyVlJuM2N3VTh1R3NTWWlqVVhYazF1MFRHMzVzbDhteHN0TGdwU05EeVpSelppMWtZZFZSdk45UmpFRDRVcVQtdjJNR2xIX3ppUno0Z1RSUks4ZHNOMTkySmxIZ0JoRksxTG5SRFMtdHZUV2oxck5vMmVQdDd6OFRtUVptXzZXUkRWa3RWYmFjWUZUV3RzSEdkeDRZUUdja01WVTZ1cEV2czBoejFlamRNdEdRNV90R3pETEc1VzVsS292VjVGTGZWd2JSZmFCSmVKaEpTbXI0?oc=5",
+        "publishedAt": "Mon, 07 Sep 2026 01:27:16 GMT",
+        "source": null
+      },
+      {
+        "title": "台股8日開高走低再陷巨幅盤整 欣興獲內外資力挺止穩連2漲 - 理財周刊",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBOU02ZWZjV25neVlpTG5GTzVXU3JrRVgtdEI0YVBnOE4zSmVpODZINk1QcHhmMmtZdUdjNDV4VFB4TDVVd1FPR3EwMHJlMWxTRjdJMzZiSUpVbk1ITGRqUWFWSjY0REFIYXY5VE9CQQ?oc=5",
+        "publishedAt": "Tue, 08 Sep 2026 02:24:30 GMT",
+        "source": null
+      },
+      {
+        "title": "3037 欣興- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會 - CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SZ21zRE5MbURDSHUwVE9vOUYxdzI0b1BEYVFydkdvVlIyamttSzR4MzFwQkxpRHgzTElrVWc4cEZCZVZDUXcwQkVwaGVsVUhVM2U4S1VYc2U?oc=5",
+        "publishedAt": "Mon, 07 Sep 2026 13:18:08 GMT",
+        "source": null
+      }
+    ],
+    "attentionScore": 6,
+    "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉弱",
       "近期有 4 則相關新聞"
     ]
   }
