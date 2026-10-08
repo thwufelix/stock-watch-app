@@ -1,59 +1,10 @@
 [
   {
-    "code": "2454",
-    "name": "聯發科",
-    "lastClose": 4920,
-    "lastDate": "2026-10-07",
-    "changePct": -4.74,
-    "riskTier": "high",
-    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
-    "trend": "up",
-    "trendReason": "短期股價站上中期均線之上，走勢動能偏多，但仍可能受大盤或消息面影響反轉。",
-    "segment": {
-      "chainId": "semiconductor",
-      "chainName": "半導體產業鏈",
-      "segmentId": "ic_design",
-      "segmentName": "IC設計"
-    },
-    "news": [
-      {
-        "title": "大砍工程師AI Token額度！ 聯發科急滅火 股價不領情 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNQ29fdUtpVE9ScENjWURQOW1iYnptM2JmWVVDNTBqcWw1MUdYbkN1d0t5Vm1wY1Rjb0NqV2RKUEVBZ05hSmRyZFVQNGkwRG5YeGswVXY4WDE0cThIcUJCeDNMcXRVNmg1V3Nmdy1DWnJrUnlVdXNXOTh4MXhnQ25kZFBMcnpEd2d4XzRwNzl2dElEN3FCd1J0WHkwRDdtVGlOM0d5V2ExWlRzQXV6LWV3dFltMkV1YWxGQU9oUzNQN3ZRa0F1Ym9ZS25mVnR4blRGNWN3MWlDbFUteFpOSF9KcHVsejV4blloVDJscWhqeFBrTTlyUjl5bGxCakFTeGZweEVnM0FZVmJId3BWc09fV1Y5NUxVYjZRT1JaRm90amdjVG8xRUR6Z1B6WlFmS3VLT0gzeEVTd0NORXVvbkFUUA?oc=5",
-        "publishedAt": "Wed, 07 Oct 2026 05:03:51 GMT",
-        "source": null
-      },
-      {
-        "title": "台股叩關5萬點遇賣壓 聯發科跌逾4%、半導體三雄回調 - UDN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XbmNZNklkRk1EWEgzU01BVmFUQzIzd2hySERKOTQyUU5DenR5b3FsZlExR1N3Vk4xSTllUGY4YzN0Um9jc0lCVXh5cVZiU2Y40gFWQVVfeXFMUHNGVmN3d2RGTjdEYjZzb3J6MXU3MXVkS1dXeUxYdE1teU1lTGtveGg3dEp1ZGdwa0M2YXdieEFfYWc3VDNrUDF6c3lvYUdxUjJrWXo2b2c?oc=5",
-        "publishedAt": "Tue, 06 Oct 2026 01:58:13 GMT",
-        "source": null
-      },
-      {
-        "title": "聯電發ECB挨暴擊！ 法人反揭「上車2訊號」：聯發科、臻鼎都演過 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQaEk4V0JSTU9vSHl1aWVhbjVnc2pYa0xSeFhUQmNfTmtkRGhRVl9GWXZGSVdJWmNwbkx6T0F3UmpjQVdLaGU4VVdXRURmdlBwWXBSeUVrZkFVTDcyaUtLazhkclpVYjlpMmp3T1I3dVNFejRuUEFlMDY4X1NXNTJEQk1UQmpLUUNBQjUwMm14WE8zSkU5YjJXQ3pveUhoSXlzb0xIaFBSM0wzRVlYWmpmNTEwc01LYkJrQ051WmhkUm00cVRvOWQ2VlNkWnRYX2w3Rm9wSzJjcUdlMldsbmFoRVplRW9kaEVDWC1rNC1zcjBzOUV3dGZtMDU5eUVVeElyUkxEelZ5QUZISE5pbUliQ0VVelM2NW95dkg3dHk0NC1hWmY1RTFaTWhUNmFJVTh4c3V6VXFrc3QzZmlibFU3XzZPWFJiQXJQc2puRzA2NWhyWGVHVnRRcWp4d1M3Znl5VTd1eGxnZVJWNjRybUE?oc=5",
-        "publishedAt": "Wed, 07 Oct 2026 00:48:38 GMT",
-        "source": null
-      },
-      {
-        "title": "2454 聯發科 - 1126.58億入袋發哥9月>395.42億Q3財測下緣達標- 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zNlVfWEhLeUxKaXMzeXpJbmhMWEVCa0tXYjNtNmxMMkZLa2dwaUY2Ums0UERYbE5IM3Z2LTkxNEFiMjF3UTFYNnJTWERiSUFfQ255NklyMWE?oc=5",
-        "publishedAt": "Wed, 07 Oct 2026 02:02:35 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 6,
-    "attentionReasons": [
-      "風險燈號偏高",
-      "走勢轉強",
-      "近期有 4 則相關新聞"
-    ]
-  },
-  {
     "code": "3037",
     "name": "欣興",
-    "lastClose": 1310,
-    "lastDate": "2026-10-07",
-    "changePct": -1.13,
+    "lastClose": 1305,
+    "lastDate": "2026-10-08",
+    "changePct": -0.38,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "up",
@@ -64,81 +15,47 @@
       "segmentId": "substrate",
       "segmentName": "載板與導線架"
     },
-    "news": [
-      {
-        "title": "欣興創高後走低該跑？ 專家教看鬼故事：「這款免驚」是假摔 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxON1QxZ1ZLRW1yVWJwSzdianRHa1k0RDdfdUs0WkI4YjZvTG1Xbl9PdUxlRXJsdm5mVzVRdWFvaTU3bzFJTzY0Q3E2YUcwWGpBbnFacGVhSmI3R0hURzlvbFJwem5uSmRjc0VGTHN3aVZ2VVBMT25QRjNXSUx5NXpvb1JxSy1CeUl4aVNpQXhoTFg4M0toLUgyRFRZMlFsay1OSUp6REpESjhrRjY2ZGZpcWZzZ3hmLVA2NnJCWDU2RVBmVUdPbFVsWmNvSWNNYlNBbTRyN3dId0xBZ0lWS21tMWxPbG1YbFZWQ0IyS2hyZnlPUER3Vi1pZ3Q4bDVfejdRTHJRejk4bS1iV0NFaDBsRGF0Rjc4emlpcGZTdzY1aHplLUpOYWtwOEZnczFCbzJoSXVGOE13VnB6SE55YnZtM3cwdUI0eV8yRXlJVzAxbnNjYXRwMHNaZmVKd3UzbWNfQWI2M2lDclRhOFlCTVVQU0xXTQ?oc=5",
-        "publishedAt": "Mon, 05 Oct 2026 06:16:00 GMT",
-        "source": null
-      },
-      {
-        "title": "欣興1170元賣「2天後衝1305元」！賺2萬卻更難受 網：股票不可能賣最高 - UDN",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44YnZPUTI1cEN0V2tEYVYyZmJIcWxUblF2S2E2NDZ2MGhYRUZoX0I2LUYtdWhEeVQ4TU8wUkxMeERzRl9ENXg4VzA3SVRGY3lFaGfSAVdBVV95cUxQRGpCOXlKYmFNamVIbzlFY2FxMTJub0U0YUJVX3FYMlplZUtHSWRvdkZFbU5pUy1YblJXN0VwdkRRSW85ZjdoaklsZ2lUMTF4bEwxekFoTGM?oc=5",
-        "publishedAt": "Mon, 05 Oct 2026 00:01:29 GMT",
-        "source": null
-      },
-      {
-        "title": "3037 欣興- 扼腕！00405A刷掛牌新高差點衝破發行價- 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnWVNBSmNxTHc1QldCeWlON1hwVjQ1OXlTclNnSkx6UDhmcS0tMEh1MUc5WElkbnBKRks0SzVwQU9vQWxpV24zeUctQThQamNaNUk1V0JDOGw?oc=5",
-        "publishedAt": "Tue, 06 Oct 2026 03:21:14 GMT",
-        "source": null
-      },
-      {
-        "title": "台股閃現「56千金」盛況！股后川湖8檔飆漲停 創意健策欣興8檔刷新天價 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOQms1bEI4cVlKZm5VLWdvRG1PVkY2elQyWUdMbnZ0LVQ2Z2NNd3JfUkdTa2JuT3NRNWxRc0xqV1pIMUJSQTJsMWRHMXcxM3NZQUxQdmZBSHFrdTdZTk11aTgwZHJJLVBEQ0Z0RFVzcDZhS1V4MGJmdTk3WkZMd1hBSXR5QXNjWWV5dWp6Uk9lcWtVMFhIOEs1dlZLOWJYSEVBWVpFV0RlM016Z0dhRjZFNGlvVjBmRS1SNFAxUnJuVkhUTUp4aUtTaGdqbmVOZXhEUTB1M2pvY0VmUEwtMDIzdkRXcGNLWVA0OG1mOFU5eE1INGt6UmFieFpJX2ZadkRzeE9xbXMtNkprdWFTYjBfS0czWXMwcGtkOUt6UlFPa0ZNNk4yOFFIcU5jUkV4VU9FcjBFSVUwbFpaX3V6T0puM0RKakJSYncxajQ5UnFNSXZuLUplRGRfUzE5aENRb0UwNlJXVlQtMkRaM1NBeFdKWG5SalU5c0F4TVpJbkxNaGhCVmUtUE5iTG9SVnFaaHQ2bG1vQjRmMDA2Z2c4ZHFwNlRXVThvYWZac2VFNFlqcmVyenFmUF9sYzRtaGR5ckN2RDMzMzc2NlRVQQ?oc=5",
-        "publishedAt": "Mon, 05 Oct 2026 04:23:08 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 6,
+    "news": [],
+    "attentionScore": 5,
     "attentionReasons": [
       "風險燈號偏高",
-      "走勢轉強",
-      "近期有 1 則相關新聞"
+      "走勢轉強"
     ]
   },
   {
-    "code": "2327",
-    "name": "國巨",
-    "lastClose": 625,
-    "lastDate": "2026-10-07",
-    "changePct": -0.16,
+    "code": "3008",
+    "name": "大立光",
+    "lastClose": 6845,
+    "lastDate": "2026-10-08",
+    "changePct": -0.15,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "up",
     "trendReason": "短期股價站上中期均線之上，走勢動能偏多，但仍可能受大盤或消息面影響反轉。",
     "segment": null,
-    "news": [
-      {
-        "title": "58萬股東嗨！國巨飆漲9%寫近2個月新高 分析師：可續抱 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNM0VrYTYtY0V4UFptRDVENndSbk9TakpFcXR2dnFZcUdSQ2dkR0F6Rm9Ya2ZxMExscUl3RFRTU3pHTmRpVTBSalV5dE1qVGwwWGpDM3A5SmlIMWlJVVBzd19OWFJpcFlPSnAxMWktZWU3WHg4VXZqZ1V4SXlhOVZKNTlNdV9qVl8tLVoxSGd6TVFfblFkbi0zWW42Y193b1F1S3NkV19GNURWMWlSMElXbG1vZlFGMV84ZG1MN192M1RVcGxsSzZGTk9QTXZwbGFReWxOVjdrVDN6Z0ZvZmNfZE5PNGZ3bXE0Sko1V2g4eDRVZ09HWWUtR2FacWRWVFVmVW5tbEpmU0tzTUQ3TnVZTWVUeUVxV25rVm9WVkd2aTZZVUZWSzFMQWRBdHFPVU8wV0Z4c3J1bW81bnpybC10ZEc4TUFjRHNSN09ISXBtYTY1TzM4OEN4UWgyMTByRzR3eHBBMks3V3gwdw?oc=5",
-        "publishedAt": "Wed, 07 Oct 2026 02:27:31 GMT",
-        "source": null
-      },
-      {
-        "title": "哲哲突破巴逆逆反指標人設？國巨股價今早攻上686元近2個多月最高| 財經 - Newtalk新聞",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OQmxRYWN6SWhFZmRHcVAzN1Y0eVpibnJYeEpJbktqUkZub2NHdmJuYXU5WGtKVnRONGJKd0dfY2hKb2NQSVFDNmNUZHZZSTJRMl9YQW9EUllGWGM?oc=5",
-        "publishedAt": "Wed, 07 Oct 2026 02:20:48 GMT",
-        "source": null
-      },
-      {
-        "title": "反指標女神發威！郭哲榮曬國巨戰績不信邪 - 鏡週刊Mirror Media",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wd1NwU3hLbnpCOHRqY3VWOXJUUkI2bzNPc05MaUVwcnM0ME1CNFJUdm14Wl9YdjlLbTF6Yi1hWjk1N1ZyQ0RNQWtvbXJmZV9KV2hZRzFzYUloeEZq0gFiQVVfeXFMTmg3OW9wcTk3dXhVQU5tX1YzWThsYmphOTNWcTJNMU15eVNYckVhSG5FUDdHWk13YmJJS3l2Zy1ZZ29ZNEFsQUt3d19fSjB2UDFINHhGZW14ekEwSm5yZllKV3c?oc=5",
-        "publishedAt": "Tue, 06 Oct 2026 09:05:00 GMT",
-        "source": null
-      },
-      {
-        "title": "被動元件逆勢震盪！台股加權指數衝新高「這檔」切入玻璃基板業務亮漲停龍頭國巨*、華新科卻兩樣情 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxOc0NCTE1tcFFKaTRza191X0V4NjVqX3d6UjFzZzZjZDZrc20zNmhBQzBDVS1BVloyNkVoQTNtcG42b1hLWmthYmZMMlNaWS1YVG1Lc3BVTmZpMnRUVWd3QzRCOHQwTUdyY0dlQ0lKNkR2VUl2cGVlLWRTNnV3bExiclNNVi05QXN5dmNoMmFiazNmSmpYeUxYM2dLNjNqZmJqSFNzcmEtMWQtRVZUV2I5OEhGcEJMSzVNQzhNeUh3NUhBNW9qMXVFclZyQzFzTkdrUmEwNGV0aE9SUG9MS2xBeU9IUGRHTTIzSngtYlhsWVNMYTFuWkpHN3lVRFJVWXpWNzdud2c1YXdMOEhyMi1HUVBnWVd5Y2R2MzZ0ODVYYzdUZU5qR1dkRUpCSXc1aVlDeTR3VnVBeEI4dUNtd29VcUhBbEZiLVpCNzBjQnlONjRCMUN0Rmh3dlJrTzlHSGRJaXBCazkwNnlYZUtmS0RTZUE0c0ViTUt0SlNoa3AyUzd0RnZNMXotWXpnLXlOaS01YVhHU180VjJ3aTlzREVJemhkTWhIaXhRTUYwQ19rblc2eURlMDdMOFZCb0IwUVcyYWRFZlVoQ0VyMVhBRURXWEltdG1EckhTV1pwQnR5TkJNYkl5Y0hZSElCR2lJWnpjaDJHNDFBTWY?oc=5",
-        "publishedAt": "Mon, 05 Oct 2026 06:10:00 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 6,
+    "news": [],
+    "attentionScore": 5,
     "attentionReasons": [
       "風險燈號偏高",
-      "走勢轉強",
-      "近期有 3 則相關新聞"
+      "走勢轉強"
+    ]
+  },
+  {
+    "code": "2327",
+    "name": "國巨",
+    "lastClose": 647,
+    "lastDate": "2026-10-08",
+    "changePct": 3.52,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "up",
+    "trendReason": "短期股價站上中期均線之上，走勢動能偏多，但仍可能受大盤或消息面影響反轉。",
+    "segment": null,
+    "news": [],
+    "attentionScore": 5,
+    "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉強"
     ]
   }
 ]
