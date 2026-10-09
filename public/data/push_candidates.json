@@ -1,10 +1,105 @@
 [
   {
+    "code": "3008",
+    "name": "大立光",
+    "lastClose": 6660,
+    "lastDate": "2026-10-09",
+    "changePct": -2.7,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "up",
+    "trendReason": "短期股價站上中期均線之上，走勢動能偏多，但仍可能受大盤或消息面影響反轉。",
+    "segment": null,
+    "news": [
+      {
+        "title": "iPhone新機賣不動了？大立光董座林恩平：11月拉貨恐下滑 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQeFpUQVp4SExfaWlhZEtpdS12QVd1WDUwZVlVMkpmVmlJQm5MX0UxelpnOFk4NmdkQU5NUE83SVowSHd1Yk00WnRRNzkxTkhPVFNOWlhMZng3VjAtMzJmdWxjYWxldzZMT2NLdUY3RERfS3BMQUpYZnEtUVdVbWxkdG12YkhwRnlLRXRqMnR6eVRzcDlKcVFWVWZodUVkSVVfb1VQYXVkUGpDWjVPblRYcWdpYWtvSXVxTERqa1FCSDQzdVBXcVRiLThZLWlLZHEzeFdWOUdXbnNYamkyQ2xvX0kyenVXb3habTJ3OFBwNVlQckxxLXllRFZoSDRyd2FvTDN4OG0wSlVfXzlQVV9QN1BkNGNRUU4zQUZraW92MFZfdXpqTWx5V1pGQ2xfLVAxMkNZSGNKMFpVVnVucVVEM25HMjFzYlIyejdIRXR0ckdtanJCeVU3ZDlyaTR5LTkxNmxCbWYyYnVQS3l6alE?oc=5",
+        "publishedAt": "Thu, 08 Oct 2026 08:05:12 GMT",
+        "source": null
+      },
+      {
+        "title": "大立光最新財務資料 - CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QaDBQSmxaeHNyblpDVUZVQVlBYXk2SFkwOXFNQV9SMksyX3RHc3ByQWNjbXpCd2d4cEI3cEd1aUp4VW8zNFRYbWRZcUFTVDlmZUJZLU1xUmk?oc=5",
+        "publishedAt": "Fri, 09 Oct 2026 03:46:32 GMT",
+        "source": null
+      },
+      {
+        "title": "大立光 3008 2026Q3 法說會重點：FAU客戶認證通過明年中量產！綠電成本成結構性壓力？ - StockFeel 股感",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0R4R25lRjlvS1JWSUotV2NyVmQ5X1FMdGs4R3g2dWtXcXJ5b1AyZGNGODlETXR0bi1GUmh4WnBvdUkybmxaZTBnaF9OTVU2Z3dTOGN3NDljNVV0TVUyaHU4UXg5NjBSYWxuODdrQ09mb3NvY3J0alpxY3RyU1dYWG5wQkVFRXZjakEtTlNKWDJiaFN5dndNSnJpTnZpdw?oc=5",
+        "publishedAt": "Thu, 08 Oct 2026 12:39:40 GMT",
+        "source": null
+      },
+      {
+        "title": "大立光第3季毛利率創13年半新低 每股純益39.62元 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPT2Rra0Fuc1NxZGYzZUZsQ1U2YU85aWQ0eklfMmZBdDhoNnlqRV84ZEVwRkJqNW85QkZuMzZjTDFZdjg0aDE0dW1nZDRWaWNrRU55ckV1RUhmNXRvVUlhZzdZMm1uNTFFTmtIVWVqaXlYRjJudmpTNTc0ejNfWllXUGxZVWhqNEk0Y1BBS2lEZHd3OHg1YzJSV09jZ3pQdlEzdGhqY0sxdWd4UFYzOGd3QklhWmgyT2x5WjdfWWdaQkZ1emNhaExtZW9yNnJtNTBINmhCbFpXS1duQkZkdHNEcktLMjVEbnRrYUxiRmZackF6UUgyaXd6TXRoM29JQ1JQNGRRRXpKaHNMX3BDeEhHRDg0OVNHX09PSnp0UGNEOE9VbF9SMG5jdkk0dTQ3WVJtMFlxeWVLNVVtTDFuTEl3?oc=5",
+        "publishedAt": "Thu, 08 Oct 2026 07:03:54 GMT",
+        "source": null
+      }
+    ],
+    "attentionScore": 8,
+    "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉強",
+      "近期有 4 則相關新聞",
+      "新聞含重大字眼，建議留意"
+    ]
+  },
+  {
+    "code": "3017",
+    "name": "奇鋐",
+    "lastClose": 3440,
+    "lastDate": "2026-10-09",
+    "changePct": -2.96,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "up",
+    "trendReason": "短期股價站上中期均線之上，走勢動能偏多，但仍可能受大盤或消息面影響反轉。",
+    "segment": {
+      "chainId": "ai_server",
+      "chainName": "AI伺服器供應鏈（延伸範例）",
+      "segmentId": "cooling",
+      "segmentName": "散熱／液冷"
+    },
+    "news": [
+      {
+        "title": "奇鋐、富世達突公告「新莊廠遭搜索」！特定員工被調查局鎖定 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxORVFxN3ZteVU4V0EzU2pWS19YYjNhOXJtRkI0MnlSUEx1TkhNTEF3RFZuN0NEcENFYW9tTnR0ZkJRc00tQmc0bklNbHBXU0ZKNHN1eUw0VFVEdlU2aEZFd1BUY3N5YWo0NE1jU2prRFFtMzBJRm8ydkxya0R6NTZ4NHlxZm15MmlZSEZRUU1VdTdhUkNBZjFETENmVmJjZjdsQ25YRFNzRG01b1hHOWFwQjlNelQwNmZONzc5Z3g5cWpGVm90dk8zR2lkVzR1a1dVcU5NNWxKLWFQdUFoOTNZdFlkZFdZNFNFejZNQldXSUdsLXRqQjZZdUYzV0x6d1NhVW1LOGpibEx6UUt5ZzVuZ2tSSmk0T29pa3d2UVpkNWhBcE5kLTc3aWZiUFl0SmUtd0NmWTBUYU94cUNlTk9BTDVISXV3bzNnWUEtUVpEWjlKNzE2RUpRMjdOZDQzR1ZDRFFHOU1aZ1BIdUJvWFNqZDBhUS1pWTRwUFFSZ3dtSQ?oc=5",
+        "publishedAt": "Wed, 07 Oct 2026 13:24:00 GMT",
+        "source": null
+      },
+      {
+        "title": "飆股幕後》21檔主動式ETF投資 奇鋐營運旺創天價 - 自由時報",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FRjlIeEZ6emhnNnpETm5DUkpjdGx3SHlrUHFDajE4M3FoOWFvY0ZTUEg2b01YbTIxY2tQZkdXN0FzTElZOE52dF90TlNzY1BsMkR0Y1FFQlk?oc=5",
+        "publishedAt": "Thu, 08 Oct 2026 18:22:30 GMT",
+        "source": null
+      },
+      {
+        "title": "利空亂流突襲！奇鋐、富世達重訊證實遭搜索 公司急喊營運正常「股價仍雙雙開低」 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxPbEMxX016MW9IVU9IbDA4OHp6N3VoWTZUenpMajFRaFZNS2hXb1NvMDJ4LUZJMHVWYXlrNFhpUDhDWHJmVlBxRFZIa0x5QkFUVC1KLUpJc3U0VWtqcF9QeHVzRzNFUjNhVHktQ3MxS1EyVFJkTGpxZWV2VDA3SlF0WWVmWUVQREZJc08tNW1ERDZBVXBhNlh5VjFSanpHT01Ya2FBdW9pTDhjQTZfOVYxWGhnTDNBOUYtNTBUSVJ6cVZ4SEx2TUZOU0k2UVlKV285ME9qRXBoMUhnN3ZyWWUzS2JnN1R5MHlYQmtLcm1BNF9qVWhBS3Jud3NrTnlTYVpCQlVGdkdRWFNtVTVEY3poMlJCYklrSjB6cGEzaG82STNJSDNObGd1akFxVzBURVFDWFg1NmlKSGpCN19qN19GaUJkcE8wWEhGREdVTUlxbHBLRzVsblcxTDJDSnFQcnRkejZhSXhtZm9oekV5VklqOEY5OHNWSjMxUVBFREJZSUZHbUhIMDNOX3llc2lRUzE1SW9GbVMyRkVPQ1dvU1cwOFRmY3U5c1VpZE9MMkxXX3dNY1RFOHZhYWl5S1YyakFxT2pDSDlHbkRQYTBRUTlvRFhuRXVnSGRxUlpFeFVYeER0NEtnMFEyLVJPVWw?oc=5",
+        "publishedAt": "Thu, 08 Oct 2026 02:26:57 GMT",
+        "source": null
+      },
+      {
+        "title": "台股開盤大跌逾400點！奇鋐、富世達遭搜索股價下殺- 財經 - 中時新聞網",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MSko5Ym44VTQwdjFwRUhvYmQ3RkZZZzA2SE5GZHVMVTVZSkxGUjI1NnJTb09YWU9SMVlpejFmN2VFeHJZc3ZuaWQ0dkQzVkwySlRNTzJ5V29wSlVCWW8zWTF1T05YSmFNR1V0Yk93?oc=5",
+        "publishedAt": "Thu, 08 Oct 2026 01:02:00 GMT",
+        "source": null
+      }
+    ],
+    "attentionScore": 8,
+    "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉強",
+      "近期有 3 則相關新聞",
+      "新聞含重大字眼，建議留意"
+    ]
+  },
+  {
     "code": "3037",
     "name": "欣興",
-    "lastClose": 1305,
-    "lastDate": "2026-10-08",
-    "changePct": -0.38,
+    "lastClose": 1270,
+    "lastDate": "2026-10-09",
+    "changePct": -2.68,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "up",
@@ -15,47 +110,37 @@
       "segmentId": "substrate",
       "segmentName": "載板與導線架"
     },
-    "news": [],
-    "attentionScore": 5,
+    "news": [
+      {
+        "title": "欣興賣在1170元！ 「隔兩天股價創高」超心痛 網安慰：有賺都好 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPQnUwUW5JcWZXMkhIWTZZOWkyLS1VaXVQS3RWQm1HaEgwZXNyMERYVkNUVEZTSHVxckN1cFcxU1VSQ2ZiYTBIYnJob0dobDJfSEJmeFlJbF84RkxVSDBOZF9WNHloSWlSMEFPMnU4aVlsWkQ1TVFOSXBmdFZBNXo3YWRpZmVVYk9xZ09LanJKY0VIR2VEOTRHaWQ3ZW1NUUpJUnU0VmkwZXRPSWxiRlVObTBMY1J2cVlNdnJqa25tREhETC1pVV9SQXN4aEpoZ2tuUHR1c3haZ3l2SkdBX3pQM0JsWG1HX1BLbXAxMzhtZU5HU3phdy1DbUM1VjUxeW55azNubVFqOUdSOEtDOHJfS2pQdU5NdjNiZnZnZFlzTDB4bDAyeEtPdHh1cmpKLS1RY201UTQ1TUhnaWVQYWFPWU1FSkNGOGtqRl9FMTFGd2YxeUZrbzVqd3o0dEdXdW5NanEtbWdrZkxDek1ZclE?oc=5",
+        "publishedAt": "Thu, 08 Oct 2026 11:21:00 GMT",
+        "source": null
+      },
+      {
+        "title": "「吸星大法」 繼續發威 - CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CMEtEdEJNMTRCakJ3RXNLcXh0cGFtdTFxRkNIUXpuclJlelRBbjNuZWIxcVdtZnhCUjZLYWxxNFJldkpwQ3Brd3Y1NGZjY0pET0pjSzQ2RFo?oc=5",
+        "publishedAt": "Thu, 08 Oct 2026 12:02:11 GMT",
+        "source": null
+      },
+      {
+        "title": "欣興、健鼎9月營收創高| 個股情報| 股市 - UDN",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GS0xCWGRoRmdkVmpuOXBXNElraVBzMzNSUXotQlIxNGJFMmVXaWl5TjNhUlYzLVN5a1A4dVdKZE5mSW9ISU5CMjg2Y1lpdVpU?oc=5",
+        "publishedAt": "Thu, 08 Oct 2026 17:52:32 GMT",
+        "source": null
+      },
+      {
+        "title": "9月營收再飆新高！「ABF載板指標廠」前3季超車去年全年 目標價節節升高 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOYllmejJaV0lEajNyOWVMQTVHRGFKX192dExNOXNyVlZNQm1jUDc0d2RIb1VMOGFiMURTV2R0VFdYd1NJRl9MYjViTXN5LTAxS1hQMmtZVFdIWGNRdXFmU2JiLUZKcUo4UC1OMGlWaUlSMzVUZklfSmdJU01NUF9FSTB0bVRpbkVORzFNUExuaEdHRU1aMGlMSzk4YklJcEt2TUpma3BsVzBJMjAtNjF2aGZhWDljNnR4UU5jdHQ3T2N5c0pTQXRLZ0czLXBoRUpwS0JQUWthbVFCcklTYnU5LVRpSDRBdG0xSjNpZjgwV2llWDBETUROZnBtX0xNX0xlZkhTTU1hbTZYdEpJdUtuY1FTN1pFWC1KMUIzdWZUeEVpUlVQWGRjMTMzWmd0SEhvYnNoZFM4eFRvSFFtNTZoemdmWlFLc3JyYUY3MXVVaG9uMVdiZ045Ty1PREJhZVhZaWdDNkhXTVQ0bFVVVzZHS1BmSThhOXluOG5uOEJlVV9obS03SU9VUnN6LUFnNlNwZmJxeXU2QVFOWFlwRjlnTW8wQzVZNVJKSkE?oc=5",
+        "publishedAt": "Fri, 09 Oct 2026 03:24:58 GMT",
+        "source": null
+      }
+    ],
+    "attentionScore": 6,
     "attentionReasons": [
       "風險燈號偏高",
-      "走勢轉強"
-    ]
-  },
-  {
-    "code": "3008",
-    "name": "大立光",
-    "lastClose": 6845,
-    "lastDate": "2026-10-08",
-    "changePct": -0.15,
-    "riskTier": "high",
-    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
-    "trend": "up",
-    "trendReason": "短期股價站上中期均線之上，走勢動能偏多，但仍可能受大盤或消息面影響反轉。",
-    "segment": null,
-    "news": [],
-    "attentionScore": 5,
-    "attentionReasons": [
-      "風險燈號偏高",
-      "走勢轉強"
-    ]
-  },
-  {
-    "code": "2327",
-    "name": "國巨",
-    "lastClose": 647,
-    "lastDate": "2026-10-08",
-    "changePct": 3.52,
-    "riskTier": "high",
-    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
-    "trend": "up",
-    "trendReason": "短期股價站上中期均線之上，走勢動能偏多，但仍可能受大盤或消息面影響反轉。",
-    "segment": null,
-    "news": [],
-    "attentionScore": 5,
-    "attentionReasons": [
-      "風險燈號偏高",
-      "走勢轉強"
+      "走勢轉強",
+      "近期有 4 則相關新聞"
     ]
   }
 ]
