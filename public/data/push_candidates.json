@@ -1,10 +1,100 @@
 [
   {
+    "code": "1301",
+    "name": "台塑",
+    "lastClose": 74.9,
+    "lastDate": "2026-10-21",
+    "changePct": -4.22,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "up",
+    "trendReason": "短期股價站上中期均線之上，走勢動能偏多，但仍可能受大盤或消息面影響反轉。",
+    "segment": null,
+    "news": [
+      {
+        "title": "2天上漲20%！台塑衝破80元大關再逼漲停 王文淵身價飆漲73億元 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNRnNlSm5pQUVjenZIMkVIclFwQWRaWmJxTU0zSklRTmRLd0NzTU1HN3gwQ18wMjh3OTNLZDBpLUFKQ1Y2ODBuaW8xRGJTTUZzeXRyYXB6SWo5MGVOdWxTc2xHYW5KYXRvOUdIMVJhd2hYT1dtY183cTZHYUFpVFpSTlQzamh1YnhnWjhvdUxybVhqQ0oyUVhzQXA1cDFmMlI5aU1zQ0RHX3FibDEtaUw0RXhzYVZTbER0TDgxZ1NBTVRjaEU1Wm8tXzREbGhwTmFuUlpXbVJIa0xzZWk3SnlqTHR3WkxueFgtOEJBOWs1WUptcng5OGptVGM2aWZ1YWI5b1lzeDVfNGl5MEdtQk1LdktaNllQbmI1enZtSHJVVzhqRDlqX1JMU1VDdlRYMk5ZVmNleWtUSWdsRVhCZkI1QkRGQ2V5VWZxemJ2UjZBano2eE56blg0ZHV5ZWVEU0N6RThRVDhIRjBKNjJJLWx0YkNKVHJ1R19KUHhuTXFRbnoxUmcyZnc?oc=5",
+        "publishedAt": "Wed, 07 Oct 2026 07:00:00 GMT",
+        "source": null
+      },
+      {
+        "title": "Factset 最新調查：台塑(1301-TW)目標價調升至80元，幅度約6.67%｜新聞快訊｜豐雲學堂 - 永豐金證券",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03VjBrRkdLVUhoX1JMSHRQVmh1dVVRWFdZMlZrdHVGU1dzZTN2THJQMllmcnRha0hhdnFhMkFGdVNWVU1zNXUxSTNIOWNJcE5HSlV0ZmZHWVdXa3FuM25UckVzcURDY2k4S1U2NkV5T0VYdlNGUnc?oc=5",
+        "publishedAt": "Tue, 20 Oct 2026 13:10:00 GMT",
+        "source": null
+      },
+      {
+        "title": "1301 台塑- 78了人道走廊開放賣10000張 - 股市爆料同學會 - CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xanBDSGpDb1RiMDk3VGJnbUZTa3RXdUZuWVNyWWUtcklmV3E0b0JsNVREZDhoZWd2TmdlaTVaLWFuUmgyUlJvcmxiRVprY1BLTkRzRkFTVDc?oc=5",
+        "publishedAt": "Wed, 21 Oct 2026 02:31:20 GMT",
+        "source": null
+      },
+      {
+        "title": "友達、台塑、南亞、台玻...台股震盪拉回，年底攻5萬2選誰？分析師點名20檔熱門股：「這8天」有便宜可撿 - 今周刊",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaTN5UmZHOXVkUm9JOGZkekNyQWFfcnRCbEltTHJBazR1ZlZtQWtrSmNmUmNpOVlKMDRGd0JVRG44MEhSa3d4V2JxUlczOTN3ZHh1cDBtT0hxT0FlczgtUEdabzliWjlPbDEzVXJCcjl0b2FSV1QzM1ZNTHItWnl3bQ?oc=5",
+        "publishedAt": "Thu, 15 Oct 2026 01:11:00 GMT",
+        "source": null
+      }
+    ],
+    "attentionScore": 8,
+    "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉強",
+      "近期有 2 則相關新聞",
+      "新聞含重大字眼，建議留意"
+    ]
+  },
+  {
+    "code": "6505",
+    "name": "台塑化",
+    "lastClose": 106.5,
+    "lastDate": "2026-10-21",
+    "changePct": -8.19,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "up",
+    "trendReason": "短期股價站上中期均線之上，走勢動能偏多，但仍可能受大盤或消息面影響反轉。",
+    "segment": null,
+    "news": [
+      {
+        "title": "Factset 最新調查：台塑化(6505-TW)目標價調升至120元，幅度約4.35%｜新聞快訊｜豐雲學堂 - 永豐金證券",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTbHh3dlhXWDZDUExSRWhEZnlWTUsxam4tVDYwd1J0Vm9sbENiU1NPVzdNZUphWEQ3bDRzX3hySTJROXRxNzFIQnNPMXZDVXpmcmx6U1ZOdTBsVVd2ckdEanI1Ym1jUlliQVVMQmVBallUdUgtMlE?oc=5",
+        "publishedAt": "Tue, 20 Oct 2026 13:10:00 GMT",
+        "source": null
+      },
+      {
+        "title": "1301 台塑- 78了人道走廊開放賣10000張 - 股市爆料同學會 - CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xanBDSGpDb1RiMDk3VGJnbUZTa3RXdUZuWVNyWWUtcklmV3E0b0JsNVREZDhoZWd2TmdlaTVaLWFuUmgyUlJvcmxiRVprY1BLTkRzRkFTVDc?oc=5",
+        "publishedAt": "Wed, 21 Oct 2026 02:31:20 GMT",
+        "source": null
+      },
+      {
+        "title": "〈財經週報-台股熱點〉三大紅利助攻 塑化股5月營收亮眼 - 自由時報",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FYUduQkliakxxM21fLUJ4Y0dEWWVIX2I1aDhHM3NaZXhjTERWOHhPM3BkQVFsbUlMVXVRUGN4TzlkOUtpSDI5a2FEbVZUbWFfYXFCMzA0Smw?oc=5",
+        "publishedAt": "Sat, 17 Oct 2026 14:38:33 GMT",
+        "source": null
+      },
+      {
+        "title": "目標價給到85元！不是南亞、台塑化「四寶這一寶」法人最看好 盤面爆發鎖漲停75.4元 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNSkVreXJNcHpxUGp4OGtpblJmWmpVLXJLeVV6WUZxWUVHWkNEOFdod0VsM3d2Tkd0NTBRcXBsSldtS1FCX0lGNVcycWIyWnUzSVA0V21MMktSanU4SElMMWVySGI3UXpaQUhEZmwtSTM3UnAtcXJmOGF0ZlR6aGVremp0Ti1XLWIzWjVzaThqSThnTnR2X3hNODE0ZVFFTmRxUHR1SW41dXYyMkhnWGJhS2Jwb3ZWR20zN1JTTUhKLU15REMtanlvc1QxeEI2REtwOTUyNjYyelUwQVVZdmxlTXV6LWxzMWRpdW5YaEhkdjJxM2xkazdyc2VuaVFFMkUzVjYzcEVDV1FVeFNwMXVlTjdaazlBaldhVGcxaU9OeWFsbGpHNmp3eGhNZXFFSDQ?oc=5",
+        "publishedAt": "Wed, 07 Oct 2026 07:00:00 GMT",
+        "source": null
+      }
+    ],
+    "attentionScore": 8,
+    "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉強",
+      "近期有 2 則相關新聞",
+      "新聞含重大字眼，建議留意"
+    ]
+  },
+  {
     "code": "3037",
     "name": "欣興",
-    "lastClose": 1120,
-    "lastDate": "2026-10-20",
-    "changePct": 2.75,
+    "lastClose": 1055,
+    "lastDate": "2026-10-21",
+    "changePct": -5.8,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "down",
@@ -17,126 +107,35 @@
     },
     "news": [
       {
-        "title": "3037 欣興- 台灣電路板國際展會開幕欣興董座開講：單兵作戰轉為協同生態系- 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5abkhpMXktc2x0bUc4Y21MQWFrZFRZbVhVTnRCdlJmYUlzZVd1NzUtU3VlMU5CMkJHVExNbk1NV3JMV1ZWczItdWszZVJ0bHNfQWF0VFFYU1I?oc=5",
-        "publishedAt": "Tue, 20 Oct 2026 03:10:07 GMT",
+        "title": "焦點股》欣興：出關首日火力全開 8分鐘急拉漲停 - 自由時報",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GNGJhSDBiVVFVUXlYQ2UzTTR5R3dJTjZhOGNZZ2dwOHh3V09zQWpCdGhwVnIxWDJ1ekxycmdXZk9hYVhxenJnVnNySTNHVElpUEdwSTl5Mkk?oc=5",
+        "publishedAt": "Tue, 20 Oct 2026 19:42:56 GMT",
         "source": null
       },
       {
-        "title": "欣興董座：AI 帶動硬體黃金時期 2027年 PCB 載板材料缺口20% - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Kd1VlcDJnWFZDVGthdnZtMFU2ZmpwMU1fbWY1ODdrVWlpZFloR2M4eUxKM2dQRmFNSElWOW5iYXc4a25UR093NFdvRGNVQi0yakQ1bzUxZmdtd9IBX0FVX3lxTE95R1JUelBMZHhaN2RjRHh2aVhpQ1VTV1pDQzJlOEg0eFJZSGV0WDYzNXV1dzFOS1NjalhfRWgzQW95SjVNQXZZSXA1M0tTZkp4Z1FMRkNocG1ONlJ0MHNZ?oc=5",
-        "publishedAt": "Tue, 20 Oct 2026 03:17:11 GMT",
+        "title": "3037 欣興- 今晚安穩睡Zzz - 股市爆料同學會 - CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpUGdNRk5wRGxJcUZxX0tpZ29Tdk02enZHT1pkeVk2UGhGNEFFVmRvYVp4OFgxVkg0S3NybUQzRWZpRXBvY2JSZ0xfZFJZM0ROSG4wa2RSLVg?oc=5",
+        "publishedAt": "Tue, 20 Oct 2026 13:27:15 GMT",
         "source": null
       },
       {
-        "title": "欣興董座簡山傑：玻纖布、銅箔基板、ABF將成AI擴產三大瓶頸 連欣興都提前向上游圈料 - 財訊",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CSjV4SnNuLVVUM0JMT0J0Z1JUMzh6SkJzUWFTbWxTWlpHUmtYb3hmaElsVk9QWVpRLUtnNjRvTlVMZFhKRk85N05LSTdjMVBFajVHUC11M3E3RllHZndCcndpM3dEb2RiYktGT0xqSlh2X1pZeEFVQnJyOA?oc=5",
-        "publishedAt": "Tue, 20 Oct 2026 04:05:12 GMT",
+        "title": "景碩、欣興、南電…ABF載板久違的飆漲能買？PCB女王點5檔核心組合，台光電為何是亮點？ - 今周刊",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbjViSklWTjhpbTZCWkhYcFlaUC1jUXdKRHZreks1Vkx0RHdfVlRIWTYxal83VVRweEU0NE5TMEhETnk1TC1lNnA0STc4Q1JQQVJuYzR2NmQwOTRDTUxxUzZDbXdVdEZJdU9TMVh0Y2ZQRDBPbHMzcEhwX1UzWXB5Xw?oc=5",
+        "publishedAt": "Wed, 21 Oct 2026 03:30:00 GMT",
         "source": null
       },
       {
-        "title": "【1019台股盤前】台積電財報週量縮靜待止穩！下週Tesla與Meta財報登場，TPCA概念股展會題材鎖定【臻鼎-KY】、【金像電】、【欣興】｜豐雲學堂2026 年 10 月 - 永豐金證券",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQanp6X2RfSmo2X0YxNUxjd3EyVUVDQW96MjdhU09lcUxma2JEOTJiMXMtQ0V4dVl1VHZ0TDg3dHBOcUxMYXViOXR6UHZwZnBVX294QlM0NTZ1TVNkb1dfeWdQV2FXRGxQS3JTNzNoWjdaUnVPNWVGX2stTzJzZmpFdkp3?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 23:54:45 GMT",
+        "title": "欣興利空ETF該賣嗎？0050、00981A、00991A持股權重、欣興股價跌停與影響一次看｜豐雲學堂2026 年 10 月 - 永豐金證券",
+        "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOV2MtMVFDVE93OVgyN084RGVtTkd6emNpRFNPQ3UzUjRmY2dUNkVCd3VpR3FfT1lrREl4RXhKaU9TcUpRbm5EN3RKdUJlc0JTWGxkSDdvdTRncE96N243TTRmUzJPM0RhTDY5cnhlMWlBQmswRzlvSTgyVUFxWGViYlUzNDh5dzQ2RWZzbVdWeUk3QkM3VnhiczFxUnMxMC1iaTI5NWRCdTZHRVh2OFlqbldmd1l1YzQ0em00cTZQUjQ4NlExWU95WUtkX21Ob0RnTl9lOVRIVmNsZDd0ZzMtZGpnQzRzdmJEWDJEMXlvZ0JkbDJtYnlzb2JhSUlwNXhXT1NNRGVkUGkxai1NWlR6YzVkb2tvRTJrRjktRG00dWgwSFVVRmQ0QmI1YWw3Qkw0ejFFeEdQSDVVeGs1UmhxeDRNbUotUFc2VjIxV2tyZGFLeTQ2SGI3VW0zbkZQTlFqWWtHWFBQZFpVU1Z3ek9uclE1RVB6dVpvVWl4WmNoVGk1Z0hYcUlGdkg5VGZ2Qi1iLUZKalhoTFZxc1FjcTJGWUJsYlltdnNfYUx2ZjZ3WQ?oc=5",
+        "publishedAt": "Fri, 02 Oct 2026 12:10:30 GMT",
         "source": null
       }
     ],
-    "attentionScore": 8,
+    "attentionScore": 6,
     "attentionReasons": [
       "風險燈號偏高",
       "走勢轉弱",
-      "近期有 4 則相關新聞",
-      "新聞含重大字眼，建議留意"
-    ]
-  },
-  {
-    "code": "1301",
-    "name": "台塑",
-    "lastClose": 78.2,
-    "lastDate": "2026-10-20",
-    "changePct": -4.75,
-    "riskTier": "high",
-    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
-    "trend": "up",
-    "trendReason": "短期股價站上中期均線之上，走勢動能偏多，但仍可能受大盤或消息面影響反轉。",
-    "segment": null,
-    "news": [
-      {
-        "title": "台塑四寶第三季成績單出爐！大咖法人最新目標價曝光 「這檔」搭上AI賺翻、EPS攀上4.9元 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxPc1Y0REpKSGsxTXhDdTdhUVRYYllpTmJNSTNTdUduRzZsVWJjT2RnRXRWSXdrRUloSkJfdkktRHpEWmhEd2UzaFRueXpLU29jUVkyZlEtRk1YYjhySkZ4SnBOWGVlQkk3Rk5udVRFMFBOMzl4MFFjT3JUTlg1dWpTb0xMWGF0c1dSMWhnZjM5eThUYXgzb0RwTkZYNTNPdVlwT3RoT0YzdkxiUGpQcVRGUTJZXzFxMmxTak9hSTk1cGh6MUJLdHNWYjNSZEJLb3p1bnZLVzhtQVl5WmtJM05VQ2RMRjJOTmFWN2NTUllOZktySG5HSkF4WU5sVmw0V0N2cDM1MjZXVDdVZGFXV2N2SDJUMVpJdGJmcVNlcUczODRCdmZnazlmT0hLX2hqQkVmRlJFakZqRS1kYXNHZHlOZUc2ODN2NHpxclBXbDlvMFB5SW5CbHpYcVVILUl4QUlZMF9vMlpOOS1FVXNvbjR5ek9CVDVTSVpoakhCaGtEWXpiVk1zYURNdmltUzJxQy1tMDAzVWJFQmFNMVc4cjBNVndjWFJGeWdRemNGZnJvaXhmOTR0WS1teUtTSnN4Uzh6akNQakFRV09ZbGJzNkZrSkNfZ1NwTGtzMXJ1aw?oc=5",
-        "publishedAt": "Sat, 17 Oct 2026 10:50:00 GMT",
-        "source": null
-      },
-      {
-        "title": "今日漲停股｜塑化與被動元件領軍，台塑、台化、金山電強勢亮燈 1014｜豐雲學堂 2026 年 10 月 - 永豐金證券",
-        "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOdGl2QW9ldVhvb2dKZ195SW5UdVhfb2JBRmlhd2FFWlJZR0t6NEdzTkpLNGxCclppSm5TNlpOeERYMUw3azNOY3hKQ2NfV3B5bFB4VEItNFh5dUZPVFJCS0xhXzN2V1dyT0RxV3BPQXp6R0pHUWlUd0kyVmlIRXVLUkNSR0ZvTEVfOWJGQVpDczZ4QUNsd1A4MC1OdXozalFuX0s4dTVCUnMyWTI3dUpsRVR2Q0V3VG9Ld3VTZ2lXYkZUVWpJZHBId1VrVGVSUGZhdUVUMS02X2FyZWNyV1l4UUstMkY1eGo2VHVPRzFKenNBOVlncDB0REp2UWRuZWk4cFNzbVEwczhfQVNHaVd6SHc1X1d5NUQxODV0WDBwalkzMlhqRjhOTmNPTWlUMjlLQ1BkN0twZlpMVVJZUjg1a3Z4dm9raFFxNmtKX1ZNN0xtelVMNEpyemljRlhpQUFqTzE1ZmpSRjFfeWNsQmp6RDRaMnJlOFBnTlB4blp1ODRfa0I4SXJuSHluYVJOb0RoallyRzVNdk9VTzl5UWY5ZVpKak91dzhWSjNGR01LcWU5OVlsTnlXenBB?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 07:31:50 GMT",
-        "source": null
-      },
-      {
-        "title": "1301 台塑- 信評：借款槓桿降低，台塑四寶評等調升至twAA - 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jV2thZlVrczgzWmw5bjFBT3lGMVRDRS1YSmhiME5nazFuRmswazhPV0VNdGZ0al9KcGFCeUkzR18zcTBNWlZFYVMtX2lLbXFOb3l5bnVwa0o?oc=5",
-        "publishedAt": "Tue, 20 Oct 2026 03:45:27 GMT",
-        "source": null
-      },
-      {
-        "title": "南亞沒他香？台塑、台化、台塑化...3寶拉回撿誰龍頭投顧按讚「這檔」：目標價跳升28％ - 上市櫃 - 旺得富理財網",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HZUthS0x6cW4yT0NDUnl0LVVySHZyYUtQY1BOTVRKUmFRY3Y4d2R3ZjEwdW1ORHFmMmZtR09HMFZnMDdHT2xjdUpwZ0RGMUhRN0xCTG8yUVk2V1prRWNHTTRBQ2RfenNZSWc?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 21:06:10 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 8,
-    "attentionReasons": [
-      "風險燈號偏高",
-      "走勢轉強",
-      "近期有 3 則相關新聞",
-      "新聞含重大字眼，建議留意"
-    ]
-  },
-  {
-    "code": "6505",
-    "name": "台塑化",
-    "lastClose": 116,
-    "lastDate": "2026-10-20",
-    "changePct": -5.31,
-    "riskTier": "high",
-    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
-    "trend": "up",
-    "trendReason": "短期股價站上中期均線之上，走勢動能偏多，但仍可能受大盤或消息面影響反轉。",
-    "segment": null,
-    "news": [
-      {
-        "title": "台塑四寶第三季成績單出爐！大咖法人最新目標價曝光 「這檔」搭上AI賺翻、EPS攀上4.9元 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxPc1Y0REpKSGsxTXhDdTdhUVRYYllpTmJNSTNTdUduRzZsVWJjT2RnRXRWSXdrRUloSkJfdkktRHpEWmhEd2UzaFRueXpLU29jUVkyZlEtRk1YYjhySkZ4SnBOWGVlQkk3Rk5udVRFMFBOMzl4MFFjT3JUTlg1dWpTb0xMWGF0c1dSMWhnZjM5eThUYXgzb0RwTkZYNTNPdVlwT3RoT0YzdkxiUGpQcVRGUTJZXzFxMmxTak9hSTk1cGh6MUJLdHNWYjNSZEJLb3p1bnZLVzhtQVl5WmtJM05VQ2RMRjJOTmFWN2NTUllOZktySG5HSkF4WU5sVmw0V0N2cDM1MjZXVDdVZGFXV2N2SDJUMVpJdGJmcVNlcUczODRCdmZnazlmT0hLX2hqQkVmRlJFakZqRS1kYXNHZHlOZUc2ODN2NHpxclBXbDlvMFB5SW5CbHpYcVVILUl4QUlZMF9vMlpOOS1FVXNvbjR5ek9CVDVTSVpoakhCaGtEWXpiVk1zYURNdmltUzJxQy1tMDAzVWJFQmFNMVc4cjBNVndjWFJGeWdRemNGZnJvaXhmOTR0WS1teUtTSnN4Uzh6akNQakFRV09ZbGJzNkZrSkNfZ1NwTGtzMXJ1aw?oc=5",
-        "publishedAt": "Sat, 17 Oct 2026 10:50:00 GMT",
-        "source": null
-      },
-      {
-        "title": "今日漲停股｜塑化與被動元件領軍，台塑、台化、金山電強勢亮燈 1014｜豐雲學堂 2026 年 10 月 - 永豐金證券",
-        "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOdGl2QW9ldVhvb2dKZ195SW5UdVhfb2JBRmlhd2FFWlJZR0t6NEdzTkpLNGxCclppSm5TNlpOeERYMUw3azNOY3hKQ2NfV3B5bFB4VEItNFh5dUZPVFJCS0xhXzN2V1dyT0RxV3BPQXp6R0pHUWlUd0kyVmlIRXVLUkNSR0ZvTEVfOWJGQVpDczZ4QUNsd1A4MC1OdXozalFuX0s4dTVCUnMyWTI3dUpsRVR2Q0V3VG9Ld3VTZ2lXYkZUVWpJZHBId1VrVGVSUGZhdUVUMS02X2FyZWNyV1l4UUstMkY1eGo2VHVPRzFKenNBOVlncDB0REp2UWRuZWk4cFNzbVEwczhfQVNHaVd6SHc1X1d5NUQxODV0WDBwalkzMlhqRjhOTmNPTWlUMjlLQ1BkN0twZlpMVVJZUjg1a3Z4dm9raFFxNmtKX1ZNN0xtelVMNEpyemljRlhpQUFqTzE1ZmpSRjFfeWNsQmp6RDRaMnJlOFBnTlB4blp1ODRfa0I4SXJuSHluYVJOb0RoallyRzVNdk9VTzl5UWY5ZVpKak91dzhWSjNGR01LcWU5OVlsTnlXenBB?oc=5",
-        "publishedAt": "Mon, 19 Oct 2026 07:31:50 GMT",
-        "source": null
-      },
-      {
-        "title": "1301 台塑- 信評：借款槓桿降低，台塑四寶評等調升至twAA - 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jV2thZlVrczgzWmw5bjFBT3lGMVRDRS1YSmhiME5nazFuRmswazhPV0VNdGZ0al9KcGFCeUkzR18zcTBNWlZFYVMtX2lLbXFOb3l5bnVwa0o?oc=5",
-        "publishedAt": "Tue, 20 Oct 2026 03:45:27 GMT",
-        "source": null
-      },
-      {
-        "title": "南亞、台塑、台化、台塑化…台塑四寶遭甩賣，「這兩檔」外資還能挺下去？目標價一表看，潛在漲幅有多大？ - 今周刊",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVmd1OEtNbklLUEp2SEsxNngzc1pXcUQ5WW5sN3NXWGdlQjNYTFJ4WTJVMFNUOHVmUjRQeU9KSTEwMUk5anNmUU91UWNBV2hzX2xTUlJQaFFXX1ByVnl2emNGOTNfWHMzMHVDUE4zNEFaMFhzRzdVeF9SMWx6czlIRA?oc=5",
-        "publishedAt": "Thu, 15 Oct 2026 07:30:00 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 8,
-    "attentionReasons": [
-      "風險燈號偏高",
-      "走勢轉強",
-      "近期有 2 則相關新聞",
-      "新聞含重大字眼，建議留意"
+      "近期有 3 則相關新聞"
     ]
   }
 ]
