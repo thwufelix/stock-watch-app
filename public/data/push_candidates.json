@@ -1,55 +1,10 @@
 [
   {
-    "code": "1301",
-    "name": "台塑",
-    "lastClose": 69.1,
-    "lastDate": "2026-11-05",
-    "changePct": 0.58,
-    "riskTier": "high",
-    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
-    "trend": "down",
-    "trendReason": "短期股價落在中期均線之下，走勢動能偏弱，建議留意是否有進一步利空消息。",
-    "segment": null,
-    "news": [
-      {
-        "title": "台塑、南亞、台化及台塑化今日15時召開聯合重訊說明會 - UDN",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sQXBQSXRjcGYwRjlzdWJ4VzVnendWaE9hdlppdVN0QnBqX1dyb1pmWDMwTnhlbVRtalUtaDV2MGpKUWRmeEVMS1ZNRzBqY2pURlJ30gFYQVVfeXFMTVBVUjJ4V3A4emtzeHpwaUUzc0RHaE1wemF1OUFMQUdfRXd6ZXlFRVdlLVRhdm03Mjg0cTR2LURyZUxHcm01XzdjMHlSb0w5Z2hfYVl3blpXdA?oc=5",
-        "publishedAt": "Thu, 05 Nov 2026 06:26:32 GMT",
-        "source": null
-      },
-      {
-        "title": "台塑四寶亮三燈 市值一天暴增4400億元相當於一間統一！分析師：補漲「一鼓作氣」 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQbmc2TDB1NG5mendDeVRRZjhWeGZhQXdUTW9TWi1LaGlWdGw2VlktSGRwVUtuekF3UEtuUGVYRDVsZElPdEZUdmhKc3NxZXpoREJrRHltSEU4MmtfaUxnNTFSYmx3Z0RlUV9lb1Jrb1BhSFI3N0oyWHoxcDVXb0hyNHJjb05IRkkyUkdxTVQxczhUMTI1Skl5cjd0Y0dZcnBxNDQ5RUp1Vi03eWpfLTVUVnlQMzV1NVpvbXRNMkFnYVNwZ205UXlTY3NqdFVuZWV3WHhfdXNXOXRHdkM4ZmU1VmF2c1FiZkpoMEpDNmdhakMzQVhidzRBTE5hV3RQRVd6aVhzVTZDZmpJdnZmczlyUmVPQnJpNWNCR3loYUNockZHamxnZ1ZrX2xWVWgtd0Y0bklrR1dMRmo0c1NIRVFtQ2FFaFpCUDM2UjNvY1VDS1JQNVMzdDF2b3ItMjBaWUdHNV82NlBRY1B2TVo0dnVnenZ4UnJRemtDWmd1R25oOEpXU1NpSVNCS0FWVmNUdGVvQUVBZTN2WUYyNWxHNjBpbk5TOFppR0JMOVhod3Y3X0JTTUNHODc0RFpwdzBsMGNPcjJJVjdaOGJzVnNqSjNTSWNaZUVtdmJlR1Z1Mk5aZnJmWW51NHlCSHFyOEZvcFAxTi1wdTZGX2x5ajZQRDNGS3JWSWxHUQ?oc=5",
-        "publishedAt": "Tue, 13 Oct 2026 07:00:00 GMT",
-        "source": null
-      },
-      {
-        "title": "1301 台塑 - 油價再殺一根 空好空滿 - 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sRWZvakJEVHUzNk85eXIxQmJHUzczNmhNZE40dFlsT0pxbHRsc190NlNzVERteVBOb1JfZG5HdnM5cF9YdlFmRURhdG96U0pjYkowM3pSR0M?oc=5",
-        "publishedAt": "Wed, 04 Nov 2026 21:38:49 GMT",
-        "source": null
-      },
-      {
-        "title": "川普講和卻又空襲伊朗 油價拉回但還是站穩百美元 台塑化急殺近8％還能買? - 理財周刊",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IV3otYzF3d2Rqel9CTGZheFV4RTY3MjM4eHZjY3pBQm9SSk5IUzdJVUItNHYwZnhQeXQwZU1yNWlHbEY2SzR2VllWV0QyaGw3MDNXVTBWRVdvdXB2S250Y1FFWHBXMnZQandvM21NOA?oc=5",
-        "publishedAt": "Tue, 03 Nov 2026 06:14:08 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 8,
-    "attentionReasons": [
-      "風險燈號偏高",
-      "走勢轉弱",
-      "近期有 2 則相關新聞",
-      "新聞含重大字眼，建議留意"
-    ]
-  },
-  {
     "code": "1326",
     "name": "台化",
-    "lastClose": 69.2,
-    "lastDate": "2026-11-05",
-    "changePct": 1.17,
+    "lastClose": 65,
+    "lastDate": "2026-11-06",
+    "changePct": -6.07,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "down",
@@ -57,21 +12,21 @@
     "segment": null,
     "news": [
       {
-        "title": "台塑、南亞、台化及台塑化今日15時召開聯合重訊說明會 - UDN",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BYzF0WldxYTN6R3NEdlVEY1RlRjBGSTNUU0tLODRKc21yMVNTRFJSeVRucVdXTG1UZEUtVktNSWY2dC12TWc2c1RoM3haMTJHZmNXdWd5VDJidzJVSDhtYTN5cjMtRWZlbW9WVTQtQjR5QdIBVkFVX3lxTE5NU0dlT3RBNFhWMGtMYjFUdVM2aDVwUEY0ZTYzUG1UcWNhZnNMVG5zX2FHT25OdVlfbEhGTWNiWXoxbElFRjh0a2wtc2swTjRLRlVCMEN3?oc=5",
-        "publishedAt": "Thu, 05 Nov 2026 06:26:32 GMT",
-        "source": null
-      },
-      {
-        "title": "1326 台化 - 油價再殺一根 空好空滿 - 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Idzd6UTlLZ2tfUXZfR1ZMME1id2FIQVV4TjVTemN4SjZoSENXbmlXc0g1NG51b0JzNC1raThaNlhSaWUwazktYnpZZVVEZzVWUGRGZ19HblE?oc=5",
-        "publishedAt": "Wed, 04 Nov 2026 21:39:21 GMT",
+        "title": "【營收快訊】台化(1326)公告10月營收 - CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hNWo5NXM3M2F2Ml92eHByd3JZaG1CdmtJRW42UWYtNFVoSG5hb1VKVl93MnJqTHFHckpyRm44QVpibk1XTmpFS2R5aU1GSkNqRHJ0ZGlCWS0?oc=5",
+        "publishedAt": "Fri, 06 Nov 2026 05:33:02 GMT",
         "source": null
       },
       {
         "title": "焦點股》台化：四寶中最低價 向上比價 - 自由財經",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WUHhIRWxCOUE0ZmNDVl9kQUlxTTQ0NkF6UDVaZ3kyUGE0S3FKOUxHaUktWFJZZWJaVnRHYTB0Ym9lYy1MQ2pacmlZNFNMeFV4NTkwRGh2ZnJDXzRCbHhF0gFkQVVfeXFMT3hYRlVVUXJKRy16Ml9NRGp1Tkdma3JjeEIwRXJDUF9zaVY3R1AtX2pOS3BvdlRXX3JkZ1ZDYWttYmlrbkZaQmR1UmJzWkRYSmRWSDh0eVlEckg3TWVSNjNIV1VYNw?oc=5",
         "publishedAt": "Wed, 14 Oct 2026 07:00:00 GMT",
+        "source": null
+      },
+      {
+        "title": "台塑、南亞、台化及台塑化今日15時召開聯合重訊說明會 - UDN",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lZ1BnYXkyaVRnUDlyNERHcnYzTUdwZW5MQzBhMUtYamhxLWtjVDZIN3JSblZtRHZoMzFPSlFHVTVTMVllWXZaeHRRcnlSOVEx0gFWQVVfeXFMTk1TR2VPdEE0WFYwa0xiMVR1UzZoNXBQRjRlNjNQbVRxY2Fmc0xUbnNfYUdPbk51WV9sSEZNY2JZejFsSUVGOHRrbC1zazBONEtGVUIwQ3c?oc=5",
+        "publishedAt": "Thu, 05 Nov 2026 06:26:32 GMT",
         "source": null
       },
       {
@@ -92,9 +47,9 @@
   {
     "code": "6505",
     "name": "台塑化",
-    "lastClose": 97.6,
-    "lastDate": "2026-11-05",
-    "changePct": 2.85,
+    "lastClose": 87.9,
+    "lastDate": "2026-11-06",
+    "changePct": -9.94,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "down",
@@ -102,27 +57,27 @@
     "segment": null,
     "news": [
       {
+        "title": "焦點股》台塑化：國際油價回升 股價谷底翻 - 自由時報",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Eb2s3bWl5Vms5S0RjcFI2d183aTB3VWVtMVdjc21VdE1FQi1idXI0SEpDb25SeThyM0ViQmMtd0NELUVqRjBZa2hkNmdtbzlabUNKcXNyWF8?oc=5",
+        "publishedAt": "Fri, 06 Nov 2026 01:47:41 GMT",
+        "source": null
+      },
+      {
         "title": "台塑、南亞、台化及台塑化今日15時召開聯合重訊說明會 - UDN",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BYzF0WldxYTN6R3NEdlVEY1RlRjBGSTNUU0tLODRKc21yMVNTRFJSeVRucVdXTG1UZEUtVktNSWY2dC12TWc2c1RoM3haMTJHZmNXdWd5VDJidzJVSDhtYTN5cjMtRWZlbW9WVTQtQjR5QdIBVkFVX3lxTE5NU0dlT3RBNFhWMGtMYjFUdVM2aDVwUEY0ZTYzUG1UcWNhZnNMVG5zX2FHT25OdVlfbEhGTWNiWXoxbElFRjh0a2wtc2swTjRLRlVCMEN3?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lZ1BnYXkyaVRnUDlyNERHcnYzTUdwZW5MQzBhMUtYamhxLWtjVDZIN3JSblZtRHZoMzFPSlFHVTVTMVllWXZaeHRRcnlSOVEx0gFWQVVfeXFMTk1TR2VPdEE0WFYwa0xiMVR1UzZoNXBQRjRlNjNQbVRxY2Fmc0xUbnNfYUdPbk51WV9sSEZNY2JZejFsSUVGOHRrbC1zazBONEtGVUIwQ3c?oc=5",
         "publishedAt": "Thu, 05 Nov 2026 06:26:32 GMT",
         "source": null
       },
       {
-        "title": "〈焦點股〉民主黨選舉大勝油價重挫 台塑化、南亞打入跌停 - 鉅亨網",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yRjFGNmRaWjRadDQxUGozMTRrMUpIX0ZlMjBnWUlQRFM5blZmcDRlZXlXYXBtR0ZGLUhQUE8zaDZnNTVFQlBoNzI5cjIxLVU?oc=5",
-        "publishedAt": "Thu, 05 Nov 2026 05:09:45 GMT",
+        "title": "油價暴跌逾8%！台塑化、南亞雙雙跌停 台塑四寶為何未受惠原料降價？ - 理財周刊",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ISVVzT3QwenpKT1dzaW5SOUYxSEExY2U2UU5MLVBDY0JUaXRRanFoelM5QUR5LUlob2IyRFhsNWQyMWFVVEJHU29pcVVvQ2tVM0tBakROSFVOZFVKZmFZNlVCT3NSRXRDcURua09jYw?oc=5",
+        "publishedAt": "Thu, 05 Nov 2026 07:26:14 GMT",
         "source": null
       },
       {
-        "title": "〈焦點股〉民主黨選舉大勝油價重挫 台塑化、南亞打入跌停 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kTGxwUWwtZTlwZWRfUzA5cUFCY0N6U3VwbFhCaDc0RGZCdm9LQXVHX0t0aEhNQ1B4MjhTQUhQanY1aDlLWVI3Z3owdUlmTGNMdHdpcWlDMGU?oc=5",
-        "publishedAt": "Thu, 05 Nov 2026 05:19:42 GMT",
-        "source": null
-      },
-      {
-        "title": "川普講和卻又空襲伊朗 油價拉回但還是站穩百美元 台塑化急殺近8％還能買? - 理財周刊",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IV3otYzF3d2Rqel9CTGZheFV4RTY3MjM4eHZjY3pBQm9SSk5IUzdJVUItNHYwZnhQeXQwZU1yNWlHbEY2SzR2VllWV0QyaGw3MDNXVTBWRVdvdXB2S250Y1FFWHBXMnZQandvM21NOA?oc=5",
-        "publishedAt": "Tue, 03 Nov 2026 06:14:08 GMT",
+        "title": "今日漲停股｜塑化與被動元件領軍，台塑、台化、金山電強勢亮燈 1014｜豐雲學堂 2026 年 11 月 - 永豐金證券",
+        "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOdGl2QW9ldVhvb2dKZ195SW5UdVhfb2JBRmlhd2FFWlJZR0t6NEdzTkpLNGxCclppSm5TNlpOeERYMUw3azNOY3hKQ2NfV3B5bFB4VEItNFh5dUZPVFJCS0xhXzN2V1dyT0RxV3BPQXp6R0pHUWlUd0kyVmlIRXVLUkNSR0ZvTEVfOWJGQVpDczZ4QUNsd1A4MC1OdXozalFuX0s4dTVCUnMyWTI3dUpsRVR2Q0V3VG9Ld3VTZ2lXYkZUVWpJZHBId1VrVGVSUGZhdUVUMS02X2FyZWNyV1l4UUstMkY1eGo2VHVPRzFKenNBOVlncDB0REp2UWRuZWk4cFNzbVEwczhfQVNHaVd6SHc1X1d5NUQxODV0WDBwalkzMlhqRjhOTmNPTWlUMjlLQ1BkN0twZlpMVVJZUjg1a3Z4dm9raFFxNmtKX1ZNN0xtelVMNEpyemljRlhpQUFqTzE1ZmpSRjFfeWNsQmp6RDRaMnJlOFBnTlB4blp1ODRfa0I4SXJuSHluYVJOb0RoallyRzVNdk9VTzl5UWY5ZVpKak91dzhWSjNGR01LcWU5OVlsTnlXenBB?oc=5",
+        "publishedAt": "Mon, 19 Oct 2026 07:31:50 GMT",
         "source": null
       }
     ],
@@ -132,6 +87,55 @@
       "走勢轉弱",
       "近期有 3 則相關新聞",
       "新聞含重大字眼，建議留意"
+    ]
+  },
+  {
+    "code": "2454",
+    "name": "聯發科",
+    "lastClose": 3460,
+    "lastDate": "2026-11-06",
+    "changePct": -6.86,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "down",
+    "trendReason": "短期股價落在中期均線之下，走勢動能偏弱，建議留意是否有進一步利空消息。",
+    "segment": {
+      "chainId": "semiconductor",
+      "chainName": "半導體產業鏈",
+      "segmentId": "ic_design",
+      "segmentName": "IC設計"
+    },
+    "news": [
+      {
+        "title": "台股暴跌史上第4大！6兆元市值秒蒸發 等於憑空消失1家聯發科 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxQb3dDaldhZXVqNXRiNzVoVGJVZGVrcExuSG9xUkNMN2hBdUZVM3EyZkVtSmVJOEEzeXlZSm5PT1hHRF90SnF4X3Q3TkoxLUlUUTJIVloyaXg4SVJwUkdwazVVMldKdHdkWjI3cUplYVYwNWtuRkZvUHJwekQ2U3daYmlDTUFjQ2pxWDE4Z2sxSmpVOVp2cDVRZ3JLeVBkUVVrc1hUN3h6WVhBM3B6U2NsbzZSSWFoNkZNLVNwWmswM1RnREVjUzBWeVdwMWotTTlXMUlzRXFLNTd3WmxFM1M3TmptVnlnMnR0UURjSHVOeVFmektTZDNFcTNQNVNKZ0tZbjQ2b0dzWmRfZ1N2VkNNSEp5MlFsc0M1U0Y5dXR3VmxrVHNvMWs1M2oxQXB1YkRMY0V1cURRMlhzTWxiTUltZ3B5RWlYUmtjNG1UN29ITnFhYUxWa3l1UjlyLWN3UzZwVjVlZVJZVWQ4bzIwSXZhemFWQ1k5VG1mc1VmTTFJNDJoa2Z2Q2VhOW52d1NKdWlLN2ZEY3JOUmw?oc=5",
+        "publishedAt": "Fri, 06 Nov 2026 06:29:24 GMT",
+        "source": null
+      },
+      {
+        "title": "台股跌破年線怎麼辦？台積電、聯發科...杜金龍持股拉到75％，逆勢加碼這3檔，進場價曝光：連太太都出手了 - 今周刊",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWS1BUmlSMm9tX3NNdUpiTGlGMFVidGJ4SFR2cDBVblRZVmE0V0c5YUxFNVJmOTlIQUVmQUhiaG9zZVl5bWdMNm5XR19DSWpYV0FzTGoxT01YRGZfSHAtTVQ1cG5jNzgyTjhCa1FBOVdhRWZtWVRqTE5hWU9waHg3Mw?oc=5",
+        "publishedAt": "Fri, 06 Nov 2026 02:27:00 GMT",
+        "source": null
+      },
+      {
+        "title": "蔡力行喊話無效？聯發科又跌半根 聽話買進「帳上1張虧22萬元」 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPNDZxUEZYNTVKZHdvLVh2WmEyS2xQOENwdkpRWHI4aEJWOFVNN0dvME53MDVWWndzVHJzeHczZU9aNnhrdGNIbF90WW80TmZia0d0NVBULU9NOXA5TmV4bnQ1cDBFai1CVS1MYVhtbjhqMTloUlBJSE1vaU1VUDlPQzVIQnBWRERRdEtPUHpnSVUtTDhIeFhZQWdXVml2VmFkV3lWelJtaTB3ZVhjNzJRREdoVjlhOFFOQ0lCVG10XzF0NlN2bWNuNFItTzI2V0hqRkl6VTNmT05MNXA2SGd1aHhZY1J0Q2ZkdVd0NU9fTnhQLVdZci1zNkEydU5PWEhBTlVnb1hoUlc5RFB4dUFhNHhMWFNJNUphekYxNHNuZDBESks3NnlvOTYyMnpCMG4yTk5YZWtMdTIzNkNqMmdRaTNhczhJX3htOWhxYjUwODRrcVVtUkFLZnZLd0N5Zm9WQW1qR05NQWNEXzJHQjYtTFhLNFpfcGp2UFJ6ZkdIY1p3MUdXRDFCNmdXSXpfQ0hSTXNUNlpnYW1ZS2NRbmczT2h4VmU?oc=5",
+        "publishedAt": "Wed, 04 Nov 2026 04:22:30 GMT",
+        "source": null
+      },
+      {
+        "title": "焦點股》聯發科：開盤跌停！ 連黃仁勳也嚴重套牢 - 自由時報",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SNENJNm15YWNvLXZrSnBMSlpzam1LcnRkZWFtZUVsdURZTV9SX2g0T2V6LWJnSXdMeDllRlRiUVZGZUNIYUtTYmg2bnZGb21ZZUU5bzF5TU4?oc=5",
+        "publishedAt": "Fri, 06 Nov 2026 02:08:50 GMT",
+        "source": null
+      }
+    ],
+    "attentionScore": 6,
+    "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉弱",
+      "近期有 3 則相關新聞"
     ]
   }
 ]
