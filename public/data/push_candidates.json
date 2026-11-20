@@ -2,9 +2,9 @@
   {
     "code": "2303",
     "name": "聯電",
-    "lastClose": 93,
-    "lastDate": "2026-11-19",
-    "changePct": 0.65,
+    "lastClose": 88.2,
+    "lastDate": "2026-11-20",
+    "changePct": -5.16,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "down",
@@ -17,92 +17,44 @@
     },
     "news": [
       {
-        "title": "外資尾盤大逃殺？狂倒近200億賣單 台積電市值1天跌掉3家聯電 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNLUZWNXNkOUFxUDd3TmxHbU5JTmVlSS1yblEzbFIzM0JqODZnZXBSdlljWlhYUkFVc3NyXzFGczQ0M0JQY2todzBOR3dTdDF5amJVVkJ4WVZuaGVuWDlYVUI0a2FOOHhqc2VYOWdFYVFIU3cxdTdlWXNMZm5hZ1ZYT2xvb0VGVFRCYVpEa3Rhcll0djM0b3Q3N2NabGxaNUxleWpaY0ttVVhXY0FpZ1NrMmhHcjJXaTlxWW5wRkdUUzZQX0pySTBmRWUyY2ttSEdUMmZXSy1oUjFZeHVTYjEzcFBkbkVVcXRjYnplTVBUeUZuelNhOFJVRUloSkI3X0dxby1GUmY1djFSV0lJTnlJU1g4NVUwTXcyRWZHYXQ5UjVJcFIybU1NQjRGdDdjV0ItQjN0WDg1RDA4V1E3bl81NUdyYmN3OEFiRzhZMDd6anBib2hwd0EycEllU3JPOUlQNFhyTkctVlFrVHNoMjNXMzJFUzFRcHlHblRUVXl2YlVGWnVuZ05jSHRRT0l5X3M?oc=5",
-        "publishedAt": "Mon, 16 Nov 2026 05:59:50 GMT",
+        "title": "資安事件+亮眼財報激勵！「這檔」一度逆勢亮燈炸8.6萬 聯電困守80元防線飛掉19.8萬張 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNdk1RNVlVUWRUNG1iMDEtcEk5Rlp6aDNhSnB3alFObWpWMmY2MVNINWhVREVvTGdjUTVLb2NYdmRQN192N3J0aHBibVZINmdvMUJJVFpkQml4Z3pWM05lNTRmaGZqMDcwR0ZPMmw1RVZETFdvSC0tbTU4azRNeDVNQ3lIWnBHNGZKQ2dnaEZFWmw5YUthUWV3eTBGWnFnYld5QVJXcklSQ0tmRjI3UE9xaFhKMGdyUHJQNDlBM1NDa3kwZ0NpeEIxdnFLa2ZoXzlLT1JuRHh5V25sX0h3QVQwQUctSmRNblRLYnBKclE2bjdsNXI4emVkblBMdUI2TkNtZElEWFYybkRqTjNIcHJVR013c2E2ZXdNMVpnUUpqaG1HTklWT25JMTl4d1hrUXdkNldJT0dlY2lQYVpFSHMwMndyMDJyMlE?oc=5",
+        "publishedAt": "Fri, 20 Nov 2026 04:59:10 GMT",
         "source": null
       },
       {
-        "title": "2303 聯電 - 聯電 - 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PWUV4OUlRQ3hLZ0lwU0dmT09qSnpCanlFT2htUHJDdFZ5Rk53ajlja1F2eGJXWWNBSEg2a2hrS0duTllvWUNiOU90SE9DZm1pdEV4bTJvMDQ?oc=5",
-        "publishedAt": "Tue, 17 Nov 2026 21:10:19 GMT",
+        "title": "2303 聯電 - 11/19(四) 投信 - 股市爆料同學會 - CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xMlVlamhzbmtHV3RGNkJpRDhWZHlISi1qWHcyWmh4dHhqaDQwQnJ0ZUZsQ01EVWs1dWR2TjZDZW9LcVFSQlh2RjFvRTYyUWZsSVpmLWxOZ0w?oc=5",
+        "publishedAt": "Thu, 19 Nov 2026 07:11:04 GMT",
         "source": null
       },
       {
-        "title": "台積電ADR跌逾3% 日月光聯電也收黑 台指期夜盤下跌219點 - 經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53N01lYnQzdmVtUXUxMXA2QVRvR2h0Q3B4cTRZTjZ3OHdlbTNkU3FnRVZvOEw0Uld5aGtUVkxYUFJ0OEdUQmhlaGZRZ0Q4MHJidWp6Q2tJdnRlM3lD0gFiQVVfeXFMUC13SWlRQkR5MUJpRkpHaENSbGsyaGdZRjNYN0FMbjY1amM5eTlQdXJCSGprMkR2VEttajBQQ0pFQlU0QnhOSjBnblFfNG9VZC1wS3M1LXVxZ1o3NC1fTHg2S3c?oc=5",
-        "publishedAt": "Tue, 17 Nov 2026 23:25:01 GMT",
+        "title": "台股空襲警報／「不要一直講電話，趕快買股票！」杜金龍台股崩盤日出手3檔名單曝光 - 鏡新聞",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhZjJEcUVuV0tFUnE1M25pQUhzNGRvNGJNdERJWGwwWE1DYlZyUGU2aTc5czU2MzdRVXg1ZmNfRU1lUVhCTXNkemltclNKN2tUTHBYak1YckRKOHBiR1liRFJR0gFnQVVfeXFMTTF0am5mUEZaTWlBanVldEJPS1ZyWURxZG16SzZweWFJTWhzSVBCbWk2eFNlZExXWUpMX3lZdUdRdmYwRkVOUEJUSmxDNWNPTW9CRTA2MDZaenZXdjloNWg4ODR6RGo2bw?oc=5",
+        "publishedAt": "Fri, 20 Nov 2026 04:00:09 GMT",
         "source": null
       },
       {
-        "title": "2303 聯電 - 怪博士（誠懇哥）艦長日誌｜11/17（二） - 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZNGdGa1ZrVmNZQ2FiMFJna2ZiMjhIUFpWcDRtQU5Iakk5N0lpV3RDS2I4MFVYYVBzdUdLNnJqQWVPUXdDTFc5cTZFS28tMEZzRkpVUXdPMXA?oc=5",
-        "publishedAt": "Mon, 16 Nov 2026 23:06:11 GMT",
+        "title": "【00400A】11/19 操作日報｜捨聯電，轉向佈局通路與網通-CMoney官方 - CMoney投資網誌",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xTElNS2lFXzFKNDFKSEEwbk5JSmFpUzNCeEpLSS0tMHA4Yzh0ckFTa1BFQ01SVWt3OWZLZ0JuTEJTbllqSGhOSDR3cXllZzJzbzRiS0N6aUxQR3duWXFYa21Wb2hkSHRDQ0dzcENJWTBMVTl2R3IzS1dYQ2Iydw?oc=5",
+        "publishedAt": "Thu, 19 Nov 2026 12:20:05 GMT",
         "source": null
       }
     ],
-    "attentionScore": 6,
+    "attentionScore": 8,
     "attentionReasons": [
       "風險燈號偏高",
       "走勢轉弱",
-      "近期有 2 則相關新聞"
-    ]
-  },
-  {
-    "code": "3711",
-    "name": "日月光投控",
-    "lastClose": 548,
-    "lastDate": "2026-11-19",
-    "changePct": 5.38,
-    "riskTier": "high",
-    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
-    "trend": "down",
-    "trendReason": "短期股價落在中期均線之下，走勢動能偏弱，建議留意是否有進一步利空消息。",
-    "segment": {
-      "chainId": "semiconductor",
-      "chainName": "半導體產業鏈",
-      "segmentId": "osat",
-      "segmentName": "封裝測試 (OSAT)"
-    },
-    "news": [
-      {
-        "title": "三大法人買賣超 – 外資買超(6274)台燿、(8046)南電，投信買超(2330)台積電、(3711)日月光投控，法人合計賣超632.07億元 - 永豐金證券",
-        "link": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxQUUtfZlBqODZrZ3JfSGt2eWZ6a1p5RGcxcjJBLWlFVDlZV3RNVnNYX19BTGhMTno5NXltZmtQSjRlYmwzY2ZiWnJISW1LV0RrcmFiam5iU3ZXLTNQUUF3UGFwcFc5aFVJcU4xakdPbC05dm56bEJhM0JUVTcwOXNSVHpaS1FfU0hyQ0pHS0RXMklDNi1CbnJrYjFXbkdaNHF6ZkJfdHRIdW9pZzgtVkg3bHpVMmpSbEJKZ2d2SjYyd3NNVk9veFNpWXRHb2FSSlRPdV9MMjNTOS0xOVEzdTkwZ3VTcHo4WVhCZTZPLXI2SnVBcGU1SzRNNEhRU2lxV2RaLVhkS3pURDlZcERuaUZzbVRJT1NRc29kQmNSQWJXNEZKSHpqd2VRZUo1cFFNaUVaZHdNRWs4Yjlqd0NyTTVLeWg5Z2lRd1FFRHFlTnE3dkVnaHlfaWh2Y2tkeUtpSGJuSlFtVVFUMHBXTGg2cm1vamRwR05HY3djRUJrMUZfMWoyUVR1LXQ4cWE3c2JFQ3VfemJRSUNhRGlQcl9PZkFtSXFNaGM5eHJjOVg1SkFPekE3ODZMX3B2b0ZKUGljX2tsYlM5SmNTVDJ3YjBhS1BTYTlWQXV4SGNaeFZ6bnc2dTVwM0xXSXRULU1ibmgzM0V3YjdzbnRobFVYTUcwVWR6ZTRYQmQwdE5PeEV4bEF6TlpleUt2dkdpRkFYRWJPa2RtQ0w4cl83WlFSTzVieFQ1Nk1nZks5akZjQlhIb2FhV3hwUjBCQTBrQTBXWXI2c1FUNUUtN3p4OUN5Q2FZMm5QUGVFZ3dMMHFiZXpF?oc=5",
-        "publishedAt": "Wed, 18 Nov 2026 12:30:30 GMT",
-        "source": null
-      },
-      {
-        "title": "日月光投控（3711）：全球封測龍頭剛上AI列車，獲利翻倍還沒到極限？ - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNUUQwMzJhRnBTSzVZTEVlc3dkQVd3Y0pkOVZ2LWhKMXRyakZmRGFlNUNUekk2NkRJN0xtSnZuQWN2Rm92dlNlYlFoTG1tb05hcnlGZjZIdW9WTndGSmdQWEl0YVhETEJkZkdsX3lFVlQ4S0w5TktzM3ZrVWxYSWRQcHgyX3FWUmtWQzMwVTF6Yks5eTFObnBiOE8tWk82dlh6TXRfYWlhdzhkUUZUa3d1WG5sb3MtejI3TjJVeTFLVXFTR0R5T2plcUlSNGZlb0diN1cyNk1VYnpyNThjRjRUQUU4bnZPbmVLMC1jNG1QZUtqTm96ODduQUFpRWlVS0xlbXZYS0N6aFVHTXFhUzNQRE9IdnBBWkhkZGgycTJQRC1MZ2x3b2xicDNUak9fTjdRTmxnbTdPQ196Y1ZlOUhfMERuQ3ptV1FJdEZBTFRVbkNReGRJdTdlOFJRZGFrZXlkOFRVTmdxbE44Nm9za05oWFRqd2s5eGVCX0R0dVlsd19lNGE4RkZN?oc=5",
-        "publishedAt": "Wed, 20 May 2026 07:00:00 GMT",
-        "source": null
-      },
-      {
-        "title": "3711 日月光投控- 日月光在2027年的大爆發預期。 我一直提醒大家，AI晶片越... - 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2djdPMjVIc0V4NUo2dnNtN0FQTG95Q1FRS0pidW5Gd3VwLXplVmtyRHlsYU1NUjZSSk9kYW5MTndSSDdybE9ZUmQ5ZHppZXN0VjhfOVVRdEs?oc=5",
-        "publishedAt": "Tue, 21 Jul 2026 07:00:00 GMT",
-        "source": null
-      },
-      {
-        "title": "三大法人買賣超 – 外資買超(3711)日月光投控、(2382)廣達，投信買超(2360)致茂、(1815)富喬，法人合計買超220.81億元 - 永豐金證券",
-        "link": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxNbmE5TXNXRTgwaWdMT0c0aVVvNU9Zd0Jac1UwUlpUcnkzQlMyUDRGUkZlajFkbFRvMTBsLTBBTG51X3l5SnlOZXJWcnZqRUtORExBUFVFODFERHZvLTRqcTYxWlNiRTNBY1RmVXE4WDdVbU1zLUVsc0NsVElHbzVZLWJsNkU4MjdNSkFMRzRjVXVSREZha3JhbnFHQlNLeHJIQWU0VHJfTkw4N3JoZ1k1OG1yVm4tT3pncUt1QTJJc0ZaQ05MSFNHRzBpb3V0UXNFSnpwYmlxZmVUdnVKN2ZHbVRpVGktZ2JZTGxybUQ4dnh5UV9LNmlZcjdRQjhwR0IzTDdLWHI0QmdrbFdSZHczQ3JDSUxnLXVtN2hJZWJHZHF1LXlFMVI0bV8wblJRY1ZOQmtGeHFXMDdCaThsTEZhbXZWSmRlR2lXRUFaTkNHMC1BVElxa2lDenVWSWtiTi15Y0VLRE1ES3p6R3V2eUpQYURHTFJCWWM3WXRNY1hIaUNQNTZFN2lqYlJQU0gwNklvOUtERWI2Wlpyd2pFdDgyYnZvLUhuM0ZxSGhWbmppSkMwUklMWTN4VUxnZTdNcG82ZHNYR1ByUlR2UVlVQ3hOSXByZ0w2ZHlIRk5YTVNMUmdMMG1SZmZaZ3RRdGxCTG9sWHBjYW0xRjExZVFIbUtORXQzLUgwVVJhUjdpYlRDQjJ4UGozMGdRNzJKX2lOT25EbFN1Vm90UWhmSHpMNTFuZ0pVcmtnOVBCX0E2Q09SREloS0tudXlpV2w5VVgtRzVwaWlpZ084bjFhT0x0Sk5Z?oc=5",
-        "publishedAt": "Wed, 09 Sep 2026 07:00:00 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 6,
-    "attentionReasons": [
-      "風險燈號偏高",
-      "走勢轉弱",
-      "近期有 1 則相關新聞"
+      "近期有 4 則相關新聞",
+      "新聞含重大字眼，建議留意"
     ]
   },
   {
     "code": "3037",
     "name": "欣興",
-    "lastClose": 662,
-    "lastDate": "2026-11-19",
-    "changePct": 3.92,
+    "lastClose": 596,
+    "lastDate": "2026-11-20",
+    "changePct": -9.97,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "down",
@@ -115,35 +67,81 @@
     },
     "news": [
       {
-        "title": "3037 欣興- 提供大家參考～覺得值得期待- 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qcFNIdXNlc1ZWTkdacmsyOENQNUZhSk8zQnJVN25kaHpTM1FGcjY5NXB3WGxnZy1BZkRCMVB5Y3E1QjdrWlhHOEQ0a1BiRHdfM3JKUldJMFc?oc=5",
-        "publishedAt": "Wed, 18 Nov 2026 18:37:43 GMT",
+        "title": "台股連2日狂殺逾4200點！欣興、景碩、台光電同步跌停江國中曝3天變盤關鍵、陳龍急喊「先別動」 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOSDFPakZ0Wjlra0M2aDRfbTRqUThGOWE0NDI0RWhIb3ZDX0twQU03amdKTkZjemJQS1AyU0ZqUU1FU2p5dndOaWpWUnlGa3pvRVZLbzBVRnR5MnpDN3NuVHMwaHpYQWhuMmtTNlZzTzJnOTRkaXZzTktCY0hJeE1nV1RJVjJ3d1hXdjU5WXVaeE9lbkdTeDBSSjJBNHktcERWMUxPbDJ1LTZRa1UtTUM4VFU0RVFPOXpXSXZyVm52X2k0S2tEMDNoZXhDZHdkU2VRSWxieXZ2X0ZzaThIY1JBYVMwT3ZNN0x2VHNTRXd1MThzeVBPa0JNTHMybi1lOWhBb0tpeDBjT0lndnFieTF2bmNNbnNGY05ucFp5cHZ2QjY5UWtGeDdobGdXTy1ybV8yUHBfRUQ0UjlHSF9mZGpXdExNcU5QdXM4TnZuczloSWpKc3hjMm5sWEdvQzl5RzBpOFBtNU9pcWpEdmEwU2Q0TG1vbjFjWS1DdjR2U3dUbEYyX3dCMVJQVWRNcEZCR3VGMDBEYk1wNG1laHlEczM4UVlXRGY2MElBOFFvOElFOFhtSkxrLThoYg?oc=5",
+        "publishedAt": "Fri, 20 Nov 2026 04:21:20 GMT",
         "source": null
       },
       {
-        "title": "PCB慘綠一片！25檔跌停ABF載板欣興景碩南電、CCL淪重災區 玻纖布「這檔黑馬」也逃不掉 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxObTlJaEZ4QjVXa3Q0RmhKeUt0Q2ZIQmotTDNjUmxNTTllUUxCc3AwdC1VVEVoX0hHR3I3d0tCd2NqX0dvVS1GWVp6a1JWcDlTZzJRQkpkZnVXY3lLcDVTb2M3RkwwM2RXWTNPTVBtMlllQzZ0UHhtNVE0TG9ERms0Vk9hTXN5SE8xTTJ6dGY3QUxMTUFCZTNzLWc5VlZSa1RWT0d1dm05RkItUWtrYVVpYThvemN1YXRfTjhlUHVrdzhvYWxxeWl6WHg5YWFmUkxTTG1Uc084YmJjWXVmTVZpckFoWXV4Ykw1NndiRGF6ajcyLXR2X1ZLYXVHbVoyM2cyTEVqYk1wX09vYk90YkRwTk93b01Sb2FyVGNFVmZBaEQwWHljeGR4LUpPWE9BWFpaVklHRm1sQzFDc2lCSTdFZ0RQUG11Z2RTZHN3aks2TDBXZVB6dTVvaE5MeC1nekFCdnJrc2FvX3dtZEk?oc=5",
-        "publishedAt": "Thu, 19 Nov 2026 03:34:54 GMT",
+        "title": "焦點股》欣興：黃仁勳離職受害股 本週暴跌31.6％ - 自由時報",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xRlZaU29xWDdTNVlBX2xjRDlzb3V4dFJzcURaQlk0LVptb1NaXzJUS0I0dWdCR1VNMEJNc3BqaEFqY1NtNF9rcDlGQXp5MEJ4NTc0eEhqSkI?oc=5",
+        "publishedAt": "Fri, 20 Nov 2026 02:11:01 GMT",
         "source": null
       },
       {
-        "title": "「600元以下的欣興是禮物？」股民發文求解 網友神回笑翻 - 自由時報",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiV1dRVE9SUjFFVFlKRnVxWXQzNUNVdDVFMkhNb1Y0NHljODhySlBKWXZFaFRYSWRlYk9iZ3VUcUdHSkdzOGFRbnhiRnp1Wi1ycTk0czNKclQ?oc=5",
-        "publishedAt": "Thu, 19 Nov 2026 04:38:30 GMT",
+        "title": "台股違約交割連環爆！2天12檔金額達5.56億 創意、欣興、世界全上榜 | CTWANT - LINE TODAY",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vSjljT3hCY1VIMHFDNWxVdXp2WFBHVU9zVUJMTnFTZnZTSnJHMTRCUVhDTklXMDJnUDJXeXZWc3ZsRWFkTEc4OEx6N1cweGxBTzl1ZkZB?oc=5",
+        "publishedAt": "Thu, 19 Nov 2026 22:40:20 GMT",
         "source": null
       },
       {
-        "title": "2026 ABF載板產業全解析：美日韓台競爭力總評比，欣興、南電、景碩概念股機會一次看｜股市話題 - 永豐金證券",
-        "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxQM20tSktVTFFwbVk0LTd5OENBMGZnSTM4VEduUWFsX0owUTJBVk05aFlEWTNqdUptdW9EdlF4WlZXeFd4TjNYejBGRzRXV1lfeFVud05LUkdxbzdHeGtETW9DTXlUS3NGRTA5aV9ieXEtekY1LXJFX1lXUzFHT2Z2a1k2SzZpTVJvbUJaWXF0UEhONm1yZEQxVmxYXzF0NjBwYTFYMEhNWDhjeG9MX2syYmpveGczMERyWFRUVC1adGI3aWZySkpkYV9FTlltaHk3MzIwVUpZMnh6OWNlRm5pVHEyZ3ZSY2JsaHhza094SEpGZHBlNUIwZzZzdUVrYUJacFRJdTk1WjgxamxkbDV6RmVtdDFWX2QzVWhiX2haRnpsZGZnQ1Q1Rk94eTZmN0dpZXpkdmdWREhWYm81QzBoQnZLR3pfbS1DV0Y4Y0ozM2RJRlpZZ0dwbDlhenhzR0tLN2F5X3JlRkFjZTRyTXdmS3MzaGxyWjIxTkxsQWM1ZXRTVXZJMWt1VG0zd2NLdWRlT0hscEk4NHdZYWVHSFNTWDAyQVJOcFBzMmZrS1ZMU3hmTHptSTBEVGd6MjlWRG1oeDh0Yl91TDZxOUVza1ZOTkkyejFvZEZzdVBMc2o1VmgxYXdMRUxKN0VLcWZaWElJVk54V25TNTRONDlmakhRSkJaN2FTbHllZDJiMTdnR1BHWk5kZGdyRWpxME1iU1plazJiNjF2ZzVycjY5ZG4wa2JR?oc=5",
-        "publishedAt": "Thu, 19 Nov 2026 07:43:34 GMT",
+        "title": "欣興、南電、景碩股價全腰斬，該停損還是繼續撐？2027靠「大封裝時代」翻身？PCB女王揭選股關鍵 - 今周刊",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXBkdlVsUXAxT0NLUlEzRnd4Njczc1VGVzhlem0wb0kwR2pMaEVWRmRpSE12c1JfbUdCTU15X0lFRDdzZGlZYnd4S2hkSWFBOVdvSE00SGN0RXpxVUtmS3BRZTFFODhOMlpHMXlYNGFRbC1iTDZQTVltWDNmNjNYZQ?oc=5",
+        "publishedAt": "Wed, 18 Nov 2026 03:53:00 GMT",
         "source": null
       }
     ],
-    "attentionScore": 6,
+    "attentionScore": 8,
     "attentionReasons": [
       "風險燈號偏高",
       "走勢轉弱",
-      "近期有 4 則相關新聞"
+      "近期有 3 則相關新聞",
+      "新聞含重大字眼，建議留意"
+    ]
+  },
+  {
+    "code": "1326",
+    "name": "台化",
+    "lastClose": 62.7,
+    "lastDate": "2026-11-20",
+    "changePct": -7.66,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "down",
+    "trendReason": "短期股價落在中期均線之下，走勢動能偏弱，建議留意是否有進一步利空消息。",
+    "segment": null,
+    "news": [
+      {
+        "title": "又有韭菜翻車！今再爆1.29億元違約交割 台化、世界等3檔中箭 - Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNa1JmSkJRLWtaZVZDWVEyQ2dBR3FEU2Qxc2M4cWV1aUJ3OXRBMmt2WUJSenNKczlfN3ZhRXcwM1lFR0hWVWdKd1B4RlIzVGdkTkhOUm96UWZFeVZQUmJmOEQ1ckVTUXhyMkRibUl3a1RKQ0U2dXNDOVdTMjMzRHpaMDFMWlRHODZNYkZ3NXBxU0dYWHZjemdSSzVPN2NkOTJyaUVSUkU0NlMzTjY1cWY5UTBYRjJ4RF9GbEtWTWIwU1paSXJQT09MRTVHelJWV0U2Q0p6SzllM3E5S2Y1ekdnUWswelhjZUFjemJaMmtvaEV5dUxkRjk4bVZCa1FhTUxZV1E0c3JXQWtOU3lDdXVrb183ek1WS3pUZ013aUF1NzVzY3ZyMWREUGZ4WDNNSWtoZHlnTm5UR2pkbks5dGx6eVExSU5hQ1FuN0VuVGF3X3FxWHk4MkVoa0dWbzk1WXA4bEtDYTVjU0hCZWpSWVIxZjBSRnJhV3FnMmRLSXl6VDVTeXdIY1RkQlhUNUg0QQ?oc=5",
+        "publishedAt": "Thu, 19 Nov 2026 10:17:06 GMT",
+        "source": null
+      },
+      {
+        "title": "台化、世界、萬泰科 爆違約交割1.28億元 - 經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rMExmNEk3M1UtUjNJTnhYZzVEbWVmLThxbXd0aGJ0aG9uS2VZMElqOUFtREY1eHRKYlZsU01NU0RFTnBZRUpTWGVHQ2szQjl5ZllzNFIxckc0QdIBX0FVX3lxTE80TW9wS2xoemJVNVN0YkRMdmdlUURvWjBaSDhON3BleHZtZUR2X2IzMl9RZHlQSEJtYU5GbDFXNlFaQ3hnSFdrNTZlU01lYlh5bjhQQXVwR2tGaGdTMXdB?oc=5",
+        "publishedAt": "Thu, 19 Nov 2026 20:06:38 GMT",
+        "source": null
+      },
+      {
+        "title": "【即時新聞】最新台化爆出逾4172萬元違約交割事件！大盤震盪引發市場關注 - CMoney投資網誌",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzJYQWNja0E4RzdoUmpKOUJQMDFER0hLWEhCYUNyNmViS0FJZVpEeUJKMWgyUEplVDRpdk4yWnJyTEhjU1FkQ1JnWTNaZy1mTWdFQWxodVJ0QkxObXM4RGE4TUVYYlRGRUVnMkRaa2MwdVlBM2ZFTWtEYlA1TVk4UkRUbHlRM2tncm5lT2IwUjc?oc=5",
+        "publishedAt": "Thu, 19 Nov 2026 22:34:10 GMT",
+        "source": null
+      },
+      {
+        "title": "1326 台化 - 尾盤成交價是瘋了嗎？ - 股市爆料同學會 - CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55QUtoZ3dsMVBVbHZ3WkdCV09TdzJVelBIYW45S1JYUEN4aXJ3TWdjRHJQTXBlQlVocEN3R0paOG0tLVh6Rk5hdTRBRm9TUzM0cnNVeEJQY2s?oc=5",
+        "publishedAt": "Thu, 19 Nov 2026 09:25:29 GMT",
+        "source": null
+      }
+    ],
+    "attentionScore": 8,
+    "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉弱",
+      "近期有 4 則相關新聞",
+      "新聞含重大字眼，建議留意"
     ]
   }
 ]
