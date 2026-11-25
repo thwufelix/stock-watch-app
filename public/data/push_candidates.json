@@ -1,10 +1,33 @@
 [
   {
+    "code": "2330",
+    "name": "台積電",
+    "lastClose": 2230,
+    "lastDate": "2026-11-25",
+    "changePct": 9.85,
+    "riskTier": "high",
+    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
+    "trend": "down",
+    "trendReason": "短期股價落在中期均線之下，走勢動能偏弱，建議留意是否有進一步利空消息。",
+    "segment": {
+      "chainId": "semiconductor",
+      "chainName": "半導體產業鏈",
+      "segmentId": "foundry",
+      "segmentName": "晶圓代工"
+    },
+    "news": [],
+    "attentionScore": 5,
+    "attentionReasons": [
+      "風險燈號偏高",
+      "走勢轉弱"
+    ]
+  },
+  {
     "code": "2454",
     "name": "聯發科",
-    "lastClose": 3685,
-    "lastDate": "2026-11-24",
-    "changePct": 10,
+    "lastClose": 4050,
+    "lastDate": "2026-11-25",
+    "changePct": 9.91,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "down",
@@ -15,91 +38,19 @@
       "segmentId": "ic_design",
       "segmentName": "IC設計"
     },
-    "news": [
-      {
-        "title": "聯發科（2454）做什麼？Q3財報優於預期、股價反彈連攻漲停，AI ASIC成長動能完整解析｜豐雲學堂2026 年 11 月 - 永豐金證券",
-        "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNVGpDS0hkczNTTXFQX3FOX3ZGVThkdDZsYk1sMkI2WkJEX1J3ME1RYnJqSUV4Z3FGbi1sZk9FUDE1bFZnbUJHZ015NEdMbFBfNHl5OGdvTzdHeS1mVE9QLVdEcVh4TGxwT0wyblZRYi1LeGVUZ1VwY3hWVHVta3pYNG9weUVrdmM2YUJfTjJjVnB1c0VaaDBnZVhDX29yc1hKMXNrbjVsVDRxNjFLd21TSFBKckgwUlJhRTE5b0JHZEZ0RzZmenI4VHBMREQxUHVRTlY0UnRIdnhqdDJkOWwxZ183dDl1WHNoaVdES21NajhFeTZiT0JqVWdweldFU3BTM0VzWFQ1MTlDSnFsWXJCXzJlTG1QZWdMSXR0QkVZc2JwbnIySDJ3dkNkaUR5Wm5fNTZpSjhLMU5yNF95UXFNUWEzNUphc1F0QUFEdXFZeGFaODhLdXVoUENjb0tGSFJJWTNsRDhxOVhROFRPVUZTSVZBbjlKdnBrSE9rOE9aMnFNX1pFV3lPaU9ZSXFnaHFvNDJOd1FWTkVQX2Y2aGF1U0t5MjRxNDgwMmd5NzczQ21UU18xMV9TbFZxcEthRWRYZTQzQlFvTU5uQWYtZmNhaEJaWllXaVpSRjMzSFBqZXB1RHo4dEE?oc=5",
-        "publishedAt": "Tue, 24 Nov 2026 07:22:27 GMT",
-        "source": null
-      },
-      {
-        "title": "2454 聯發科 - 噴不停😎 - 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43RENpWnFvYkJHRWx6bXFZMUJ5Q0ZQMjVhNEJYSDNLb1UzYXVzSFVYMTBvUzF0Q05EX0VtMGtfd0M3bWZUWHQzZGhHWFF1WmNoUWt2dmRDSkc?oc=5",
-        "publishedAt": "Tue, 24 Nov 2026 08:12:00 GMT",
-        "source": null
-      },
-      {
-        "title": "台股爆漲3300點！台積電、聯發科、鴻海全亮燈 近600家飆漲停 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNb1F4Q2xMNVRtVkhWWEZGdHMySXdCQ296Z1FqcmZPSXVzdllicW1MYkhnZC1DaDR4aXBSd0JjaGg3dnhsTFlvWTVOT2VCdndleVltc1BaSjVqaUl6WHk5WXpBOXpwNGdveUM5eC1vUWQ4MEFsLXUzR2ROTVViTjNlSklkeXRob1lnaG1BXzhaNUktRU1xWE9FbmpIU0o1dnFSa3hLUGFyVVBoelFMbkdPQ05rcVBBWVNMSGNrcmNhRTFMZG5ZdzBvcTJxdTdhbDY3am5fYllvOWJiLWpaZjltN2JfRmZ0R1F1bFpESU00ZE9EcjhBbXBBT0JCWlAweldRUTE3NjJpRm10Ymc3dE1NUVBDY1NKSzFKaU5jMVlWaHNvOEs3NVJmT3AyTFh3MGtLNjYtT21RVEpwTWdTU0ZpZWVqUl9LVmp5UVZtSFh4MFRNNkM0YnotWHh2S3hNTktmSlNScDdB?oc=5",
-        "publishedAt": "Tue, 24 Nov 2026 01:26:25 GMT",
-        "source": null
-      },
-      {
-        "title": "台股注入強心針？台達電、聯發科、南亞3檔「國安基金護盤概念股」飆漲停 吸金1155億元 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxQOEUtZ1VmQkZYeFFFU214M3NhSC1ocGpVLWlINEtmUXpuWW1INm9rWXlJeXZ2Nmw5M09yVVZBbld3VkFTeTNtT0pqZkdhN191LV80cURLVzFNWnB0aGM0b0JKVURjODdKTDZaWjZNVlQwLU82eDdoNWRvdHNTWnpLLWkzeFBHWVpRcjAzMFhqTUVBQ2tINmIzT1VDNHd5NWJNNk0zUXZITUJZNWh2WVBpd0RlVm5YbTJVUzh4VDRGVjhyN3FVN1l4YW1yaXNqanNNaUNRaXRrMkVJYTBrQnA3anRqVzdzMEh6Ql8zMnBVam1ualh1Nkh2SXhrUTVmd25CVkdybV9pNTNmZURwTHQ5OXVjLWRra1lXUXEwSnAtTENieU4waDRWZmVkYTVGUXdwTmQxN2NTU01MSmo5WXlTQ3MydUd6XzlyQzJaNTMtbzRGMFFiamF4MXZsOFU3eGVLZThHblowdFhKX0tWX2o0Rkd1eEMtTFRPUy1fSlE4WFVKUk1SYjZmT0lqajdjRV94STF3ckNSU01vTzBMMllOYkQtQzhPWWdVZkFSaHRTTDQ1S053N1ZhbU1Tdm9icHVkLU5mVUxnanVoRktZRmZWZjlPZHYza0t0QmNKTTVaWDlWR3RLWTdsbVhncnhuRHlIWUIyd0VTb3RBZ0xQaVdrdlg4dFpHRmExTmRDckFOSzZDSi10dTdoQ2RuZVhwWDg?oc=5",
-        "publishedAt": "Mon, 23 Nov 2026 06:22:27 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 8,
+    "news": [],
+    "attentionScore": 5,
     "attentionReasons": [
       "風險燈號偏高",
-      "走勢轉弱",
-      "近期有 4 則相關新聞",
-      "新聞含重大字眼，建議留意"
+      "走勢轉弱"
     ]
   },
   {
-    "code": "2327",
-    "name": "國巨",
-    "lastClose": 310,
-    "lastDate": "2026-11-24",
-    "changePct": 4.73,
-    "riskTier": "high",
-    "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
-    "trend": "down",
-    "trendReason": "短期股價落在中期均線之下，走勢動能偏弱，建議留意是否有進一步利空消息。",
-    "segment": null,
-    "news": [
-      {
-        "title": "見朋友買國巨「秒放棄吵架」！網笑：仇人都釋懷 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNU2Frc2dtRDVOSU96Z1VhbGtzcDV6QnlieGgxcC1HTFdlbnlUNzAxR2JuNjhvZE1sOEVvd2JJNWp4V1VqeHRMTHhwdG9PTl9OOVJzU2wtWUV4Tl9kRFN3X2UyazRQUXRRM1lTREtXQUo0WmNNenhaMEI4ZV9LbDN3T3haQlBSSXFGVjNmR2MzTWZWeEVGVlA2dUlHbVZ4S2pUSV8wVHY1cmg3OVFmbWlwRE5FdTQ0QTBXb01Xb2FxLUtJY2M0dFlwZ3B4aTVVcTNta2xWcTlGbzZyU2ZQUVRMekNYc2EzVFlfQVB3MDh3V1NKYUlqS2xneGZwQ0pOUTV5amZBQXQtZEM2b2YyYjdhNUJEYkZRTEROc2hpczVTZDRCSHdyQ2VzMlVFenZZdm1CRllGNk52WQ?oc=5",
-        "publishedAt": "Sun, 22 Nov 2026 09:21:28 GMT",
-        "source": null
-      },
-      {
-        "title": "國巨*盤中急衝315元！300元關卡失而復得 股民看法兩極 - 自由時報",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sS204dGJsLWxmWHBZTDdsNEpKRHZscUZZT1VuS2oxNTZZVTBVSUdJU3h2OE5KS1JhSm8wdE8ydnktc1p3NkMyekROR04wWmF0RlRoQTM0azE?oc=5",
-        "publishedAt": "Mon, 23 Nov 2026 05:24:37 GMT",
-        "source": null
-      },
-      {
-        "title": "國巨本益比殺回原形！CPO、封測產能遲到，聯亞、上詮、波若威財報一比見真章 - 玩股網",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rSFZxVmFZNWVFZnhSbC1iMDdENldWVGNYSld5dzhfYUNjNVRsY0g0cnNBWlZVMWpJZ1huR0k2eXdaOHVTQzNudW10Y3RaZDRXRzFhTW40cw?oc=5",
-        "publishedAt": "Mon, 23 Nov 2026 07:44:47 GMT",
-        "source": null
-      },
-      {
-        "title": "國巨慘摔逾7成！百萬元買進縮水剩28萬 外資曾喊到1450元 - TVBS新聞網",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wRmFQeENUSUFrRVBZd3N4QjY1djZEb3I0WVZQS2ZrTjdUdWJqZU4wMk5CcGdzOGI1Vk90RDZndTlVa1psR0Nzamt2dkxIZTQ?oc=5",
-        "publishedAt": "Mon, 23 Nov 2026 03:08:00 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 8,
-    "attentionReasons": [
-      "風險燈號偏高",
-      "走勢轉弱",
-      "近期有 3 則相關新聞",
-      "新聞含重大字眼，建議留意"
-    ]
-  },
-  {
-    "code": "3231",
-    "name": "緯創",
-    "lastClose": 148.5,
-    "lastDate": "2026-11-24",
-    "changePct": 1.02,
+    "code": "2303",
+    "name": "聯電",
+    "lastClose": 97.1,
+    "lastDate": "2026-11-25",
+    "changePct": 9.97,
     "riskTier": "high",
     "riskReason": "近期股價波動明顯放大，短線漲跌幅度較大，請留意部位大小。",
     "trend": "down",
@@ -107,41 +58,14 @@
     "segment": {
       "chainId": "semiconductor",
       "chainName": "半導體產業鏈",
-      "segmentId": "downstream",
-      "segmentName": "下游應用／系統廠"
+      "segmentId": "foundry",
+      "segmentName": "晶圓代工"
     },
-    "news": [
-      {
-        "title": "3231 緯創- 法說會完蛋了.....（太好- 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3RTNJa09BSmVfWW9mMDFNMEU2dDduYUZoNGF4VVl4R0tTQU1EZjZwTnNNSUMtbGNQS1NYbm1iZHpHRUp4M2xwaXBjSXNqS0RramxaWXlVNzE?oc=5",
-        "publishedAt": "Tue, 24 Nov 2026 09:04:46 GMT",
-        "source": null
-      },
-      {
-        "title": "86檔「黃仁勳概念股」紅通通 台積電鴻海緯創65檔飆漲停 - Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPS2ZUTXZqTE5JM2VqN0NaUTFUSHZnMXRJck5vUUNLZ3FiX0tfZ1JtZTJLU1l0QUF1VDFnNm9vOUFYX1k5WHRST19RQ0xHWkljZFlzTkctaHQwU2NDc2d6eFF0U2dSem8zLTBHZ185bktpejRwWmZ2TUNJdEt5aVVZbTVZOWdiYUF6M0hHTWY5V193WUFXUjlJN0RJbkl2WlotTVVKRnBfSThYUXdzWktMVTZISHM1aGpIa3c4SHJqMl94SWFIZ0FvRjItNWg2UzNhai1QOVAxM2dnVmpjLW1ta29TWjUyZC1SNmxiRmk2S3NBaW5QNEE2OVlueGNwTjk0V21qeS1OajBiYVphQVV1SWNGb0FUZnVaVTFJS2hmWWhvRnBiYlBnZElFRXNQMDV5cFZ1NkZxek9LeFFQeGd5VnRyX3pJRXR1WjgxamdOb29SSzZhc25pNXVIN3RXdmRERG9OSUdpcDlST3M3ZXFJUEFlTno0QQ?oc=5",
-        "publishedAt": "Tue, 24 Nov 2026 02:15:26 GMT",
-        "source": null
-      },
-      {
-        "title": "3231 緯創- 假如我算錯我認輸,萬一算對年底跟明年股價,大機構要不要炒緯創- 股市爆料同學會 - CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PSDdlcEV3YXNubTVrV1BNbmVpUXdrQ2MxNTg1T2VCeUZVMjA1aU5xVUY2SFAzWTlSUDJyWUdqRU9vTkdrUy1nQkFDc3ZYdWM1bG5YNjBuc2Y?oc=5",
-        "publishedAt": "Tue, 24 Nov 2026 06:19:24 GMT",
-        "source": null
-      },
-      {
-        "title": "鴻海(2317) AI伺服器市占衝50%，緯創(3231)等供應鏈受惠？機櫃、資料中心成新戰場｜股市話題｜豐雲學堂2026 年 11 月 - 永豐金證券",
-        "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxOTlcyRFh6cDJJY1VsMmNzWk5pbGJPUDRnX05Bb0RHSXlYaHRPa1pyNDNuNzRDVTlvc0UyMFNVRmxqRml4aXFKa0JfLWZCMF9CM0FEVUtEOHhtRTZQXzFzLW1QNDlTRlVOYXlfNVJNS3Z1WjExOFFTVmJBZDRySG1wTzFHZUw1anpWMHVGeEhBTDlnLU03d3VwNFlUZ1FkTm5vVmtEdk00Q2pCZ25kS2t3MVpLZDJfM1MxM0VnUXB6WVhRUXdpQ1FpMVQ3UTVhaWJLXzdnaEFidHE2UEVDYVB2aThvc1BWS3JPQWJYV0RYWWtvQUpJejZaMEMyUk5BclV1UmtkNmFYelJlZ1pnOGtEMG9YVGVOWEc4VnZqdUZTaFM0dTNuOTdVQWhxX1A4a1FGRVh6UUZYVFh2dG1qZm9MTWR3U1lJRlFVZ1lxUjR5cGpTeVR4Q2U0UU1uWmpMT3dkd20wN2FJc0JFRGo5b3hVel9GZnBFanctempHa21HRC1hczdDbkRsZTYwUG8yVXhXaUJPb29pVlR5MDlvd05ld0I3WVBCR1pGd0J1ZWNORThLbzlRQmRBdXdYTkdocDBqa1E2emxDX2JHLW1PanJqdnlJV0FkRkxxcnV4Y3I3b2lLSWlIT1RCM1RkQjUzWTctYnZMNms5R0VnLXdSbS02bEFn?oc=5",
-        "publishedAt": "Mon, 09 Nov 2026 08:00:00 GMT",
-        "source": null
-      }
-    ],
-    "attentionScore": 8,
+    "news": [],
+    "attentionScore": 5,
     "attentionReasons": [
       "風險燈號偏高",
-      "走勢轉弱",
-      "近期有 3 則相關新聞",
-      "新聞含重大字眼，建議留意"
+      "走勢轉弱"
     ]
   }
 ]
